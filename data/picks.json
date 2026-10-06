@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-05",
-  "updated": "2026-10-05T10:45:00-07:00",
-  "headline": "Monday slate: ALDS Game 2s (White Sox @ Guardians, Yankees @ Rays), Falcons @ Saints on Monday Night Football, a 4-game NHL card, Nations League at 11:45 AM PT (France-Belgium, Italy-Türkiye), and NBA preseason. No WNBA today — the semis resume Wednesday. Golf is Baycurrent Classic futures.",
+  "date": "2026-10-06",
+  "updated": "2026-10-06T10:15:00-07:00",
+  "headline": "Tuesday slate: NLDS Game 3s (Dodgers @ Braves 3:00 PM PT, Brewers @ Padres 6:30 PM PT), a 9-game NHL card, and Nations League at 11:45 AM PT (Croatia-Spain, England-Czechia). No NFL, WNBA or ALDS today.",
   "record": {
-    "label": "Last board (Fri 10/2)",
-    "wins": 9, "losses": 18, "pushes": 0, "pending": 0,
-    "units": -4.33,
-    "note": "A bad Friday: soccer went 1-5 and every NHL game bet except Boston lost. Hits: Bruins ML, Northwestern, Idaho (won outright), Shepard rebounds, Güler SOT, G. Williams under, Keefer over Hall. Thursday's three golf picks all cashed (Ben James T5, Brennan T13, Keefer T10)."
+    "label": "Yesterday (Mon 10/5)",
+    "wins": 15, "losses": 14, "pushes": 0, "pending": 2,
+    "units": 3.73,
+    "note": "Falcons won 45-24 and the White Sox won 4-3, so both top underdogs cashed. London (96 yds), Olise (2 goals), Italy and the Lightning -1.5 also hit. Misses: Yankees-Rays Under (5-2), Penguins (blew a lead late), and the NHL props. Baycurrent futures settle Sunday."
   },
   "notes": [
-    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3 today — stakes are trimmed after Friday.",
+    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
     "Nations League kicks off at 11:45 AM PT — bet those first or skip them.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning. Prices marked 'estimate' weren't confirmed at a book — check yours.",
     "Same-game parlay (SGP) prices are set by the book and pay less than the multiplied odds shown here."
@@ -19,116 +19,88 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Friday these went 3-5 (the Bruins, Shepard and Güler hit; the soccer and totals didn't). Two underdogs lead the way today.",
+      "slate": "The strongest edges across today's card. Monday these went 6-3 (+2.9u): the Falcons, White Sox, London and Olise all hit. Today leans on starting-pitching and goalie edges.",
       "straight": [
         {
-          "pick": "Atlanta Falcons ML",
+          "pick": "San Diego Padres ML",
           "market": "Moneyline",
-          "odds": 112,
+          "odds": -136,
           "units": 1,
           "confidence": 3,
-          "event": "NFL · Falcons @ Saints (MNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "Atlanta has won the last two meetings and gets Michael Penix Jr. back; he ranked top-4 in EPA per dropback last week. New Orleans is thin at linebacker and missing three front-seven starters, and its defense ranks 26th in points allowed (27.7 per game). Atlanta's defense ranks 3rd in success rate. The line has already moved from Saints -2.5 to -1.5. Playable to +100; if it flips to Falcons favored, take the spread instead.",
+          "event": "NLDS Game 3 · Brewers @ Padres",
+          "time": "6:30 PM PT",
+          "reasoning": "This is the biggest starting-pitcher mismatch of the day. Dustin May has a 5.65 ERA in 10 starts since Milwaukee traded for him and rarely goes deep. Nick Pivetta had a 1.45 ERA over four September starts. San Diego faces elimination at home, where it won more than 50 games this season. Covers and SI both pick the Padres. Playable to -150.",
           "sources": [
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"},
-            {"title": "RG.org best bets Oct 5", "url": "https://rg.org/news/gambling-industry/best-bets-today-falcons-saints-yankees-rays-october-5-2026"},
-            {"title": "Yahoo betting preview", "url": "https://sports.yahoo.com/nfl/betting/article/atlanta-falcons-at-new-orleans-saints-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-030417874.html"}
+            {"title": "Covers NLDS Game 3 preview", "url": "https://www.covers.com/mlb/brewers-vs-padres-prediction-picks-odds-tuesday-10-6-2026"},
+            {"title": "SI preview", "url": "https://www.si.com/betting/brewers-vs-padres-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m470da2dzb"}
           ]
         },
         {
-          "pick": "Chicago White Sox ML",
+          "pick": "St. Louis Blues ML",
           "market": "Moneyline",
-          "odds": 135,
+          "odds": -142,
           "units": 0.75,
           "confidence": 3,
-          "event": "ALDS Game 2 · White Sox @ Guardians",
-          "time": "2:00 PM PT",
-          "reasoning": "Gavin Williams leads the AL in strikeouts, but he had a 5.03 ERA this season when pitching on extra rest, and he hasn't thrown since Sept. 25 because of Cleveland's bye. Chicago opens with Anthony Kay and then goes to Sean Burke, who has a 1.04 ERA in 17 innings against Cleveland this year. The Sox won the season series 7-6 and held Cleveland to three hits in Game 1. Covers and RG.org both take Chicago. Playable to +120.",
+          "event": "NHL · Blues @ Blackhawks",
+          "time": "5:00 PM PT",
+          "reasoning": "St. Louis just shut out Dallas 4-0 and comes in on two days' rest. Chicago is without Connor Bedard and playing its home opener. SI's best bet, and SportsBettingDime also picks the Blues. Playable to -155.",
           "sources": [
-            {"title": "Covers ALDS Game 2 preview", "url": "https://www.covers.com/mlb/white-sox-vs-guardians-prediction-picks-odds-monday-10-5-2026"},
-            {"title": "RG.org best bets Oct 5", "url": "https://rg.org/news/gambling-industry/best-bets-today-falcons-saints-yankees-rays-october-5-2026"}
+            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-mammoth-devils-blues-blackhawks-panthers-kings-2026"},
+            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-best-bets-predictions-oct-6-2026/"}
           ]
         },
         {
-          "pick": "Yankees vs Rays UNDER 6.5",
+          "pick": "Dodgers vs Braves OVER 6",
           "market": "Game total",
-          "odds": -105,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "ALDS Game 2 · Yankees @ Rays",
-          "time": "5:00 PM PT",
-          "reasoning": "Game 1 ended 1-0. Cam Schlittler (1.95 ERA, 93rd-percentile xERA) faces Freddy Peralta, who has a 3.25 ERA since joining Tampa Bay. Tampa's offense has a .293 xwOBA over the last 30 days, and both teams' over/under splits lean Under. Playable to -120.",
+          "odds": -115,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "NLDS Game 3 · Dodgers @ Braves",
+          "time": "3:00 PM PT",
+          "reasoning": "Yamamoto vs Sale is an ace matchup, which is why the total is only 6. SportsLine's model projects 7.7 runs and hits the Over about 59% of the time over 10,000 simulations. Six is low enough that a single bullpen inning can push it over. A lean, so half a unit; Monday's Under in the Yankees-Rays ace matchup lost. Playable to 6 at -125; skip at 6.5.",
           "sources": [
-            {"title": "RG.org best bets Oct 5", "url": "https://rg.org/news/gambling-industry/best-bets-today-falcons-saints-yankees-rays-october-5-2026"},
-            {"title": "FanDuel Research odds & trends", "url": "https://www.fanduel.com/research/yankees-vs-rays-mlb-odds-prediction-point-spread-over-under-and-betting-trends-alds-game-2-10-5-2026"},
-            {"title": "Covers ALDS Game 2 preview", "url": "https://www.covers.com/mlb/yankees-vs-rays-prediction-picks-odds-monday-10-5-2026"}
+            {"title": "CBS/SportsLine model pick", "url": "https://www.cbssports.com/betting/news/dodger-braves-prediction-odds-line-time-2026-mlb-nlds-game-3-picks-for-tuesday/"}
           ]
         }
       ],
       "parlay": [
         {
-          "title": "Two Favorites vs. Weakened Opponents",
+          "title": "Pitching + Rest Double",
           "legs": [
-            {"pick": "Penguins ML", "odds": -175, "event": "NHL · WPG @ PIT"},
-            {"pick": "Italy ML", "odds": -225, "event": "Nations League · ITA vs TUR"}
+            {"pick": "Padres ML", "odds": -136, "event": "MLB · MIL @ SD"},
+            {"pick": "Blues ML", "odds": -142, "event": "NHL · STL @ CHI"}
           ],
           "units": 0.5,
           "confidence": 3,
           "sgp": false,
-          "reasoning": "Winnipeg is on a back-to-back with backup Clay Stevenson (five NHL games) in net, against a Pittsburgh team that has scored 13 goals in two games. Türkiye is 0-3 in the group, lost 4-1 to Italy a week ago, and is without Arda Güler (suspended) and Barış Alper Yılmaz. Two expensive favorites combine to pay a bit better than 5-to-4."
-        },
-        {
-          "title": "Monday Underdog Double",
-          "legs": [
-            {"pick": "Falcons ML", "odds": 112, "event": "NFL · ATL @ NO"},
-            {"pick": "White Sox ML", "odds": 135, "event": "MLB · CWS @ CLE"}
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": false,
-          "reasoning": "The two best straight bets on the board, combined. Both are underdogs, so this pays about 4-to-1 — a quarter unit only."
+          "reasoning": "The two strongest sides on the board. The Blues game finishes first, so you'll know whether the Padres leg is live. Pays about 2-to-1."
         }
       ],
       "props": [
         {
-          "pick": "Drake London OVER 79.5 receiving yards",
+          "pick": "Nick Pivetta OVER 3.5 strikeouts",
           "market": "Player prop",
-          "odds": -115,
-          "units": 0.75,
+          "odds": -160,
+          "units": 0.5,
           "confidence": 3,
-          "event": "NFL · Falcons @ Saints",
-          "time": "5:15 PM PT",
-          "reasoning": "In the last seven games London and Penix have played together, London topped 100 yards in all but one, averaging 120 yards. Covers projects him at 86. The Saints' banged-up linebackers make the middle of the field easier to attack. Price is an estimate; playable to -130.",
+          "event": "NLDS Game 3 · Brewers @ Padres",
+          "time": "6:30 PM PT",
+          "reasoning": "He had at least four strikeouts in seven of his eight starts. A low line for a pitcher San Diego will ride in an elimination game. Expensive, so half a unit. Playable to -175.",
           "sources": [
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"}
+            {"title": "SI preview", "url": "https://www.si.com/betting/brewers-vs-padres-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m470da2dzb"}
           ]
         },
         {
-          "pick": "Evgeni Malkin 1+ assist",
+          "pick": "Sean Walker OVER 1.5 shots on goal",
           "market": "Player prop",
-          "odds": 130,
+          "odds": -110,
           "units": 0.5,
           "confidence": 3,
-          "event": "NHL · Jets @ Penguins",
-          "time": "4:30 PM PT",
-          "reasoning": "Dimers' model gives Malkin a 46.5% chance at an assist against 43.5% implied — one of its biggest edges tonight. Pittsburgh has 13 goals in two games and faces a backup goalie on a back-to-back. Plus money on a near coin flip. Playable to +115.",
+          "event": "NHL · Tuesday slate",
+          "time": "Tonight",
+          "reasoning": "This is the top edge on Dimers' NHL board: a 60.8% model probability against 52.4% implied, an 8.4% edge. Playable to -125.",
           "sources": [
-            {"title": "Dimers NHL props", "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-05-2026-ac"}
-          ]
-        },
-        {
-          "pick": "Michael Olise goal or assist",
-          "market": "Player prop",
-          "odds": -164,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "Nations League · France vs Belgium",
-          "time": "11:45 AM PT",
-          "reasoning": "With Mbappé injured, Olise is France's main creator: 14 direct goal contributions in his last 10 games, and he scored the late winner against Belgium last week. Belgium is without De Bruyne and Tielemans (both suspended) and Courtois. Playable to -180.",
-          "sources": [
-            {"title": "SportyTrader preview", "url": "https://www.sportytrader.com/en/betting-tips/france-belgium-376762/"},
-            {"title": "SI/LiveScore team news", "url": "https://www.livescore.com/en/news/football/more/france-vs-belgiumnations-league-preview-predictions-and-lineups-si/"}
+            {"title": "Dimers NHL props", "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-06-2026-ac"}
           ]
         }
       ]
@@ -137,62 +109,74 @@
       "id": "baseball",
       "label": "Baseball",
       "icon": "⚾",
-      "slate": "Two ALDS Game 2s. White Sox lead Cleveland 1-0 (2:00 PM PT, TBS); Rays lead the Yankees 1-0 (5:00 PM PT, TBS). The NLDS is off today: Dodgers-Braves is tied 1-1 and the Brewers lead San Diego 2-0; both resume Tuesday.",
+      "slate": "NLDS Game 3s. Dodgers @ Braves (series 1-1): Yamamoto vs Chris Sale, 3:00 PM PT on FS1. Brewers @ Padres (Milwaukee leads 2-0): Dustin May vs Nick Pivetta, 6:30 PM PT on FS1. The ALDS is off; White Sox and Rays both lead 2-0 and play Wednesday.",
       "straight": [
         {
-          "pick": "Chicago White Sox ML",
+          "pick": "San Diego Padres ML",
           "market": "Moneyline",
-          "odds": 135,
-          "units": 0.75,
+          "odds": -136,
+          "units": 1,
           "confidence": 3,
-          "event": "ALDS Game 2 · White Sox @ Guardians",
-          "time": "2:00 PM PT",
-          "reasoning": "Gavin Williams had a 5.03 ERA on extra rest this season, and opponents' OPS rose 62 points in those starts; he last pitched Sept. 25. Chicago's opener-plus-Sean Burke plan (Burke: 1.04 ERA in 17 IP vs Cleveland) already held the Guardians to three hits in Game 1. Cleveland ranked 24th in runs scored. Playable to +120.",
+          "event": "NLDS Game 3 · Brewers @ Padres",
+          "time": "6:30 PM PT",
+          "reasoning": "May has a 5.65 ERA since his trade to Milwaukee, and Pivetta had a 1.45 ERA in September. San Diego is facing elimination at home, where it's one of the best teams in baseball. Playable to -150.",
           "sources": [
-            {"title": "Covers ALDS Game 2 preview", "url": "https://www.covers.com/mlb/white-sox-vs-guardians-prediction-picks-odds-monday-10-5-2026"},
-            {"title": "SI preview", "url": "https://www.si.com/betting/white-sox-vs-guardians-prediction-odds-probable-pitchers-prop-bets-for-alds-game-2-2026"}
+            {"title": "Covers NLDS Game 3 preview", "url": "https://www.covers.com/mlb/brewers-vs-padres-prediction-picks-odds-tuesday-10-6-2026"},
+            {"title": "SI preview", "url": "https://www.si.com/betting/brewers-vs-padres-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m470da2dzb"}
           ]
         },
         {
-          "pick": "Yankees vs Rays UNDER 6.5",
+          "pick": "Dodgers vs Braves OVER 6",
           "market": "Game total",
-          "odds": -105,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "ALDS Game 2 · Yankees @ Rays",
-          "time": "5:00 PM PT",
-          "reasoning": "Game 1 was 1-0. Schlittler has a 1.95 ERA and a sinker allowing a .321 expected slugging percentage; Peralta has a 3.25 ERA since his trade to Tampa. Tampa's bats are cold (.293 xwOBA last 30 days). Playable to -120.",
+          "odds": -115,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "NLDS Game 3 · Dodgers @ Braves",
+          "time": "3:00 PM PT",
+          "reasoning": "SportsLine's model projects 7.7 runs against a total of 6. A lean, so half a unit. Skip it if the line moves to 6.5.",
           "sources": [
-            {"title": "RG.org best bets Oct 5", "url": "https://rg.org/news/gambling-industry/best-bets-today-falcons-saints-yankees-rays-october-5-2026"},
-            {"title": "Covers ALDS Game 2 preview", "url": "https://www.covers.com/mlb/yankees-vs-rays-prediction-picks-odds-monday-10-5-2026"}
+            {"title": "CBS/SportsLine model pick", "url": "https://www.cbssports.com/betting/news/dodger-braves-prediction-odds-line-time-2026-mlb-nlds-game-3-picks-for-tuesday/"}
           ]
         }
       ],
       "parlay": [
         {
-          "title": "ALDS Monday Double",
+          "title": "Pivetta Takes Over (SGP)",
           "legs": [
-            {"pick": "White Sox ML", "odds": 135, "event": "CWS @ CLE"},
-            {"pick": "Yankees-Rays UNDER 6.5", "odds": -105, "event": "NYY @ TB"}
+            {"pick": "Padres ML", "odds": -136, "event": "MIL @ SD"},
+            {"pick": "Pivetta OVER 3.5 Ks", "odds": -160, "event": "MIL @ SD"}
           ],
           "units": 0.25,
           "confidence": 2,
-          "sgp": false,
-          "reasoning": "Both ALDS straight bets together, about 3.6-to-1. The White Sox game ends first, so you'll know by 5 PM whether the second leg is live."
+          "sgp": true,
+          "reasoning": "If Pivetta is striking people out, San Diego is probably winning. The legs are correlated, so the book's price will be lower than shown."
         }
       ],
       "props": [
         {
-          "pick": "Freddy Peralta OVER 5.5 strikeouts",
+          "pick": "Nick Pivetta OVER 3.5 strikeouts",
           "market": "Player prop",
-          "odds": -125,
+          "odds": -160,
           "units": 0.5,
           "confidence": 3,
-          "event": "ALDS Game 2 · Yankees @ Rays",
-          "time": "5:00 PM PT",
-          "reasoning": "The Yankees have struck out in 30.5% of plate appearances recently, and Peralta's curveball drew a 31.6% whiff rate this season. Covers' prop pick. Price is an estimate; playable to -140.",
+          "event": "NLDS Game 3 · Brewers @ Padres",
+          "time": "6:30 PM PT",
+          "reasoning": "He had 4+ strikeouts in seven of his eight starts. Playable to -175.",
           "sources": [
-            {"title": "Covers ALDS Game 2 preview", "url": "https://www.covers.com/mlb/yankees-vs-rays-prediction-picks-odds-monday-10-5-2026"}
+            {"title": "SI preview", "url": "https://www.si.com/betting/brewers-vs-padres-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m470da2dzb"}
+          ]
+        },
+        {
+          "pick": "Chris Sale OVER 7.5 strikeouts",
+          "market": "Player prop",
+          "odds": 115,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NLDS Game 3 · Dodgers @ Braves",
+          "time": "3:00 PM PT",
+          "reasoning": "Sale struck out nine in his first postseason start and had 200 strikeouts this season. He reached 8+ in 12 of 27 starts (44%), and +115 implies about 46.5%, so the value is thin. A quarter unit.",
+          "sources": [
+            {"title": "SI preview", "url": "https://www.si.com/betting/dodgers-vs-braves-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m46y38f78j"}
           ]
         }
       ]
@@ -201,227 +185,131 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "Monday Night Football: Falcons @ Saints, 5:15 PM PT. Saints -1.5 (opened -2.5), total 47.5. Both defenses are short-handed: Atlanta is missing James Pearce and Jalon Walker; New Orleans has several linebackers out or questionable.",
-      "straight": [
-        {
-          "pick": "Atlanta Falcons ML",
-          "market": "Moneyline",
-          "odds": 112,
-          "units": 1,
-          "confidence": 3,
-          "event": "Falcons @ Saints",
-          "time": "5:15 PM PT",
-          "reasoning": "Atlanta has won the last two meetings, Penix is back, and Bijan Robinson is coming off a 200-yard game. The Saints allow 27.7 points per game (26th). Money has moved toward Atlanta since the open. Playable to +100.",
-          "sources": [
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"},
-            {"title": "RG.org best bets Oct 5", "url": "https://rg.org/news/gambling-industry/best-bets-today-falcons-saints-yankees-rays-october-5-2026"}
-          ]
-        },
-        {
-          "pick": "Falcons vs Saints OVER 47.5",
-          "market": "Game total",
-          "odds": -115,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Falcons @ Saints",
-          "time": "5:15 PM PT",
-          "reasoning": "Atlanta scored 35 at Green Bay on just 25 pass attempts, and both defenses are missing starters. Yahoo's main pick. A lean, so a half unit — Friday's totals went 0-3.",
-          "sources": [
-            {"title": "Yahoo betting preview", "url": "https://sports.yahoo.com/nfl/betting/article/atlanta-falcons-at-new-orleans-saints-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-030417874.html"}
-          ]
-        }
-      ],
-      "parlay": [
-        {
-          "title": "Penix-to-London (SGP)",
-          "legs": [
-            {"pick": "Falcons ML", "odds": 112, "event": "ATL @ NO"},
-            {"pick": "Drake London OVER 79.5 rec yds", "odds": -115, "event": "ATL @ NO"}
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": true,
-          "reasoning": "If London has a big night, Atlanta probably wins — the legs are correlated, which is why the book will price this lower than shown. London's prop price is an estimate."
-        }
-      ],
-      "props": [
-        {
-          "pick": "Drake London OVER 79.5 receiving yards",
-          "market": "Player prop",
-          "odds": -115,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "Falcons @ Saints",
-          "time": "5:15 PM PT",
-          "reasoning": "London has 100+ yards in six of his last seven games with Penix (120 per game) and Covers projects 86. Price is an estimate; playable to -130.",
-          "sources": [
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"}
-          ]
-        },
-        {
-          "pick": "Drake London anytime TD",
-          "market": "Player prop",
-          "odds": 130,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Falcons @ Saints",
-          "time": "5:15 PM PT",
-          "reasoning": "If he's getting 100+ yards, a red-zone target or a long score is likely to come with it. Plus money, quarter unit.",
-          "sources": [
-            {"title": "Yahoo betting preview", "url": "https://sports.yahoo.com/nfl/betting/article/atlanta-falcons-at-new-orleans-saints-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-030417874.html"}
-          ]
-        }
-      ]
+      "slate": "No NFL today. Monday night the Falcons beat the Saints 45-24, and the Falcons ML, Over and London over 79.5 yards all cashed. NFL Week 5 starts Thursday night.",
+      "straight": [],
+      "parlay": [],
+      "props": []
     },
     {
       "id": "soccer",
       "label": "Soccer",
       "icon": "⚽",
-      "slate": "UEFA Nations League at 11:45 AM PT: France vs Belgium, Italy vs Türkiye, Romania vs Sweden, Bosnia vs Poland and more. France is without Mbappé (injured) and Upamecano (suspended); Belgium is without De Bruyne, Tielemans and Courtois.",
+      "slate": "UEFA Nations League at 11:45 AM PT: Croatia vs Spain, England vs Czechia, Scotland vs Slovenia, Switzerland vs North Macedonia and more. Croatia lost 7-0 at home to England on Saturday; Spain has won 10 straight competitive matches.",
       "straight": [
         {
-          "pick": "Italy ML",
-          "market": "Moneyline (90 min)",
-          "odds": -225,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "Italy vs Türkiye",
-          "time": "11:45 AM PT",
-          "reasoning": "Italy beat Türkiye 4-1 in Bursa a week ago and is at home in Bologna. Türkiye is 0-3 with a -7 goal difference and is missing its two best attackers, Arda Güler (suspended) and Barış Alper Yılmaz. Expensive, so a half unit. Playable to -250.",
-          "sources": [
-            {"title": "Betfred preview", "url": "https://insights.betfred.com/football/italy-vs-turkey-prediction-betting-tips-monday-5-october-2026/"},
-            {"title": "SportsGambler preview", "url": "https://www.sportsgambler.com/betting-tips/football/italy-vs-turkey-prediction-lineups-odds-2026-10-05/"}
-          ]
-        },
-        {
-          "pick": "France vs Belgium UNDER 2.5 goals",
-          "market": "Game total",
-          "odds": -120,
+          "pick": "Croatia vs Spain — Both Teams To Score: YES",
+          "market": "BTTS",
+          "odds": -149,
           "units": 0.5,
           "confidence": 2,
-          "event": "France vs Belgium",
+          "event": "Croatia vs Spain",
           "time": "11:45 AM PT",
-          "reasoning": "France has scored just three goals in three group games without Mbappé (1-0, 1-0, 1-1), and last week's meeting was 1-0. Belgium loses its two best midfielders to suspension. Price is an estimate — skip it worse than -140.",
+          "reasoning": "BTTS has hit in three straight Spain games and four of Croatia's last five. Croatia scored in last month's 4-1 loss in Spain and has a home crowd in Split to bounce back for after the 7-0 loss. Expensive, so half a unit. Playable to -160.",
           "sources": [
-            {"title": "SportyTrader preview", "url": "https://www.sportytrader.com/en/betting-tips/france-belgium-376762/"},
-            {"title": "SI/LiveScore team news", "url": "https://www.livescore.com/en/news/football/more/france-vs-belgiumnations-league-preview-predictions-and-lineups-si/"}
+            {"title": "SportsGambler preview", "url": "https://www.sportsgambler.com/betting-tips/football/croatia-vs-spain-prediction-lineups-odds-2026-10-06/"}
           ]
         }
       ],
-      "parlay": [
-        {
-          "title": "Home Favorites Double",
-          "legs": [
-            {"pick": "France ML", "odds": -200, "event": "FRA vs BEL"},
-            {"pick": "Italy ML", "odds": -225, "event": "ITA vs TUR"}
-          ],
-          "units": 0.5,
-          "confidence": 2,
-          "sgp": false,
-          "reasoning": "France has won its last six against Belgium, and Belgium is missing De Bruyne, Tielemans and Courtois. Italy faces a winless, depleted Türkiye. Both favorites are too pricey alone; together they pay about +115. Both settle at the same time."
-        }
-      ],
-      "props": [
-        {
-          "pick": "Michael Olise goal or assist",
-          "market": "Player prop",
-          "odds": -164,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "France vs Belgium",
-          "time": "11:45 AM PT",
-          "reasoning": "France's creator-in-chief with Mbappé out: 14 goal contributions in 10 games, and he scored the winner in last week's meeting. Confirm he starts (lineups post about an hour before kickoff). Playable to -180.",
-          "sources": [
-            {"title": "SportyTrader preview", "url": "https://www.sportytrader.com/en/betting-tips/france-belgium-376762/"}
-          ]
-        }
-      ]
+      "parlay": [],
+      "props": []
     },
     {
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Four games: Flyers @ Lightning (4:00 PM PT), Jets @ Penguins and Senators @ Bruins (4:30), Sharks @ Stars (5:00). Winnipeg is on a back-to-back with backup Clay Stevenson in goal.",
+      "slate": "Nine games: Predators @ Maple Leafs, Mammoth @ Devils, Hurricanes @ Canadiens, Senators @ Red Wings, Wild @ Sabres, Islanders @ Rangers (all 4:00 PM PT), Blues @ Blackhawks (5:00), Golden Knights @ Kraken (6:40), Panthers @ Kings.",
       "straight": [
         {
-          "pick": "Pittsburgh Penguins ML",
+          "pick": "St. Louis Blues ML",
           "market": "Moneyline",
-          "odds": -175,
+          "odds": -142,
           "units": 0.75,
           "confidence": 3,
-          "event": "Jets @ Penguins",
-          "time": "4:30 PM PT",
-          "reasoning": "Same idea that cashed with Boston on Friday: Winnipeg is still without Hellebuyck, and tonight it's Clay Stevenson (five career NHL games) on the second night of a back-to-back. Pittsburgh is 2-0 with 13 goals. Playable to -190.",
+          "event": "Blues @ Blackhawks",
+          "time": "5:00 PM PT",
+          "reasoning": "St. Louis is coming off a 4-0 shutout of Dallas with two days' rest, against a Chicago team missing Bedard in its home opener. Playable to -155.",
           "sources": [
-            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-best-bets-predictions-monday-oct-5/"},
-            {"title": "Covers NHL props (goalie note)", "url": "https://www.covers.com/nhl/player-prop-picks-oct-5-2026"}
+            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-mammoth-devils-blues-blackhawks-panthers-kings-2026"}
           ]
         },
         {
-          "pick": "Tampa Bay Lightning -1.5",
-          "market": "Puck line",
-          "odds": 120,
+          "pick": "Predators vs Maple Leafs UNDER 6",
+          "market": "Game total",
+          "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "Flyers @ Lightning",
+          "event": "Predators @ Maple Leafs",
           "time": "4:00 PM PT",
-          "reasoning": "Philadelphia is allowing 4.33 goals and 40.7 shots a game, and Tampa has won four straight in the series. The -200 moneyline is poor value; the puck line pays plus money for a two-goal win. Playable to +105.",
+          "reasoning": "Nashville is scoring 1.5 goals a game and Toronto 2.0, and both allow under 2.5. A 6 means a 3-3 game pushes. SportsBettingDime's top pick. Playable to -120.",
           "sources": [
-            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-best-bets-predictions-monday-oct-5/"}
+            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-best-bets-predictions-oct-6-2026/"}
+          ]
+        },
+        {
+          "pick": "Seattle Kraken ML",
+          "market": "Moneyline",
+          "odds": 142,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Golden Knights @ Kraken",
+          "time": "6:40 PM PT",
+          "reasoning": "Seattle is allowing 1.33 goals a game with a .940 save percentage; Vegas's goalies are at .879. The Kraken are 3-1 in their last four against Vegas. An early-season sample, so a quarter unit on the plus money.",
+          "sources": [
+            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-best-bets-predictions-oct-6-2026/"}
           ]
         }
       ],
       "parlay": [
         {
-          "title": "Monday Home Favorites",
+          "title": "Road Favorites Double",
           "legs": [
-            {"pick": "Penguins ML", "odds": -175, "event": "WPG @ PIT"},
-            {"pick": "Lightning -1.5", "odds": 120, "event": "PHI @ TB"}
+            {"pick": "Blues ML", "odds": -142, "event": "STL @ CHI"},
+            {"pick": "Wild ML", "odds": -113, "event": "MIN @ BUF"}
           ],
           "units": 0.25,
           "confidence": 2,
           "sgp": false,
-          "reasoning": "The two hockey straight bets together, about 2.5-to-1."
+          "reasoning": "Minnesota is 8-2 as a road favorite in its last ten against Buffalo and is scoring 3.5 goals a game against a Sabres team allowing 4. Pays about 2.6-to-1."
         }
       ],
       "props": [
         {
-          "pick": "Evgeni Malkin 1+ assist",
+          "pick": "Sean Walker OVER 1.5 shots on goal",
           "market": "Player prop",
-          "odds": 130,
+          "odds": -110,
           "units": 0.5,
           "confidence": 3,
-          "event": "Jets @ Penguins",
-          "time": "4:30 PM PT",
-          "reasoning": "Dimers: 46.5% model probability vs 43.5% implied. Pittsburgh's offense is rolling and faces a backup goalie on tired legs. Playable to +115.",
+          "event": "NHL · Tuesday slate",
+          "time": "Tonight",
+          "reasoning": "Dimers' best edge tonight: 60.8% model probability vs 52.4% implied. Playable to -125.",
           "sources": [
-            {"title": "Dimers NHL props", "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-05-2026-ac"}
+            {"title": "Dimers NHL props", "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-06-2026-ac"}
           ]
         },
         {
-          "pick": "Nikita Kucherov anytime goal",
+          "pick": "Jack Quinn OVER 2.5 shots on goal",
           "market": "Player prop",
-          "odds": 150,
-          "units": 0.25,
+          "odds": -105,
+          "units": 0.5,
           "confidence": 2,
-          "event": "Flyers @ Lightning",
+          "event": "Wild @ Sabres",
           "time": "4:00 PM PT",
-          "reasoning": "Dimers rates him at 42.8% against 40% implied, versus a Flyers defense that gives up more than 40 shots a night. Thin edge, quarter unit.",
+          "reasoning": "He leads Buffalo with 21 shot attempts in two games (10.5 per game), is playing 19+ minutes, and is on the top power-play unit. Covers gives him a 52% chance. Price is an estimate; skip worse than -120.",
           "sources": [
-            {"title": "Dimers NHL props", "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-05-2026-ac"}
+            {"title": "Covers NHL best bets", "url": "https://www.covers.com/nhl/best-bets-oct-6-2026"}
           ]
         },
         {
-          "pick": "Yegor Chinakhov anytime goal",
+          "pick": "Clayton Keller 1+ assist",
           "market": "Player prop",
-          "odds": 230,
+          "odds": -121,
           "units": 0.25,
           "confidence": 2,
-          "event": "Jets @ Penguins",
-          "time": "4:30 PM PT",
-          "reasoning": "He's scored in 40% of games since Jan. 1 but is priced around 30%, and his ice time is up almost two minutes a game. He faces backup Clay Stevenson. Price is an estimate; skip below +200.",
+          "event": "Mammoth @ Devils",
+          "time": "4:00 PM PT",
+          "reasoning": "Five assists in three games, and he runs Utah's top power play, which has six goals already. A quarter unit, since New Jersey leads the league in 5-on-5 expected goal differential.",
           "sources": [
-            {"title": "Covers NHL props", "url": "https://www.covers.com/nhl/player-prop-picks-oct-5-2026"}
+            {"title": "TheSpread preview", "url": "https://www.thespread.com/nhl-articles/mammoth-vs-devils-prediction-october-6-2026/"}
           ]
         }
       ]
@@ -430,36 +318,8 @@
       "id": "golf",
       "label": "Golf",
       "icon": "⛳",
-      "slate": "No golf today. Bank of Utah final: Austin Smotherman won at -26 for his first Tour title. Next up is the Baycurrent Classic at Yokohama Country Club, Japan (72 players, no cut), starting Wednesday night PT. Schauffele is the defending champ and favorite (+930). These are futures — bet now, settle Sunday.",
-      "straight": [
-        {
-          "pick": "Michael Thorbjornsen to win",
-          "market": "Outright",
-          "odds": 2400,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Baycurrent Classic",
-          "time": "Starts Wed night PT",
-          "reasoning": "He finished 3rd here last year and just broke through with his first Tour win at the Rocket Classic. A recent winner with course form at 24-to-1 in a 72-man, no-cut field. Quarter unit.",
-          "sources": [
-            {"title": "SportsBettingDime Baycurrent picks", "url": "https://www.sportsbettingdime.com/news/golf/baycurrent-classic-picks-predictions-odds-2026/"},
-            {"title": "DraftKings odds & field", "url": "https://dknetwork.draftkings.com/2026/10/05/2026-baycurrent-classic-odds-full-field"}
-          ]
-        },
-        {
-          "pick": "Max Greyserman to win",
-          "market": "Outright",
-          "odds": 5700,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Baycurrent Classic",
-          "time": "Starts Wed night PT",
-          "reasoning": "Runner-up in each of the last two editions of this event. Course fit doesn't get much clearer than that, and 57-to-1 pays well if he finally closes. Quarter unit; check for each-way or top-5 terms at your book.",
-          "sources": [
-            {"title": "SportsBettingDime Baycurrent picks", "url": "https://www.sportsbettingdime.com/news/golf/baycurrent-classic-picks-predictions-odds-2026/"}
-          ]
-        }
-      ],
+      "slate": "Baycurrent Classic at Yokohama Country Club, Japan (72 players, no cut), starts Wednesday night PT. Monday's futures — Thorbjornsen +2400 and Greyserman +5700 — are still live and are not repeated here, so don't double up.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
@@ -467,35 +327,8 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "No WNBA today — Golden State took Game 1 from the Aces 71-60 Sunday, and both semis resume Wednesday. NBA preseason: Grizzlies-Hawks, Suns @ Pistons, Knicks @ 76ers, Timberwolves-Bucks, Lakers-Kings. Preseason minutes are unpredictable, so stakes are tiny.",
-      "straight": [
-        {
-          "pick": "Philadelphia 76ers ML",
-          "market": "Moneyline",
-          "odds": -110,
-          "units": 0.25,
-          "confidence": 1,
-          "event": "NBA Preseason · Knicks @ 76ers",
-          "time": "Tonight",
-          "reasoning": "A home game against a division rival, where Covers expects Philadelphia's staff to play starters more than usual to set an early tone. Preseason, so confidence is minimal. Price is an estimate.",
-          "sources": [
-            {"title": "Covers preseason picks", "url": "https://covers.com/nba/preseason-moneyline-predictions-picks-oct-5-2026"}
-          ]
-        },
-        {
-          "pick": "Phoenix Suns ML",
-          "market": "Moneyline",
-          "odds": 130,
-          "units": 0.25,
-          "confidence": 1,
-          "event": "NBA Preseason · Suns @ Pistons",
-          "time": "Tonight",
-          "reasoning": "Devin Booker plays in his Detroit hometown and Miles Bridges debuts near his college home, while Detroit's Jalen Duren missed training camp. Covers' underdog pick. Price is an estimate.",
-          "sources": [
-            {"title": "Covers preseason picks", "url": "https://covers.com/nba/preseason-moneyline-predictions-picks-oct-5-2026"}
-          ]
-        }
-      ],
+      "slate": "No WNBA today; both semifinals resume Wednesday (Valkyries lead the Aces 1-0). No NBA preseason plays today — Monday's went 1-1.",
+      "straight": [],
       "parlay": [],
       "props": []
     }
