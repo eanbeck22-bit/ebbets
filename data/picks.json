@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-06",
-  "updated": "2026-10-06T10:15:00-07:00",
-  "headline": "Tuesday slate: NLDS Game 3s (Dodgers @ Braves 3:00 PM PT, Brewers @ Padres 6:30 PM PT), a 9-game NHL card, and Nations League at 11:45 AM PT (Croatia-Spain, England-Czechia). No NFL, WNBA or ALDS today.",
+  "date": "2026-10-14",
+  "updated": "2026-10-14T11:00:00-07:00",
+  "headline": "Wednesday slate: NLCS Game 3 (Brewers @ Dodgers, Milwaukee leads 2-0) and a small NHL card. The ALCS is tied 1-1 and resumes Thursday in Cleveland.",
   "record": {
-    "label": "Yesterday (Mon 10/5)",
-    "wins": 15, "losses": 14, "pushes": 0, "pending": 2,
-    "units": 3.73,
-    "note": "Falcons won 45-24 and the White Sox won 4-3, so both top underdogs cashed. London (96 yds), Olise (2 goals), Italy and the Lightning -1.5 also hit. Misses: Yankees-Rays Under (5-2), Penguins (blew a lead late), and the NHL props. Baycurrent futures settle Sunday."
+    "label": "Yesterday (Tue 10/13)",
+    "wins": 6, "losses": 1, "pushes": 0, "pending": 2,
+    "units": 3.02,
+    "note": "Both Unders hit: Rays 3-1 and Avalanche 3-2, which also cashed the parlay. Peralta threw six shutout innings (18 outs). Hagel was held scoreless in a 4-1 loss. The Werenski assist props couldn't be confirmed. That's two straight winning days (+6.7u)."
   },
   "notes": [
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
-    "Nations League kicks off at 11:45 AM PT — bet those first or skip them.",
+    "Two good days don't erase the earlier losses — keep stakes modest.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning. Prices marked 'estimate' weren't confirmed at a book — check yours.",
     "Same-game parlay (SGP) prices are set by the book and pay less than the multiplied odds shown here."
   ],
@@ -19,88 +19,49 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Monday these went 6-3 (+2.9u): the Falcons, White Sox, London and Olise all hit. Today leans on starting-pitching and goalie edges.",
+      "slate": "The strongest edges across today's card. Tuesday these went 4-0 with one unconfirmed. Today centers on Blake Snell at home.",
       "straight": [
         {
-          "pick": "San Diego Padres ML",
-          "market": "Moneyline",
-          "odds": -136,
-          "units": 1,
-          "confidence": 3,
-          "event": "NLDS Game 3 · Brewers @ Padres",
-          "time": "6:30 PM PT",
-          "reasoning": "This is the biggest starting-pitcher mismatch of the day. Dustin May has a 5.65 ERA in 10 starts since Milwaukee traded for him and rarely goes deep. Nick Pivetta had a 1.45 ERA over four September starts. San Diego faces elimination at home, where it won more than 50 games this season. Covers and SI both pick the Padres. Playable to -150.",
-          "sources": [
-            {"title": "Covers NLDS Game 3 preview", "url": "https://www.covers.com/mlb/brewers-vs-padres-prediction-picks-odds-tuesday-10-6-2026"},
-            {"title": "SI preview", "url": "https://www.si.com/betting/brewers-vs-padres-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m470da2dzb"}
-          ]
-        },
-        {
-          "pick": "St. Louis Blues ML",
-          "market": "Moneyline",
-          "odds": -142,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "NHL · Blues @ Blackhawks",
-          "time": "5:00 PM PT",
-          "reasoning": "St. Louis just shut out Dallas 4-0 and comes in on two days' rest. Chicago is without Connor Bedard and playing its home opener. SI's best bet, and SportsBettingDime also picks the Blues. Playable to -155.",
-          "sources": [
-            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-mammoth-devils-blues-blackhawks-panthers-kings-2026"},
-            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-best-bets-predictions-oct-6-2026/"}
-          ]
-        },
-        {
-          "pick": "Dodgers vs Braves OVER 6",
-          "market": "Game total",
-          "odds": -115,
+          "pick": "Los Angeles Dodgers -1.5",
+          "market": "Run line",
+          "odds": 129,
           "units": 0.5,
           "confidence": 2,
-          "event": "NLDS Game 3 · Dodgers @ Braves",
-          "time": "3:00 PM PT",
-          "reasoning": "Yamamoto vs Sale is an ace matchup, which is why the total is only 6. SportsLine's model projects 7.7 runs and hits the Over about 59% of the time over 10,000 simulations. Six is low enough that a single bullpen inning can push it over. A lean, so half a unit; Monday's Under in the Yankees-Rays ace matchup lost. Playable to 6 at -125; skip at 6.5.",
+          "event": "NLCS Game 3 · Brewers @ Dodgers",
+          "time": "5:00 PM PT",
+          "reasoning": "Snell (1.90 ERA) had a 1.39 FIP over his final five starts and has allowed one run in 18 innings at Dodger Stadium since returning from the IL. The Dodgers are hitting .312 against Robert Gasser, and Milwaukee is weaker against lefties (97 wRC+ vs 112 against righties). LA is 12-3 in its last 15 home games. SI takes the run line, and Covers takes the moneyline (62%). At -180 the moneyline isn't worth it; plus money for a two-run win is. Playable to +115.",
           "sources": [
-            {"title": "CBS/SportsLine model pick", "url": "https://www.cbssports.com/betting/news/dodger-braves-prediction-odds-line-time-2026-mlb-nlds-game-3-picks-for-tuesday/"}
-          ]
-        }
-      ],
-      "parlay": [
-        {
-          "title": "Pitching + Rest Double",
-          "legs": [
-            {"pick": "Padres ML", "odds": -136, "event": "MLB · MIL @ SD"},
-            {"pick": "Blues ML", "odds": -142, "event": "NHL · STL @ CHI"}
-          ],
-          "units": 0.5,
-          "confidence": 3,
-          "sgp": false,
-          "reasoning": "The two strongest sides on the board. The Blues game finishes first, so you'll know whether the Padres leg is live. Pays about 2-to-1."
-        }
-      ],
-      "props": [
-        {
-          "pick": "Nick Pivetta OVER 3.5 strikeouts",
-          "market": "Player prop",
-          "odds": -160,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "NLDS Game 3 · Brewers @ Padres",
-          "time": "6:30 PM PT",
-          "reasoning": "He had at least four strikeouts in seven of his eight starts. A low line for a pitcher San Diego will ride in an elimination game. Expensive, so half a unit. Playable to -175.",
-          "sources": [
-            {"title": "SI preview", "url": "https://www.si.com/betting/brewers-vs-padres-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m470da2dzb"}
+            {"title": "SI NLCS Game 3 preview", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-3-2026"},
+            {"title": "Covers NLCS Game 3", "url": "https://www.covers.com/mlb/brewers-vs-dodgers-prediction-picks-odds-wednesday-10-14-2026"}
           ]
         },
         {
-          "pick": "Sean Walker OVER 1.5 shots on goal",
-          "market": "Player prop",
+          "pick": "Canadiens vs Capitals OVER 6.5",
+          "market": "Game total",
           "odds": -110,
           "units": 0.5,
-          "confidence": 3,
-          "event": "NHL · Tuesday slate",
-          "time": "Tonight",
-          "reasoning": "This is the top edge on Dimers' NHL board: a 60.8% model probability against 52.4% implied, an 8.4% edge. Playable to -125.",
+          "confidence": 2,
+          "event": "NHL · Canadiens @ Capitals",
+          "time": "4:30 PM PT",
+          "reasoning": "Both teams played Tuesday and traveled, Washington has the league's worst expected goals against and is expected to start its backup, and Montreal's Jakob Dobes has allowed 11 goals in his last two games. Covers' top pick. Price is an estimate; playable to -125.",
           "sources": [
-            {"title": "Dimers NHL props", "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-06-2026-ac"}
+            {"title": "Covers NHL best bets", "url": "https://www.covers.com/nhl/best-bets-wednesday-oct-14-2026"}
+          ]
+        }
+      ],
+      "parlay": [],
+      "props": [
+        {
+          "pick": "Blake Snell UNDER 1.5 earned runs",
+          "market": "Player prop",
+          "odds": -133,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "NLCS Game 3 · Brewers @ Dodgers",
+          "time": "5:00 PM PT",
+          "reasoning": "He allowed one run or fewer in each of his final eight regular-season starts (1.13 ERA) and one run in 18 innings at home since returning. His shaky Braves start still produced just one run despite five walks. SI's best prop. Playable to -150.",
+          "sources": [
+            {"title": "SI NLCS Game 3 preview", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-3-2026"}
           ]
         }
       ]
@@ -109,74 +70,60 @@
       "id": "baseball",
       "label": "Baseball",
       "icon": "⚾",
-      "slate": "NLDS Game 3s. Dodgers @ Braves (series 1-1): Yamamoto vs Chris Sale, 3:00 PM PT on FS1. Brewers @ Padres (Milwaukee leads 2-0): Dustin May vs Nick Pivetta, 6:30 PM PT on FS1. The ALDS is off; White Sox and Rays both lead 2-0 and play Wednesday.",
+      "slate": "NLCS Game 3: Brewers @ Dodgers, 5:00 PM PT on FS1. Robert Gasser (3.87 ERA) vs Blake Snell (1.90). Milwaukee leads 2-0 after winning 2-1 and 7-4. Odds: Dodgers -180, total 7.5. The ALCS is tied 1-1, with Game 3 Thursday in Cleveland.",
       "straight": [
         {
-          "pick": "San Diego Padres ML",
-          "market": "Moneyline",
-          "odds": -136,
-          "units": 1,
-          "confidence": 3,
-          "event": "NLDS Game 3 · Brewers @ Padres",
-          "time": "6:30 PM PT",
-          "reasoning": "May has a 5.65 ERA since his trade to Milwaukee, and Pivetta had a 1.45 ERA in September. San Diego is facing elimination at home, where it's one of the best teams in baseball. Playable to -150.",
-          "sources": [
-            {"title": "Covers NLDS Game 3 preview", "url": "https://www.covers.com/mlb/brewers-vs-padres-prediction-picks-odds-tuesday-10-6-2026"},
-            {"title": "SI preview", "url": "https://www.si.com/betting/brewers-vs-padres-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m470da2dzb"}
-          ]
-        },
-        {
-          "pick": "Dodgers vs Braves OVER 6",
-          "market": "Game total",
-          "odds": -115,
+          "pick": "Los Angeles Dodgers -1.5",
+          "market": "Run line",
+          "odds": 129,
           "units": 0.5,
           "confidence": 2,
-          "event": "NLDS Game 3 · Dodgers @ Braves",
-          "time": "3:00 PM PT",
-          "reasoning": "SportsLine's model projects 7.7 runs against a total of 6. A lean, so half a unit. Skip it if the line moves to 6.5.",
+          "event": "NLCS Game 3 · Brewers @ Dodgers",
+          "time": "5:00 PM PT",
+          "reasoning": "Snell at home vs a Brewers lineup that's weaker against lefties, plus a .312 Dodgers average against Gasser. Playable to +115.",
           "sources": [
-            {"title": "CBS/SportsLine model pick", "url": "https://www.cbssports.com/betting/news/dodger-braves-prediction-odds-line-time-2026-mlb-nlds-game-3-picks-for-tuesday/"}
+            {"title": "SI NLCS Game 3 preview", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-3-2026"}
           ]
         }
       ],
       "parlay": [
         {
-          "title": "Pivetta Takes Over (SGP)",
+          "title": "Snell Shuts the Door (SGP)",
           "legs": [
-            {"pick": "Padres ML", "odds": -136, "event": "MIL @ SD"},
-            {"pick": "Pivetta OVER 3.5 Ks", "odds": -160, "event": "MIL @ SD"}
+            {"pick": "Dodgers -1.5", "odds": 129, "event": "MIL @ LAD"},
+            {"pick": "Snell UNDER 1.5 ER", "odds": -133, "event": "MIL @ LAD"}
           ],
           "units": 0.25,
           "confidence": 2,
           "sgp": true,
-          "reasoning": "If Pivetta is striking people out, San Diego is probably winning. The legs are correlated, so the book's price will be lower than shown."
+          "reasoning": "If Snell keeps Milwaukee to a run or less, a two-run Dodgers win is much more likely. Correlated, so the book pays less than shown."
         }
       ],
       "props": [
         {
-          "pick": "Nick Pivetta OVER 3.5 strikeouts",
+          "pick": "Blake Snell UNDER 1.5 earned runs",
           "market": "Player prop",
-          "odds": -160,
-          "units": 0.5,
+          "odds": -133,
+          "units": 0.75,
           "confidence": 3,
-          "event": "NLDS Game 3 · Brewers @ Padres",
-          "time": "6:30 PM PT",
-          "reasoning": "He had 4+ strikeouts in seven of his eight starts. Playable to -175.",
+          "event": "NLCS Game 3 · Brewers @ Dodgers",
+          "time": "5:00 PM PT",
+          "reasoning": "One run or fewer in each of his last eight regular-season starts, and one run in 18 innings at home since returning. Playable to -150.",
           "sources": [
-            {"title": "SI preview", "url": "https://www.si.com/betting/brewers-vs-padres-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m470da2dzb"}
+            {"title": "SI NLCS Game 3 preview", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-3-2026"}
           ]
         },
         {
-          "pick": "Chris Sale OVER 7.5 strikeouts",
+          "pick": "William Contreras OVER 1.5 total bases",
           "market": "Player prop",
-          "odds": 115,
+          "odds": 130,
           "units": 0.25,
           "confidence": 2,
-          "event": "NLDS Game 3 · Dodgers @ Braves",
-          "time": "3:00 PM PT",
-          "reasoning": "Sale struck out nine in his first postseason start and had 200 strikeouts this season. He reached 8+ in 12 of 27 starts (44%), and +115 implies about 46.5%, so the value is thin. A quarter unit.",
+          "event": "NLCS Game 3 · Brewers @ Dodgers",
+          "time": "5:00 PM PT",
+          "reasoning": "He's hitting .391 with three homers in six playoff games and has cleared this in three of his last four. Snell is a tough matchup, which is why it's a quarter unit, and it works against the Snell bet. Covers' prop. Price is an estimate; skip below +120.",
           "sources": [
-            {"title": "SI preview", "url": "https://www.si.com/betting/dodgers-vs-braves-prediction-odds-probable-pitchers-prop-bets-for-nlds-game-3-01m46y38f78j"}
+            {"title": "Covers NLCS Game 3", "url": "https://www.covers.com/mlb/brewers-vs-dodgers-prediction-picks-odds-wednesday-10-14-2026"}
           ]
         }
       ]
@@ -185,7 +132,7 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "No NFL today. Monday night the Falcons beat the Saints 45-24, and the Falcons ML, Over and London over 79.5 yards all cashed. NFL Week 5 starts Thursday night.",
+      "slate": "No games today. Thursday Night Football is tomorrow.",
       "straight": [],
       "parlay": [],
       "props": []
@@ -194,22 +141,8 @@
       "id": "soccer",
       "label": "Soccer",
       "icon": "⚽",
-      "slate": "UEFA Nations League at 11:45 AM PT: Croatia vs Spain, England vs Czechia, Scotland vs Slovenia, Switzerland vs North Macedonia and more. Croatia lost 7-0 at home to England on Saturday; Spain has won 10 straight competitive matches.",
-      "straight": [
-        {
-          "pick": "Croatia vs Spain — Both Teams To Score: YES",
-          "market": "BTTS",
-          "odds": -149,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Croatia vs Spain",
-          "time": "11:45 AM PT",
-          "reasoning": "BTTS has hit in three straight Spain games and four of Croatia's last five. Croatia scored in last month's 4-1 loss in Spain and has a home crowd in Split to bounce back for after the 7-0 loss. Expensive, so half a unit. Playable to -160.",
-          "sources": [
-            {"title": "SportsGambler preview", "url": "https://www.sportsgambler.com/betting-tips/football/croatia-vs-spain-prediction-lineups-odds-2026-10-06/"}
-          ]
-        }
-      ],
+      "slate": "No picks today.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
@@ -217,108 +150,30 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Nine games: Predators @ Maple Leafs, Mammoth @ Devils, Hurricanes @ Canadiens, Senators @ Red Wings, Wild @ Sabres, Islanders @ Rangers (all 4:00 PM PT), Blues @ Blackhawks (5:00), Golden Knights @ Kraken (6:40), Panthers @ Kings.",
+      "slate": "Canadiens @ Capitals (4:30 PM PT) and Stars @ Avalanche (5:30). Both are rematches or second games of back-to-backs. Dallas is without Wyatt Johnston and starts backup Casey DeSmith at altitude. We're passing on Avalanche -160, since the model makes it only about 57%.",
       "straight": [
         {
-          "pick": "St. Louis Blues ML",
-          "market": "Moneyline",
-          "odds": -142,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "Blues @ Blackhawks",
-          "time": "5:00 PM PT",
-          "reasoning": "St. Louis is coming off a 4-0 shutout of Dallas with two days' rest, against a Chicago team missing Bedard in its home opener. Playable to -155.",
-          "sources": [
-            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-mammoth-devils-blues-blackhawks-panthers-kings-2026"}
-          ]
-        },
-        {
-          "pick": "Predators vs Maple Leafs UNDER 6",
+          "pick": "Canadiens vs Capitals OVER 6.5",
           "market": "Game total",
           "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "Predators @ Maple Leafs",
-          "time": "4:00 PM PT",
-          "reasoning": "Nashville is scoring 1.5 goals a game and Toronto 2.0, and both allow under 2.5. A 6 means a 3-3 game pushes. SportsBettingDime's top pick. Playable to -120.",
+          "event": "Canadiens @ Capitals",
+          "time": "4:30 PM PT",
+          "reasoning": "Tired legs on both sides, backup goalies likely, and Washington is the league's worst team by expected goals against. Price is an estimate; playable to -125.",
           "sources": [
-            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-best-bets-predictions-oct-6-2026/"}
-          ]
-        },
-        {
-          "pick": "Seattle Kraken ML",
-          "market": "Moneyline",
-          "odds": 142,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Golden Knights @ Kraken",
-          "time": "6:40 PM PT",
-          "reasoning": "Seattle is allowing 1.33 goals a game with a .940 save percentage; Vegas's goalies are at .879. The Kraken are 3-1 in their last four against Vegas. An early-season sample, so a quarter unit on the plus money.",
-          "sources": [
-            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-best-bets-predictions-oct-6-2026/"}
+            {"title": "Covers NHL best bets", "url": "https://www.covers.com/nhl/best-bets-wednesday-oct-14-2026"}
           ]
         }
       ],
-      "parlay": [
-        {
-          "title": "Road Favorites Double",
-          "legs": [
-            {"pick": "Blues ML", "odds": -142, "event": "STL @ CHI"},
-            {"pick": "Wild ML", "odds": -113, "event": "MIN @ BUF"}
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": false,
-          "reasoning": "Minnesota is 8-2 as a road favorite in its last ten against Buffalo and is scoring 3.5 goals a game against a Sabres team allowing 4. Pays about 2.6-to-1."
-        }
-      ],
-      "props": [
-        {
-          "pick": "Sean Walker OVER 1.5 shots on goal",
-          "market": "Player prop",
-          "odds": -110,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "NHL · Tuesday slate",
-          "time": "Tonight",
-          "reasoning": "Dimers' best edge tonight: 60.8% model probability vs 52.4% implied. Playable to -125.",
-          "sources": [
-            {"title": "Dimers NHL props", "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-06-2026-ac"}
-          ]
-        },
-        {
-          "pick": "Jack Quinn OVER 2.5 shots on goal",
-          "market": "Player prop",
-          "odds": -105,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Wild @ Sabres",
-          "time": "4:00 PM PT",
-          "reasoning": "He leads Buffalo with 21 shot attempts in two games (10.5 per game), is playing 19+ minutes, and is on the top power-play unit. Covers gives him a 52% chance. Price is an estimate; skip worse than -120.",
-          "sources": [
-            {"title": "Covers NHL best bets", "url": "https://www.covers.com/nhl/best-bets-oct-6-2026"}
-          ]
-        },
-        {
-          "pick": "Clayton Keller 1+ assist",
-          "market": "Player prop",
-          "odds": -121,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Mammoth @ Devils",
-          "time": "4:00 PM PT",
-          "reasoning": "Five assists in three games, and he runs Utah's top power play, which has six goals already. A quarter unit, since New Jersey leads the league in 5-on-5 expected goal differential.",
-          "sources": [
-            {"title": "TheSpread preview", "url": "https://www.thespread.com/nhl-articles/mammoth-vs-devils-prediction-october-6-2026/"}
-          ]
-        }
-      ]
+      "parlay": [],
+      "props": []
     },
     {
       "id": "golf",
       "label": "Golf",
       "icon": "⛳",
-      "slate": "Baycurrent Classic at Yokohama Country Club, Japan (72 players, no cut), starts Wednesday night PT. Monday's futures — Thorbjornsen +2400 and Greyserman +5700 — are still live and are not repeated here, so don't double up.",
+      "slate": "No picks yet this week.",
       "straight": [],
       "parlay": [],
       "props": []
@@ -327,7 +182,7 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "No WNBA today; both semifinals resume Wednesday (Valkyries lead the Aces 1-0). No NBA preseason plays today — Monday's went 1-1.",
+      "slate": "No games today. The WNBA Finals (Valkyries vs Dream) start Saturday.",
       "straight": [],
       "parlay": [],
       "props": []
