@@ -1,67 +1,68 @@
 {
-  "date": "2026-10-14",
-  "updated": "2026-10-14T11:00:00-07:00",
-  "headline": "Wednesday slate: NLCS Game 3 (Brewers @ Dodgers, Milwaukee leads 2-0) and a small NHL card. The ALCS is tied 1-1 and resumes Thursday in Cleveland.",
+  "date": "2026-10-15",
+  "updated": "2026-10-15T08:45:00-07:00",
+  "headline": "Thursday slate: ALCS Game 3 moved up to 10:00 AM PT for weather (Rays @ Guardians, tied 1-1), NLCS Game 4 (Brewers @ Dodgers, Milwaukee leads 3-0), Seahawks @ Broncos on Thursday Night Football, and a full NHL card.",
   "record": {
-    "label": "Yesterday (Tue 10/13)",
-    "wins": 6, "losses": 1, "pushes": 0, "pending": 2,
-    "units": 3.02,
-    "note": "Both Unders hit: Rays 3-1 and Avalanche 3-2, which also cashed the parlay. Peralta threw six shutout innings (18 outs). Hagel was held scoreless in a 4-1 loss. The Werenski assist props couldn't be confirmed. That's two straight winning days (+6.7u)."
+    "label": "Yesterday (Wed 10/14)",
+    "wins": 2, "losses": 5, "pushes": 0, "pending": 1,
+    "units": -1.84,
+    "note": "Milwaukee homered three times off Snell and won 6-2, so Dodgers -1.5, Snell Under 1.5 ER and the SGP all lost. Canadiens-Capitals went Over (5-4). The Contreras prop couldn't be confirmed."
   },
   "notes": [
+    "ALCS Game 3 starts at 10:00 AM PT — earlier than usual because of weather. Bet it first or skip it.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
-    "Two good days don't erase the earlier losses — keep stakes modest.",
-    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning. Prices marked 'estimate' weren't confirmed at a book — check yours.",
-    "Same-game parlay (SGP) prices are set by the book and pay less than the multiplied odds shown here."
+    "Where sources disagree on a game, we skip it or keep the stake small.",
+    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning. Prices marked 'estimate' weren't confirmed at a book — check yours."
   ],
   "sections": [
     {
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Tuesday these went 4-0 with one unconfirmed. Today centers on Blake Snell at home.",
+      "slate": "The strongest edges across today's card. Wednesday these went 1-2. Today: Glasnow's strikeouts at home, a low-scoring TNF, and the Rays in a pitching matchup that favors them.",
       "straight": [
         {
-          "pick": "Los Angeles Dodgers -1.5",
-          "market": "Run line",
-          "odds": 129,
+          "pick": "Seahawks vs Broncos UNDER 40.5",
+          "market": "Game total",
+          "odds": -105,
           "units": 0.5,
           "confidence": 2,
-          "event": "NLCS Game 3 · Brewers @ Dodgers",
-          "time": "5:00 PM PT",
-          "reasoning": "Snell (1.90 ERA) had a 1.39 FIP over his final five starts and has allowed one run in 18 innings at Dodger Stadium since returning from the IL. The Dodgers are hitting .312 against Robert Gasser, and Milwaukee is weaker against lefties (97 wRC+ vs 112 against righties). LA is 12-3 in its last 15 home games. SI takes the run line, and Covers takes the moneyline (62%). At -180 the moneyline isn't worth it; plus money for a two-run win is. Playable to +115.",
+          "event": "NFL · Seahawks @ Broncos (TNF)",
+          "time": "5:15 PM PT",
+          "reasoning": "Denver has gone Under in four of five games and scores only 19.4 a game (26th). Bo Nix completes just 35.4% of his passes under pressure, and Seattle generates the league's second-highest pressure rate and leads the NFL in yards per play allowed. The total has already dropped from 42.5. Risk: Seattle has scored 29+ in four straight, and Denver's secondary is missing Surtain. TheSpread's top play. Playable to 40.",
           "sources": [
-            {"title": "SI NLCS Game 3 preview", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-3-2026"},
-            {"title": "Covers NLCS Game 3", "url": "https://www.covers.com/mlb/brewers-vs-dodgers-prediction-picks-odds-wednesday-10-14-2026"}
+            {"title": "TheSpread TNF preview", "url": "https://www.thespread.com/nfl-articles/seahawks-vs-broncos-prediction-october-15-2026/"},
+            {"title": "Covers TNF preview", "url": "https://www.covers.com/nfl/seahawks-vs-broncos-prediction-picks-oct-15-2026"}
           ]
         },
         {
-          "pick": "Canadiens vs Capitals OVER 6.5",
-          "market": "Game total",
-          "odds": -110,
+          "pick": "Tampa Bay Rays ML",
+          "market": "Moneyline",
+          "odds": 110,
           "units": 0.5,
           "confidence": 2,
-          "event": "NHL · Canadiens @ Capitals",
-          "time": "4:30 PM PT",
-          "reasoning": "Both teams played Tuesday and traveled, Washington has the league's worst expected goals against and is expected to start its backup, and Montreal's Jakob Dobes has allowed 11 goals in his last two games. Covers' top pick. Price is an estimate; playable to -125.",
+          "event": "ALCS Game 3 · Rays @ Guardians",
+          "time": "10:00 AM PT",
+          "reasoning": "Griffin Jax has held this Cleveland lineup to a .221 expected average and .256 xwOBA over 65 plate appearances, and Steven Kwan is 0-for-10 against him. Tampa hits right-handers much better (.751 OPS vs .678 against lefties), and Gavin Williams is a righty. The 98-win Rays are plus money. Covers' best bet. Playable to +100.",
           "sources": [
-            {"title": "Covers NHL best bets", "url": "https://www.covers.com/nhl/best-bets-wednesday-oct-14-2026"}
+            {"title": "Covers ALCS Game 3", "url": "https://www.covers.com/mlb/rays-vs-guardians-prediction-picks-odds-thursday-10-15-2026"},
+            {"title": "SI ALCS Game 3", "url": "https://www.si.com/betting/rays-vs-guardians-prediction-odds-probable-pitchers-prop-bets-for-alcs-game-3-01m4y5r3km01"}
           ]
         }
       ],
       "parlay": [],
       "props": [
         {
-          "pick": "Blake Snell UNDER 1.5 earned runs",
+          "pick": "Tyler Glasnow OVER 5.5 strikeouts",
           "market": "Player prop",
-          "odds": -133,
+          "odds": -155,
           "units": 0.75,
           "confidence": 3,
-          "event": "NLCS Game 3 · Brewers @ Dodgers",
+          "event": "NLCS Game 4 · Brewers @ Dodgers",
           "time": "5:00 PM PT",
-          "reasoning": "He allowed one run or fewer in each of his final eight regular-season starts (1.13 ERA) and one run in 18 innings at home since returning. His shaky Braves start still produced just one run despite five walks. SI's best prop. Playable to -150.",
+          "reasoning": "He's gone over 5.5 in all six home starts this season (51 strikeouts in 36 home innings). Milwaukee has struck out 28.7% of the time over the last 30 days, and he struck out eight Brewers in 5.2 innings in last year's NLCS. Expensive, but the strongest trend on the board. Playable to -170.",
           "sources": [
-            {"title": "SI NLCS Game 3 preview", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-3-2026"}
+            {"title": "SI NLCS Game 4", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-4-2026"}
           ]
         }
       ]
@@ -70,60 +71,48 @@
       "id": "baseball",
       "label": "Baseball",
       "icon": "⚾",
-      "slate": "NLCS Game 3: Brewers @ Dodgers, 5:00 PM PT on FS1. Robert Gasser (3.87 ERA) vs Blake Snell (1.90). Milwaukee leads 2-0 after winning 2-1 and 7-4. Odds: Dodgers -180, total 7.5. The ALCS is tied 1-1, with Game 3 Thursday in Cleveland.",
+      "slate": "ALCS Game 3: Rays @ Guardians at 10:00 AM PT (moved up for weather), Griffin Jax vs Gavin Williams, series tied 1-1. NLCS Game 4: Brewers @ Dodgers at 5:00 PM PT, Glasnow vs a likely Milwaukee bullpen game. Milwaukee leads 3-0 and can sweep.",
       "straight": [
         {
-          "pick": "Los Angeles Dodgers -1.5",
-          "market": "Run line",
-          "odds": 129,
+          "pick": "Tampa Bay Rays ML",
+          "market": "Moneyline",
+          "odds": 110,
           "units": 0.5,
           "confidence": 2,
-          "event": "NLCS Game 3 · Brewers @ Dodgers",
-          "time": "5:00 PM PT",
-          "reasoning": "Snell at home vs a Brewers lineup that's weaker against lefties, plus a .312 Dodgers average against Gasser. Playable to +115.",
+          "event": "ALCS Game 3 · Rays @ Guardians",
+          "time": "10:00 AM PT",
+          "reasoning": "Jax has dominated this lineup in a 65-PA sample, and Tampa hits righties well. Sources split on the total (one model likes the Over 6.5, SI likes a first-five Under), so we stick to the side. Playable to +100.",
           "sources": [
-            {"title": "SI NLCS Game 3 preview", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-3-2026"}
-          ]
-        }
-      ],
-      "parlay": [
-        {
-          "title": "Snell Shuts the Door (SGP)",
-          "legs": [
-            {"pick": "Dodgers -1.5", "odds": 129, "event": "MIL @ LAD"},
-            {"pick": "Snell UNDER 1.5 ER", "odds": -133, "event": "MIL @ LAD"}
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": true,
-          "reasoning": "If Snell keeps Milwaukee to a run or less, a two-run Dodgers win is much more likely. Correlated, so the book pays less than shown."
-        }
-      ],
-      "props": [
-        {
-          "pick": "Blake Snell UNDER 1.5 earned runs",
-          "market": "Player prop",
-          "odds": -133,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "NLCS Game 3 · Brewers @ Dodgers",
-          "time": "5:00 PM PT",
-          "reasoning": "One run or fewer in each of his last eight regular-season starts, and one run in 18 innings at home since returning. Playable to -150.",
-          "sources": [
-            {"title": "SI NLCS Game 3 preview", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-3-2026"}
+            {"title": "Covers ALCS Game 3", "url": "https://www.covers.com/mlb/rays-vs-guardians-prediction-picks-odds-thursday-10-15-2026"}
           ]
         },
         {
-          "pick": "William Contreras OVER 1.5 total bases",
-          "market": "Player prop",
-          "odds": 130,
-          "units": 0.25,
+          "pick": "Los Angeles Dodgers ML",
+          "market": "Moneyline",
+          "odds": -161,
+          "units": 0.5,
           "confidence": 2,
-          "event": "NLCS Game 3 · Brewers @ Dodgers",
+          "event": "NLCS Game 4 · Brewers @ Dodgers",
           "time": "5:00 PM PT",
-          "reasoning": "He's hitting .391 with three homers in six playoff games and has cleared this in three of his last four. Snell is a tough matchup, which is why it's a quarter unit, and it works against the Snell bet. Covers' prop. Price is an estimate; skip below +120.",
+          "reasoning": "Facing elimination at home, with Glasnow against what's expected to be a Milwaukee bullpen game. SI's pick. Half a unit only. This lineup has scored six runs in three games, and we lost on the Dodgers last night. Playable to -175.",
           "sources": [
-            {"title": "Covers NLCS Game 3", "url": "https://www.covers.com/mlb/brewers-vs-dodgers-prediction-picks-odds-wednesday-10-14-2026"}
+            {"title": "SI NLCS Game 4", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-4-2026"}
+          ]
+        }
+      ],
+      "parlay": [],
+      "props": [
+        {
+          "pick": "Tyler Glasnow OVER 5.5 strikeouts",
+          "market": "Player prop",
+          "odds": -155,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "NLCS Game 4 · Brewers @ Dodgers",
+          "time": "5:00 PM PT",
+          "reasoning": "Over 5.5 in all six home starts, against a Brewers lineup striking out 28.7% lately. Playable to -170.",
+          "sources": [
+            {"title": "SI NLCS Game 4", "url": "https://www.si.com/betting/brewers-vs-dodgers-prediction-odds-probable-pitchers-prop-bets-for-nlcs-game-4-2026"}
           ]
         }
       ]
@@ -132,10 +121,38 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "No games today. Thursday Night Football is tomorrow.",
-      "straight": [],
+      "slate": "Thursday Night Football: Seahawks @ Broncos, 5:15 PM PT on Prime Video. Seattle -2.5, total 40.5 (down from 42.5). Denver CB Patrick Surtain is out. Sources split on the side (Covers: Seattle -2.5; Yahoo: Denver +3.5), so we skip it.",
+      "straight": [
+        {
+          "pick": "Seahawks vs Broncos UNDER 40.5",
+          "market": "Game total",
+          "odds": -105,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "Seahawks @ Broncos",
+          "time": "5:15 PM PT",
+          "reasoning": "Denver is 4-1 to the Under and scores 19.4 a game. Nix completes 35.4% of passes under pressure against a top-two pass rush. Playable to 40.",
+          "sources": [
+            {"title": "TheSpread TNF preview", "url": "https://www.thespread.com/nfl-articles/seahawks-vs-broncos-prediction-october-15-2026/"}
+          ]
+        }
+      ],
       "parlay": [],
-      "props": []
+      "props": [
+        {
+          "pick": "Jaxon Smith-Njigba 100+ receiving yards",
+          "market": "Player prop",
+          "odds": 105,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Seahawks @ Broncos",
+          "time": "5:15 PM PT",
+          "reasoning": "He's topped 100 yards in four of five games (583 yards, 7 TDs), Denver is without Surtain and safety Hufanga, and Seattle's top two running backs are out. Quarter unit, since a big JSN night works against the Under.",
+          "sources": [
+            {"title": "TheSpread TNF preview", "url": "https://www.thespread.com/nfl-articles/seahawks-vs-broncos-prediction-october-15-2026/"}
+          ]
+        }
+      ]
     },
     {
       "id": "soccer",
@@ -150,19 +167,32 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Canadiens @ Capitals (4:30 PM PT) and Stars @ Avalanche (5:30). Both are rematches or second games of back-to-backs. Dallas is without Wyatt Johnston and starts backup Casey DeSmith at altitude. We're passing on Avalanche -160, since the model makes it only about 57%.",
+      "slate": "Full Thursday card, most games at 4:00 PM PT, including Kraken @ Lightning, Canucks @ Panthers, Rangers @ Devils and Sabres @ Maple Leafs. Flames @ Golden Knights is at 7:00. Hockey is a 1-1 sport for this board this week, so these are small model-based plays.",
       "straight": [
         {
-          "pick": "Canadiens vs Capitals OVER 6.5",
-          "market": "Game total",
-          "odds": -110,
+          "pick": "Seattle Kraken +1.5",
+          "market": "Puck line",
+          "odds": -111,
           "units": 0.5,
           "confidence": 2,
-          "event": "Canadiens @ Capitals",
-          "time": "4:30 PM PT",
-          "reasoning": "Tired legs on both sides, backup goalies likely, and Washington is the league's worst team by expected goals against. Price is an estimate; playable to -125.",
+          "event": "Kraken @ Lightning",
+          "time": "4:00 PM PT",
+          "reasoning": "Dimers' model gives Seattle a 56.3% chance to lose by one or win, a 3.8% edge. The Kraken beat Detroit 6-3 for us last week. Playable to -125.",
           "sources": [
-            {"title": "Covers NHL best bets", "url": "https://www.covers.com/nhl/best-bets-wednesday-oct-14-2026"}
+            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-10-15-2026-ac"}
+          ]
+        },
+        {
+          "pick": "Calgary Flames +1.5",
+          "market": "Puck line",
+          "odds": 111,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Flames @ Golden Knights",
+          "time": "7:00 PM PT",
+          "reasoning": "Dimers' second-biggest edge of the day: 52.5% model probability against 47.4% implied, at plus money. Quarter unit.",
+          "sources": [
+            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-10-15-2026-ac"}
           ]
         }
       ],
@@ -173,7 +203,7 @@
       "id": "golf",
       "label": "Golf",
       "icon": "⛳",
-      "slate": "No picks yet this week.",
+      "slate": "No picks this week.",
       "straight": [],
       "parlay": [],
       "props": []
@@ -182,7 +212,7 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "No games today. The WNBA Finals (Valkyries vs Dream) start Saturday.",
+      "slate": "No games today. The WNBA Finals (Valkyries vs Dream) start Saturday in San Francisco.",
       "straight": [],
       "parlay": [],
       "props": []
