@@ -1,66 +1,65 @@
 {
-  "date": "2026-10-19",
-  "updated": "2026-10-19T11:15:00-07:00",
-  "headline": "Monday slate: ALCS Game 6 (Guardians @ Rays, Tampa leads 3-2), Commanders @ 49ers on Monday Night Football, WNBA Finals Game 2 (Dream @ Valkyries, Golden State leads 1-0), and NHL. The Brewers await in the World Series starting Friday.",
+  "date": "2026-10-21",
+  "updated": "2026-10-21T11:30:00-07:00",
+  "headline": "Wednesday slate: WNBA Finals Game 3 (Valkyries @ Dream, tied 1-1), a full NBA night including Warriors @ Lakers, Champions League (Arsenal @ Bayern at noon PT), and NHL. The World Series starts Friday.",
   "record": {
-    "label": "Last board (Fri 10/16)",
-    "wins": 5, "losses": 3, "pushes": 0, "pending": 0,
-    "units": 0.80,
-    "note": "Washington won outright at Purdue (38-26), the Bruins won 4-2, and Lehkonen scored twice. José Ramírez went 0-for-3 and the Penguins lost 5-2. Third winning board in a row."
+    "label": "Yesterday (Tue 10/20)",
+    "wins": 2, "losses": 6, "pushes": 0, "pending": 1,
+    "units": -1.07,
+    "note": "The Pistons covered (won outright), but the Spurs, Knicks -4.5, Avalanche, Juárez and Red Wings-Kraken Under (4-3 in a shootout) all lost. Opening night was rough, which is why those were small bets."
   },
   "notes": [
+    "Arsenal @ Bayern kicks off at 12:00 PM PT — bet it first or skip it.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
-    "Sources split on several games today (the MNF total, WNBA Game 2, the Sharks-Leafs and Penguins-Mammoth totals). We skipped or downsized those.",
-    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning. Prices marked 'estimate' weren't confirmed at a book — check yours.",
-    "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
+    "Early-season NBA lines are still noisy, so NBA stakes stay at a quarter unit for now.",
+    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning."
   ],
   "sections": [
     {
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Friday these went 2-1. Today the Rays can close out the ALCS at home behind Peralta.",
+      "slate": "The strongest edges across today's card. Tuesday these went 1-1. Today centers on WNBA Finals Game 3, where two sources agree on the Valkyries with points.",
       "straight": [
         {
-          "pick": "Tampa Bay Rays ML",
-          "market": "Moneyline",
-          "odds": -147,
+          "pick": "Golden State Valkyries +3.5",
+          "market": "Spread",
+          "odds": -110,
           "units": 0.75,
           "confidence": 3,
-          "event": "ALCS Game 6 · Guardians @ Rays",
-          "time": "5:08 PM PT",
-          "reasoning": "SI and Covers both pick Tampa. Freddy Peralta threw six scoreless innings against Cleveland in Game 2 and has allowed one run all postseason. Cleveland has to cover 27 outs with a bullpen game, since Gavin Williams isn't available, and its relievers are worn down. Tampa went 55-26 at home and has outscored Cleveland 10-4 over the last two games. Playable to -160.",
+          "event": "WNBA Finals Game 3 · Valkyries @ Dream",
+          "time": "5:00 PM PT",
+          "reasoning": "SI and Yahoo both take Golden State. The Valkyries are 7-3 against the spread as road underdogs, and Atlanta is just 10-13 against the spread as a home favorite. Game 2 swung on Atlanta shooting 35 free throws to 19 and forcing 19 turnovers, and Golden State had the league's second-lowest turnover rate going in. Yahoo's model projects Atlanta by only 1.5. We were on Golden State +4.5 in the semis and it won outright. Playable to +3; skip at +2.5.",
           "sources": [
-            {"title": "SI ALCS Game 6", "url": "https://www.si.com/betting/guardians-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-alcs-game-6-2026"},
-            {"title": "Covers ALCS Game 6", "url": "https://www.covers.com/mlb/guardians-vs-rays-prediction-picks-odds-monday-10-19-2026"}
+            {"title": "SI Finals Game 3", "url": "https://www.si.com/betting/valkyries-vs-dream-prediction-odds-best-prop-bet-wnba-finals-game-3-2026"},
+            {"title": "Yahoo Finals Game 3", "url": "https://sports.yahoo.com/articles/valkyries-vs-dream-prediction-picks-131324141.html"}
           ]
         },
         {
-          "pick": "Washington Commanders +7.5",
-          "market": "Spread",
-          "odds": -115,
+          "pick": "Valkyries vs Dream UNDER 151.5",
+          "market": "Game total",
+          "odds": -108,
           "units": 0.5,
           "confidence": 2,
-          "event": "NFL · Commanders @ 49ers (MNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "78% of spread bets are on San Francisco, but the line hasn't moved off 7.5 and the price has shifted toward Washington, which usually means bigger bettors are on the Commanders. Washington is +5 in turnovers with only two giveaways. The 49ers are missing Nick Bosa and Deebo Samuel, their receiver room is decimated, and their kicker has missed five kicks. Risk: SF is 3-0 against the spread at home. Playable to +7; skip at +6.5.",
+          "event": "WNBA Finals Game 3 · Valkyries @ Dream",
+          "time": "5:00 PM PT",
+          "reasoning": "Game 1 totaled 132 and Game 2 finished well under this number too. Neither team has shot 30% from three in this series. Late fouling is the risk. RG.org's pick. Skip if the line drops below 148.",
           "sources": [
-            {"title": "TheSpread MNF preview", "url": "https://www.thespread.com/nfl-articles/commanders-vs-49ers-prediction-october-19-2026/"},
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/commanders-vs-49ers-prediction-picks-oct-19-2026"}
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
           ]
         }
       ],
       "parlay": [
         {
-          "title": "Monday Night Double",
+          "title": "Grind-It-Out Game 3 (SGP)",
           "legs": [
-            {"pick": "Rays ML", "odds": -147, "event": "MLB · CLE @ TB"},
-            {"pick": "Commanders +7.5", "odds": -115, "event": "NFL · WSH @ SF"}
+            {"pick": "Valkyries +3.5", "odds": -110, "event": "GSV @ ATL"},
+            {"pick": "UNDER 151.5", "odds": -108, "event": "GSV @ ATL"}
           ],
           "units": 0.25,
           "confidence": 2,
-          "sgp": false,
-          "reasoning": "The two best straight bets together; they start eight minutes apart. Pays about 2.1-to-1."
+          "sgp": true,
+          "reasoning": "A low-scoring, close game is the setup that suits Golden State's defense best. Correlated legs, so the book will pay less than shown."
         }
       ],
       "props": []
@@ -69,23 +68,8 @@
       "id": "baseball",
       "label": "Baseball",
       "icon": "⚾",
-      "slate": "ALCS Game 6: Guardians @ Rays, 5:08 PM PT on TBS. Tampa leads 3-2 after winning Games 4 (7-3) and 5 (3-1). Peralta vs a Cleveland bullpen game. Rays -147, total 6.5. The winner faces Milwaukee in the World Series starting Friday.",
-      "straight": [
-        {
-          "pick": "Tampa Bay Rays ML",
-          "market": "Moneyline",
-          "odds": -147,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "ALCS Game 6 · Guardians @ Rays",
-          "time": "5:08 PM PT",
-          "reasoning": "Peralta (one run allowed this postseason, six scoreless vs Cleveland in Game 2) against a tired Cleveland bullpen game, at home where Tampa went 55-26. SI and Covers agree. Playable to -160.",
-          "sources": [
-            {"title": "SI ALCS Game 6", "url": "https://www.si.com/betting/guardians-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-alcs-game-6-2026"},
-            {"title": "Covers ALCS Game 6", "url": "https://www.covers.com/mlb/guardians-vs-rays-prediction-picks-odds-monday-10-19-2026"}
-          ]
-        }
-      ],
+      "slate": "Off day. World Series: Rays vs Brewers, Game 1 Friday in Milwaukee.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
@@ -93,45 +77,31 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "Monday Night Football: Commanders @ 49ers, 5:15 PM PT on ESPN/ABC. 49ers -7.5, total about 52 (up from 50.5). San Francisco is without Bosa and Deebo, Mike Evans is questionable, and its receiver room is down to depth players. We pass on the total, since Covers and Dimers like the Under and TheSpread likes the Over.",
-      "straight": [
-        {
-          "pick": "Washington Commanders +7.5",
-          "market": "Spread",
-          "odds": -115,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Commanders @ 49ers",
-          "time": "5:15 PM PT",
-          "reasoning": "Line holding at 7.5 despite 78% of bets on SF, a +5 turnover margin, and a short-handed 49ers team. Skip at +6.5.",
-          "sources": [
-            {"title": "TheSpread MNF preview", "url": "https://www.thespread.com/nfl-articles/commanders-vs-49ers-prediction-october-19-2026/"}
-          ]
-        }
-      ],
+      "slate": "No NFL until Thursday Night Football. No college picks today.",
+      "straight": [],
       "parlay": [],
-      "props": [
-        {
-          "pick": "Brock Purdy 20+ rushing yards",
-          "market": "Player prop",
-          "odds": 125,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Commanders @ 49ers",
-          "time": "5:15 PM PT",
-          "reasoning": "With his receivers banged up, Purdy has topped his rushing line in four of five games. Covers projects 29.4 rushing yards, and Washington allows 19.4 per game to quarterbacks. Price is an estimate from a 44% market; skip below +110.",
-          "sources": [
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/commanders-vs-49ers-prediction-picks-oct-19-2026"}
-          ]
-        }
-      ]
+      "props": []
     },
     {
       "id": "soccer",
       "label": "Soccer",
       "icon": "⚽",
-      "slate": "No picks today.",
-      "straight": [],
+      "slate": "Champions League: Arsenal @ Bayern Munich at 12:00 PM PT. Bayern is without the suspended Michael Olise.",
+      "straight": [
+        {
+          "pick": "Arsenal to win",
+          "market": "Moneyline (90 min)",
+          "odds": 240,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Champions League · Bayern vs Arsenal",
+          "time": "12:00 PM PT",
+          "reasoning": "Arsenal has been the tightest defense in the Champions League, and Bayern is missing Olise, its main creator. Arsenal's price has drifted up all week. RG.org's pick. A quarter unit, since Bayern's attack at home is dangerous. Skip below +210.",
+          "sources": [
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
+          ]
+        }
+      ],
       "parlay": [],
       "props": []
     },
@@ -139,19 +109,19 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Monday card includes Avalanche @ Flyers (4:00 PM PT), Sharks @ Maple Leafs (4:30) and Penguins @ Mammoth (6:00). Covers and Dimers disagree on both of the latter totals, so we only play one small edge.",
+      "slate": "Wednesday card includes Panthers @ Senators (4:30 PM PT).",
       "straight": [
         {
-          "pick": "Philadelphia Flyers +1.5",
-          "market": "Puck line",
-          "odds": -117,
+          "pick": "Panthers vs Senators UNDER 5.5",
+          "market": "Game total",
+          "odds": 105,
           "units": 0.25,
           "confidence": 2,
-          "event": "Avalanche @ Flyers",
-          "time": "4:00 PM PT",
-          "reasoning": "Dimers' model gives Philly a 58.4% chance to lose by one or win, against 53.9% implied. The Flyers' offense is weak, but this only needs a close game. Quarter unit. Playable to -130.",
+          "event": "Panthers @ Senators",
+          "time": "4:30 PM PT",
+          "reasoning": "Ottawa's offense has been struggling, and Florida allows few shots. Plus money on the Under. Check Florida's goalie, since it's the second night of a back-to-back. RG.org's pick. Skip if it moves to -120.",
           "sources": [
-            {"title": "Dimers best bets", "url": "https://dimers.com/news/best-bets-10-19-2026-ac"}
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
           ]
         }
       ],
@@ -171,10 +141,64 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "WNBA Finals Game 2: Dream @ Valkyries, 5:00 PM PT on USA. Golden State won Game 1 68-64, with both teams shooting poorly (11-of-58 from three combined). Valkyries -2.5, total 152.5. Sources split three ways (Yahoo: Dream +2.5; Dimers: Valkyries ML and a big Over), and the Over looks too optimistic after a 132-point Game 1, so no bet. Game 3 is Wednesday in Atlanta. The NBA season tips off Tuesday.",
-      "straight": [],
+      "slate": "WNBA Finals Game 3 (5:00 PM PT) in Atlanta; Game 4 is Saturday. Atlanta's Brionna Jones is out. NBA: Timberwolves @ Heat (4:30) and Warriors @ Lakers (7:00) among a full night.",
+      "straight": [
+        {
+          "pick": "Golden State Valkyries +3.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "Valkyries @ Dream",
+          "time": "5:00 PM PT",
+          "reasoning": "7-3 against the spread as road underdogs; Atlanta 10-13 as home favorites. SI and Yahoo agree. Skip at +2.5.",
+          "sources": [
+            {"title": "SI Finals Game 3", "url": "https://www.si.com/betting/valkyries-vs-dream-prediction-odds-best-prop-bet-wnba-finals-game-3-2026"}
+          ]
+        },
+        {
+          "pick": "Los Angeles Lakers -6.5",
+          "market": "Spread",
+          "odds": -108,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NBA · Warriors @ Lakers",
+          "time": "7:00 PM PT",
+          "reasoning": "Golden State is missing several rotation players and Steph Curry is only probable after an ankle sprain. Luka should be able to exploit it. RG.org's pick. Skip at -8.",
+          "sources": [
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
+          ]
+        },
+        {
+          "pick": "Minnesota Timberwolves ML",
+          "market": "Moneyline",
+          "odds": 102,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NBA · Timberwolves @ Heat",
+          "time": "4:30 PM PT",
+          "reasoning": "Minnesota has the better defense, and plus money for the better team is the value. RG.org's pick. Miami's pace at home is the risk.",
+          "sources": [
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
+          ]
+        }
+      ],
       "parlay": [],
-      "props": []
+      "props": [
+        {
+          "pick": "Veronica Burton UNDER 4.5 assists",
+          "market": "Player prop",
+          "odds": -132,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Valkyries @ Dream",
+          "time": "5:00 PM PT",
+          "reasoning": "She's had fewer than five assists in every game since the semifinals, with 3 and 2 in the first two Finals games, and Atlanta held her under in two of three regular-season meetings. SI's best prop.",
+          "sources": [
+            {"title": "SI Finals Game 3", "url": "https://www.si.com/betting/valkyries-vs-dream-prediction-odds-best-prop-bet-wnba-finals-game-3-2026"}
+          ]
+        }
+      ]
     }
   ]
 }
