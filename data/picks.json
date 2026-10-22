@@ -1,65 +1,67 @@
 {
-  "date": "2026-10-21",
-  "updated": "2026-10-21T11:30:00-07:00",
-  "headline": "Wednesday slate: WNBA Finals Game 3 (Valkyries @ Dream, tied 1-1), a full NBA night including Warriors @ Lakers, Champions League (Arsenal @ Bayern at noon PT), and NHL. The World Series starts Friday.",
+  "date": "2026-10-22",
+  "updated": "2026-10-22T11:15:00-07:00",
+  "headline": "Thursday slate: Patriots @ Bears on Thursday Night Football, a full NBA night, Hurricanes @ Oilers, and James Madison @ App State. The World Series starts Friday, and WNBA Finals Game 4 is Saturday (Atlanta leads 2-1).",
   "record": {
-    "label": "Yesterday (Tue 10/20)",
+    "label": "Yesterday (Wed 10/21)",
     "wins": 2, "losses": 6, "pushes": 0, "pending": 1,
-    "units": -1.07,
-    "note": "The Pistons covered (won outright), but the Spurs, Knicks -4.5, Avalanche, Juárez and Red Wings-Kraken Under (4-3 in a shootout) all lost. Opening night was rough, which is why those were small bets."
+    "units": -2.26,
+    "note": "The Dream blew out the Valkyries 97-71, which sank the +3.5, the Under and the SGP. Bayern-Arsenal drew 2-2 and Panthers-Senators went over (5-1). The Lakers covered easily (127-105), and the Timberwolves won by 25. The Burton prop couldn't be confirmed."
   },
   "notes": [
-    "Arsenal @ Bayern kicks off at 12:00 PM PT — bet it first or skip it.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
-    "Early-season NBA lines are still noisy, so NBA stakes stay at a quarter unit for now.",
-    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning."
+    "The board is down about 4 units overall — keep stakes modest.",
+    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
+    "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
   ],
   "sections": [
     {
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Tuesday these went 1-1. Today centers on WNBA Finals Game 3, where two sources agree on the Valkyries with points.",
+      "slate": "The strongest edges across today's card. Wednesday these went 0-3. Today three separate sources land on the Bears.",
       "straight": [
         {
-          "pick": "Golden State Valkyries +3.5",
+          "pick": "Chicago Bears -3",
           "market": "Spread",
-          "odds": -110,
+          "odds": -105,
           "units": 0.75,
           "confidence": 3,
-          "event": "WNBA Finals Game 3 · Valkyries @ Dream",
-          "time": "5:00 PM PT",
-          "reasoning": "SI and Yahoo both take Golden State. The Valkyries are 7-3 against the spread as road underdogs, and Atlanta is just 10-13 against the spread as a home favorite. Game 2 swung on Atlanta shooting 35 free throws to 19 and forcing 19 turnovers, and Golden State had the league's second-lowest turnover rate going in. Yahoo's model projects Atlanta by only 1.5. We were on Golden State +4.5 in the semis and it won outright. Playable to +3; skip at +2.5.",
+          "event": "NFL · Patriots @ Bears (TNF)",
+          "time": "5:15 PM PT",
+          "reasoning": "RG.org, TheSpread and TheLines all pick Chicago. About 72% of bets are on New England, but the line hasn't moved and the Bears' moneyline has gotten shorter, a sign bigger money is on Chicago. New England is missing both starting guards and three cornerbacks, and its road scoring margin is -9.7 (28th). Chicago is +8.3 at home and has averaged 45 points in Caleb Williams' two full games. A 3-point Bears win is a push. Playable at -3 up to -115; skip at -3.5.",
           "sources": [
-            {"title": "SI Finals Game 3", "url": "https://www.si.com/betting/valkyries-vs-dream-prediction-odds-best-prop-bet-wnba-finals-game-3-2026"},
-            {"title": "Yahoo Finals Game 3", "url": "https://sports.yahoo.com/articles/valkyries-vs-dream-prediction-picks-131324141.html"}
+            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/patriots-vs-bears-prediction-for-october-22-is-new-england-too-banged-up/"},
+            {"title": "TheLines TNF", "url": "https://www.thelines.com/nfl/picks/patriots-vs-bears-prediction-odds-picks-for-oct-22-bears-continue-home-success/"},
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
           ]
         },
         {
-          "pick": "Valkyries vs Dream UNDER 151.5",
+          "pick": "Patriots vs Bears OVER 50.5",
           "market": "Game total",
-          "odds": -108,
+          "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "WNBA Finals Game 3 · Valkyries @ Dream",
-          "time": "5:00 PM PT",
-          "reasoning": "Game 1 totaled 132 and Game 2 finished well under this number too. Neither team has shot 30% from three in this series. Late fouling is the risk. RG.org's pick. Skip if the line drops below 148.",
+          "event": "NFL · Patriots @ Bears (TNF)",
+          "time": "5:15 PM PT",
+          "reasoning": "Covers and TheSpread both like the Over. Chicago scored 59 and 31 with Williams healthy, and New England has averaged 33.3 over its three-game win streak, with Drake Maye throwing three TDs in each. Both secondaries are depleted, and Chicago is tied for last in yards per play allowed. Risk: the short week. Playable to 51.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
+            {"title": "Covers TNF", "url": "https://www.covers.com/nfl/patriots-vs-bears-prediction-picks-oct-22-2026"},
+            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/patriots-vs-bears-prediction-for-october-22-is-new-england-too-banged-up/"}
           ]
         }
       ],
       "parlay": [
         {
-          "title": "Grind-It-Out Game 3 (SGP)",
+          "title": "Bears Shootout (SGP)",
           "legs": [
-            {"pick": "Valkyries +3.5", "odds": -110, "event": "GSV @ ATL"},
-            {"pick": "UNDER 151.5", "odds": -108, "event": "GSV @ ATL"}
+            {"pick": "Bears -3", "odds": -105, "event": "NE @ CHI"},
+            {"pick": "OVER 50.5", "odds": -110, "event": "NE @ CHI"}
           ],
           "units": 0.25,
           "confidence": 2,
           "sgp": true,
-          "reasoning": "A low-scoring, close game is the setup that suits Golden State's defense best. Correlated legs, so the book will pay less than shown."
+          "reasoning": "If Chicago's offense rolls like it has with Williams, both legs likely hit together. Correlated, so the book pays less than shown."
         }
       ],
       "props": []
@@ -68,7 +70,7 @@
       "id": "baseball",
       "label": "Baseball",
       "icon": "⚾",
-      "slate": "Off day. World Series: Rays vs Brewers, Game 1 Friday in Milwaukee.",
+      "slate": "Off day. World Series Game 1: Rays @ Brewers, Friday. Picks tomorrow.",
       "straight": [],
       "parlay": [],
       "props": []
@@ -77,28 +79,45 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "No NFL until Thursday Night Football. No college picks today.",
-      "straight": [],
-      "parlay": [],
-      "props": []
-    },
-    {
-      "id": "soccer",
-      "label": "Soccer",
-      "icon": "⚽",
-      "slate": "Champions League: Arsenal @ Bayern Munich at 12:00 PM PT. Bayern is without the suspended Michael Olise.",
+      "slate": "Thursday Night Football: Patriots @ Bears, 5:15 PM PT on Prime Video. Bears -3, total 50.5-51. Caleb Williams is off the injury report; New England is without both starting guards and three cornerbacks. College: James Madison @ App State (4:00 PM PT).",
       "straight": [
         {
-          "pick": "Arsenal to win",
-          "market": "Moneyline (90 min)",
-          "odds": 240,
+          "pick": "Chicago Bears -3",
+          "market": "Spread",
+          "odds": -105,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "Patriots @ Bears",
+          "time": "5:15 PM PT",
+          "reasoning": "Three sources agree, there's a sharp-money signal, and New England's line and secondary are banged up. Skip at -3.5.",
+          "sources": [
+            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/patriots-vs-bears-prediction-for-october-22-is-new-england-too-banged-up/"}
+          ]
+        },
+        {
+          "pick": "Patriots vs Bears OVER 50.5",
+          "market": "Game total",
+          "odds": -110,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "Patriots @ Bears",
+          "time": "5:15 PM PT",
+          "reasoning": "Both offenses are hot and both secondaries are depleted. Playable to 51.",
+          "sources": [
+            {"title": "Covers TNF", "url": "https://www.covers.com/nfl/patriots-vs-bears-prediction-picks-oct-22-2026"}
+          ]
+        },
+        {
+          "pick": "James Madison -10.5",
+          "market": "Spread",
+          "odds": -109,
           "units": 0.25,
           "confidence": 2,
-          "event": "Champions League · Bayern vs Arsenal",
-          "time": "12:00 PM PT",
-          "reasoning": "Arsenal has been the tightest defense in the Champions League, and Bayern is missing Olise, its main creator. Arsenal's price has drifted up all week. RG.org's pick. A quarter unit, since Bayern's attack at home is dangerous. Skip below +210.",
+          "event": "NCAAF · James Madison @ App State",
+          "time": "4:00 PM PT",
+          "reasoning": "There's a 17.4-point SP+ rating gap before home field, and JMU hasn't lost on the road. RG.org's pick. Skip at -12.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
           ]
         }
       ],
@@ -106,22 +125,31 @@
       "props": []
     },
     {
+      "id": "soccer",
+      "label": "Soccer",
+      "icon": "⚽",
+      "slate": "No picks today.",
+      "straight": [],
+      "parlay": [],
+      "props": []
+    },
+    {
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Wednesday card includes Panthers @ Senators (4:30 PM PT).",
+      "slate": "Thursday card includes Hurricanes @ Oilers (6:00 PM PT).",
       "straight": [
         {
-          "pick": "Panthers vs Senators UNDER 5.5",
-          "market": "Game total",
-          "odds": 105,
+          "pick": "Edmonton Oilers ML",
+          "market": "Moneyline",
+          "odds": 100,
           "units": 0.25,
           "confidence": 2,
-          "event": "Panthers @ Senators",
-          "time": "4:30 PM PT",
-          "reasoning": "Ottawa's offense has been struggling, and Florida allows few shots. Plus money on the Under. Check Florida's goalie, since it's the second night of a back-to-back. RG.org's pick. Skip if it moves to -120.",
+          "event": "Hurricanes @ Oilers",
+          "time": "6:00 PM PT",
+          "reasoning": "Edmonton scores a league-best 4.56 goals a game and McDavid has 26 points in nine games. Even money at home. Their penalty kill (74.1%, 22nd) is the risk. RG.org's pick.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
           ]
         }
       ],
@@ -141,64 +169,37 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "WNBA Finals Game 3 (5:00 PM PT) in Atlanta; Game 4 is Saturday. Atlanta's Brionna Jones is out. NBA: Timberwolves @ Heat (4:30) and Warriors @ Lakers (7:00) among a full night.",
+      "slate": "NBA: Cavaliers @ 76ers (4:00 PM PT) and Nuggets @ Thunder (6:30) among a full night. WNBA Finals Game 4 is Saturday at 10:00 AM PT in Atlanta; the Dream lead 2-1.",
       "straight": [
         {
-          "pick": "Golden State Valkyries +3.5",
+          "pick": "Cleveland Cavaliers +3.5",
           "market": "Spread",
-          "odds": -110,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "Valkyries @ Dream",
-          "time": "5:00 PM PT",
-          "reasoning": "7-3 against the spread as road underdogs; Atlanta 10-13 as home favorites. SI and Yahoo agree. Skip at +2.5.",
+          "odds": -115,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NBA · Cavaliers @ 76ers",
+          "time": "4:00 PM PT",
+          "reasoning": "FanDuel has the extra half-point (+3.5). RG.org's pick. Check Jarrett Allen's status (right knee) before betting, and skip if he's out.",
           "sources": [
-            {"title": "SI Finals Game 3", "url": "https://www.si.com/betting/valkyries-vs-dream-prediction-odds-best-prop-bet-wnba-finals-game-3-2026"}
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
           ]
         },
         {
-          "pick": "Los Angeles Lakers -6.5",
+          "pick": "Denver Nuggets +8.5",
           "market": "Spread",
-          "odds": -108,
+          "odds": -115,
           "units": 0.25,
           "confidence": 2,
-          "event": "NBA · Warriors @ Lakers",
-          "time": "7:00 PM PT",
-          "reasoning": "Golden State is missing several rotation players and Steph Curry is only probable after an ankle sprain. Luka should be able to exploit it. RG.org's pick. Skip at -8.",
+          "event": "NBA · Nuggets @ Thunder",
+          "time": "6:30 PM PT",
+          "reasoning": "8.5 points is a lot to lay in opening week against a Jokić team. OKC's depth and pace are the risk for a late blowout. RG.org's pick.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
-          ]
-        },
-        {
-          "pick": "Minnesota Timberwolves ML",
-          "market": "Moneyline",
-          "odds": 102,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NBA · Timberwolves @ Heat",
-          "time": "4:30 PM PT",
-          "reasoning": "Minnesota has the better defense, and plus money for the better team is the value. RG.org's pick. Miami's pace at home is the risk.",
-          "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-dream-valkyries-lakers-warriors-october-21-2026"}
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
           ]
         }
       ],
       "parlay": [],
-      "props": [
-        {
-          "pick": "Veronica Burton UNDER 4.5 assists",
-          "market": "Player prop",
-          "odds": -132,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Valkyries @ Dream",
-          "time": "5:00 PM PT",
-          "reasoning": "She's had fewer than five assists in every game since the semifinals, with 3 and 2 in the first two Finals games, and Atlanta held her under in two of three regular-season meetings. SI's best prop.",
-          "sources": [
-            {"title": "SI Finals Game 3", "url": "https://www.si.com/betting/valkyries-vs-dream-prediction-odds-best-prop-bet-wnba-finals-game-3-2026"}
-          ]
-        }
-      ]
+      "props": []
     }
   ]
 }
