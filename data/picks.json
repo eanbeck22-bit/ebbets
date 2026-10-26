@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-22",
-  "updated": "2026-10-22T11:15:00-07:00",
-  "headline": "Thursday slate: Patriots @ Bears on Thursday Night Football, a full NBA night, Hurricanes @ Oilers, and James Madison @ App State. The World Series starts Friday, and WNBA Finals Game 4 is Saturday (Atlanta leads 2-1).",
+  "date": "2026-10-26",
+  "updated": "2026-10-26T11:00:00-07:00",
+  "headline": "Big Monday: World Series Game 3 (Brewers @ Rays, Milwaukee leads 2-0), WNBA Finals Game 5 (Dream @ Valkyries, tied 2-2), and Cowboys @ Eagles on Monday Night Football. All three start around 5:00 PM PT.",
   "record": {
-    "label": "Yesterday (Wed 10/21)",
-    "wins": 2, "losses": 6, "pushes": 0, "pending": 1,
-    "units": -2.26,
-    "note": "The Dream blew out the Valkyries 97-71, which sank the +3.5, the Under and the SGP. Bayern-Arsenal drew 2-2 and Panthers-Senators went over (5-1). The Lakers covered easily (127-105), and the Timberwolves won by 25. The Burton prop couldn't be confirmed."
+    "label": "Last board (Fri 10/23)",
+    "wins": 6, "losses": 2, "pushes": 0, "pending": 0,
+    "units": 1.66,
+    "note": "World Series Game 1 went our way: Chourio went 2-for-4 with a run and an RBI, Misiorowski had just 3 strikeouts, and the Brewers won 3-2. The Timberwolves won by 22. The Wizards (+7.5) and Bucks missed. The board is now back above even overall (about +0.4u)."
   },
   "notes": [
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
-    "The board is down about 4 units overall — keep stakes modest.",
+    "The board is roughly back to break-even after a rough first week. Keep stakes the same; don't chase.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
   ],
@@ -19,110 +19,139 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Wednesday these went 0-3. Today three separate sources land on the Bears.",
+      "slate": "The strongest edges across today's card. Friday these went 2-0. Today: the Rays at home behind Peralta, and the Under in a WNBA Finals Game 5 between two elite defenses.",
       "straight": [
         {
-          "pick": "Chicago Bears -3",
-          "market": "Spread",
-          "odds": -105,
+          "pick": "Tampa Bay Rays ML",
+          "market": "Moneyline",
+          "odds": -120,
           "units": 0.75,
           "confidence": 3,
-          "event": "NFL · Patriots @ Bears (TNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "RG.org, TheSpread and TheLines all pick Chicago. About 72% of bets are on New England, but the line hasn't moved and the Bears' moneyline has gotten shorter, a sign bigger money is on Chicago. New England is missing both starting guards and three cornerbacks, and its road scoring margin is -9.7 (28th). Chicago is +8.3 at home and has averaged 45 points in Caleb Williams' two full games. A 3-point Bears win is a push. Playable at -3 up to -115; skip at -3.5.",
+          "event": "World Series Game 3 · Brewers @ Rays",
+          "time": "5:00 PM PT",
+          "reasoning": "SI and Covers both pick Tampa. Freddy Peralta has a 1.08 ERA in three playoff starts and has gone at least 14 outs in each. He beat Cleveland twice for us in the ALCS. Milwaukee starts Robert Gasser, who has recorded just four and five outs in his two playoff outings, so its bullpen will carry a heavy load. Tampa went 55-26 at home. Both World Series games so far were one-run games. Playable to -130.",
           "sources": [
-            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/patriots-vs-bears-prediction-for-october-22-is-new-england-too-banged-up/"},
-            {"title": "TheLines TNF", "url": "https://www.thelines.com/nfl/picks/patriots-vs-bears-prediction-odds-picks-for-oct-22-bears-continue-home-success/"},
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
+            {"title": "SI World Series Game 3", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-3-2026"},
+            {"title": "Covers World Series Game 3", "url": "https://www.covers.com/mlb/brewers-vs-rays-prediction-picks-odds-monday-10-26-2026"}
           ]
         },
         {
-          "pick": "Patriots vs Bears OVER 50.5",
+          "pick": "Dream vs Valkyries UNDER 149.5",
           "market": "Game total",
           "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "NFL · Patriots @ Bears (TNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "Covers and TheSpread both like the Over. Chicago scored 59 and 31 with Williams healthy, and New England has averaged 33.3 over its three-game win streak, with Drake Maye throwing three TDs in each. Both secondaries are depleted, and Chicago is tied for last in yards per play allowed. Risk: the short week. Playable to 51.",
+          "event": "WNBA Finals Game 5 · Dream @ Valkyries",
+          "time": "5:00 PM PT",
+          "reasoning": "Only one of the four Finals games has gone over 149.5, and Game 4 totaled just 129. Both teams are shooting well under 40%, both had top-five defenses, and Golden State plays slow and hit the Under in 16 of 28 home games. SI's pick. We lost the Game 3 Under, the one blowout, so it's half a unit. Playable to 148.",
           "sources": [
-            {"title": "Covers TNF", "url": "https://www.covers.com/nfl/patriots-vs-bears-prediction-picks-oct-22-2026"},
-            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/patriots-vs-bears-prediction-for-october-22-is-new-england-too-banged-up/"}
+            {"title": "SI Finals Game 5", "url": "https://www.si.com/betting/dream-vs-valkyries-prediction-odds-best-prop-bet-wnba-playoffs-finals-game-5-2026"}
           ]
         }
       ],
-      "parlay": [
+      "parlay": [],
+      "props": [
         {
-          "title": "Bears Shootout (SGP)",
-          "legs": [
-            {"pick": "Bears -3", "odds": -105, "event": "NE @ CHI"},
-            {"pick": "OVER 50.5", "odds": -110, "event": "NE @ CHI"}
-          ],
-          "units": 0.25,
+          "pick": "Freddy Peralta OVER 14.5 outs",
+          "market": "Player prop",
+          "odds": -159,
+          "units": 0.5,
           "confidence": 2,
-          "sgp": true,
-          "reasoning": "If Chicago's offense rolls like it has with Williams, both legs likely hit together. Correlated, so the book pays less than shown."
+          "event": "World Series Game 3 · Brewers @ Rays",
+          "time": "5:00 PM PT",
+          "reasoning": "He's recorded at least 14 outs in all three playoff starts (two earned runs in 16.2 innings), and Tampa needs length from him in a must-win game. He cleared 13.5 outs for us against Cleveland. Expensive, so half a unit. Playable to -170.",
+          "sources": [
+            {"title": "SI World Series Game 3", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-3-2026"}
+          ]
         }
-      ],
-      "props": []
+      ]
     },
     {
       "id": "baseball",
       "label": "Baseball",
       "icon": "⚾",
-      "slate": "Off day. World Series Game 1: Rays @ Brewers, Friday. Picks tomorrow.",
-      "straight": [],
-      "parlay": [],
-      "props": []
+      "slate": "World Series Game 3: Brewers @ Rays, 5:00 PM PT on FOX. Milwaukee leads 2-0 after two one-run wins (3-2, 5-4). Gasser vs Peralta. Rays -120, total 7. Games 4 and 5 are also in Tampa, Tuesday and Wednesday.",
+      "straight": [
+        {
+          "pick": "Tampa Bay Rays ML",
+          "market": "Moneyline",
+          "odds": -120,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "World Series Game 3 · Brewers @ Rays",
+          "time": "5:00 PM PT",
+          "reasoning": "Peralta (1.08 playoff ERA) at home against a short-leash Gasser. SI and Covers agree. Playable to -130.",
+          "sources": [
+            {"title": "SI World Series Game 3", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-3-2026"}
+          ]
+        }
+      ],
+      "parlay": [
+        {
+          "title": "Peralta Goes Deep (SGP)",
+          "legs": [
+            {"pick": "Rays ML", "odds": -120, "event": "MIL @ TB"},
+            {"pick": "Peralta OVER 14.5 outs", "odds": -159, "event": "MIL @ TB"}
+          ],
+          "units": 0.25,
+          "confidence": 2,
+          "sgp": true,
+          "reasoning": "If Peralta goes five-plus innings, Tampa is very likely in control. Correlated, so the book pays less than shown."
+        }
+      ],
+      "props": [
+        {
+          "pick": "Freddy Peralta OVER 14.5 outs",
+          "market": "Player prop",
+          "odds": -159,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "World Series Game 3 · Brewers @ Rays",
+          "time": "5:00 PM PT",
+          "reasoning": "14+ outs in all three playoff starts. Playable to -170.",
+          "sources": [
+            {"title": "SI World Series Game 3", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-3-2026"}
+          ]
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "Thursday Night Football: Patriots @ Bears, 5:15 PM PT on Prime Video. Bears -3, total 50.5-51. Caleb Williams is off the injury report; New England is without both starting guards and three cornerbacks. College: James Madison @ App State (4:00 PM PT).",
+      "slate": "Monday Night Football: Cowboys @ Eagles, 5:15 PM PT on ESPN/ABC. Dallas -4.5, total 44-44.5. Philadelphia is without Jalen Hurts (backup Tanner McKee starts), DeVonta Smith and Dontayvion Wicks; Saquon Barkley is expected back. Sources split on the side (two take Dallas, Covers takes Philly), so the bets are small.",
       "straight": [
         {
-          "pick": "Chicago Bears -3",
+          "pick": "Dallas Cowboys -4.5",
           "market": "Spread",
-          "odds": -105,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "Patriots @ Bears",
-          "time": "5:15 PM PT",
-          "reasoning": "Three sources agree, there's a sharp-money signal, and New England's line and secondary are banged up. Skip at -3.5.",
-          "sources": [
-            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/patriots-vs-bears-prediction-for-october-22-is-new-england-too-banged-up/"}
-          ]
-        },
-        {
-          "pick": "Patriots vs Bears OVER 50.5",
-          "market": "Game total",
-          "odds": -110,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Patriots @ Bears",
-          "time": "5:15 PM PT",
-          "reasoning": "Both offenses are hot and both secondaries are depleted. Playable to 51.",
-          "sources": [
-            {"title": "Covers TNF", "url": "https://www.covers.com/nfl/patriots-vs-bears-prediction-picks-oct-22-2026"}
-          ]
-        },
-        {
-          "pick": "James Madison -10.5",
-          "market": "Spread",
-          "odds": -109,
+          "odds": -108,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAF · James Madison @ App State",
-          "time": "4:00 PM PT",
-          "reasoning": "There's a 17.4-point SP+ rating gap before home field, and JMU hasn't lost on the road. RG.org's pick. Skip at -12.",
+          "event": "Cowboys @ Eagles",
+          "time": "5:15 PM PT",
+          "reasoning": "TheLines and SportsBettingDime both pick Dallas. Philadelphia is 1-5 against the spread and missing its starting QB and top two receivers. Dallas converts 47% of third downs to Philly's 37%. Covers argues the other way, since the Dallas offense has stalled lately. Quarter unit. Skip at -5.5.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
+            {"title": "TheLines MNF", "url": "https://www.thelines.com/nfl/picks/cowboys-vs-eagles-prediction-odds-picks-for-oct-26-philly-struggles-with-injuries/"},
+            {"title": "SportsBettingDime MNF", "url": "https://www.sportsbettingdime.com/news/nfl/cowboys-eagles-predictions-best-picks-monday-night-football-oct-26/"}
           ]
         }
       ],
       "parlay": [],
-      "props": []
+      "props": [
+        {
+          "pick": "CeeDee Lamb OVER 78.5 receiving yards",
+          "market": "Player prop",
+          "odds": -114,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Cowboys @ Eagles",
+          "time": "5:15 PM PT",
+          "reasoning": "He's averaging 96.2 yards a game, and Philadelphia allows the fourth-most receiving yards to wideouts (182.7 a game). TheLines' prop. Quarter unit.",
+          "sources": [
+            {"title": "TheLines MNF", "url": "https://www.thelines.com/nfl/picks/cowboys-vs-eagles-prediction-odds-picks-for-oct-26-philly-struggles-with-injuries/"}
+          ]
+        }
+      ]
     },
     {
       "id": "soccer",
@@ -137,22 +166,8 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Thursday card includes Hurricanes @ Oilers (6:00 PM PT).",
-      "straight": [
-        {
-          "pick": "Edmonton Oilers ML",
-          "market": "Moneyline",
-          "odds": 100,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Hurricanes @ Oilers",
-          "time": "6:00 PM PT",
-          "reasoning": "Edmonton scores a league-best 4.56 goals a game and McDavid has 26 points in nine games. Even money at home. Their penalty kill (74.1%, 22nd) is the risk. RG.org's pick.",
-          "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
-          ]
-        }
-      ],
+      "slate": "No picks today.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
@@ -169,37 +184,51 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "NBA: Cavaliers @ 76ers (4:00 PM PT) and Nuggets @ Thunder (6:30) among a full night. WNBA Finals Game 4 is Saturday at 10:00 AM PT in Atlanta; the Dream lead 2-1.",
+      "slate": "WNBA Finals Game 5: Dream @ Valkyries, 5:00 PM PT on USA, series tied 2-2. Valkyries -1.5, total 149.5. Atlanta's Brionna Jones is out. Game 6 is Thursday in Atlanta. No NBA picks today.",
       "straight": [
         {
-          "pick": "Cleveland Cavaliers +3.5",
-          "market": "Spread",
-          "odds": -115,
-          "units": 0.25,
+          "pick": "Dream vs Valkyries UNDER 149.5",
+          "market": "Game total",
+          "odds": -110,
+          "units": 0.5,
           "confidence": 2,
-          "event": "NBA · Cavaliers @ 76ers",
-          "time": "4:00 PM PT",
-          "reasoning": "FanDuel has the extra half-point (+3.5). RG.org's pick. Check Jarrett Allen's status (right knee) before betting, and skip if he's out.",
+          "event": "Dream @ Valkyries",
+          "time": "5:00 PM PT",
+          "reasoning": "Three of four Finals games have stayed under, and Game 4 totaled 129. Both defenses are elite. Playable to 148.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
-          ]
-        },
-        {
-          "pick": "Denver Nuggets +8.5",
-          "market": "Spread",
-          "odds": -115,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NBA · Nuggets @ Thunder",
-          "time": "6:30 PM PT",
-          "reasoning": "8.5 points is a lot to lay in opening week against a Jokić team. OKC's depth and pace are the risk for a late blowout. RG.org's pick.",
-          "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-patriots-bears-cavaliers-76ers-october-22-2026"}
+            {"title": "SI Finals Game 5", "url": "https://www.si.com/betting/dream-vs-valkyries-prediction-odds-best-prop-bet-wnba-playoffs-finals-game-5-2026"}
           ]
         }
       ],
       "parlay": [],
-      "props": []
+      "props": [
+        {
+          "pick": "Angel Reese UNDER 2.5 assists",
+          "market": "Player prop",
+          "odds": -115,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Dream @ Valkyries",
+          "time": "5:00 PM PT",
+          "reasoning": "Her playoff role is rebounding and finishing, not creating, and Golden State has the league's top interior defense. Yahoo projects 1.94 assists. Quarter unit.",
+          "sources": [
+            {"title": "Yahoo Finals Game 5", "url": "https://sports.yahoo.com/articles/dream-vs-valkyries-prediction-picks-124153899.html"}
+          ]
+        },
+        {
+          "pick": "Rhyne Howard UNDER 2.5 made threes",
+          "market": "Player prop",
+          "odds": -126,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Dream @ Valkyries",
+          "time": "5:00 PM PT",
+          "reasoning": "She hasn't cleared this in any Finals game (2, 1, 1, 2 made) and is shooting 29.3% from three in the playoffs against the league's best three-point defense. SI's best prop.",
+          "sources": [
+            {"title": "SI Finals Game 5", "url": "https://www.si.com/betting/dream-vs-valkyries-prediction-odds-best-prop-bet-wnba-playoffs-finals-game-5-2026"}
+          ]
+        }
+      ]
     }
   ]
 }
