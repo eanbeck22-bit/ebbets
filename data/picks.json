@@ -1,143 +1,77 @@
 {
-  "date": "2026-10-27",
-  "updated": "2026-10-27T11:30:00-07:00",
-  "headline": "World Series Game 4: Brewers @ Rays, 5:00 PM PT on FOX. Milwaukee leads 3-0 and can sweep for its first title. Plus an 11-game NHL card. WNBA Finals Game 6 is Thursday (Valkyries lead 3-2).",
+  "date": "2026-10-28",
+  "updated": "2026-10-28T11:00:00-07:00",
+  "headline": "World Series Game 5: Brewers @ Rays, 5:00 PM PT on FOX. Milwaukee leads 3-1 after Tampa won Game 4 in 12 innings. Misiorowski starts for the Brewers. Plus NHL. WNBA Finals Game 6 is Thursday.",
   "record": {
-    "label": "Yesterday (Mon 10/26)",
-    "wins": 3, "losses": 6, "pushes": 0, "pending": 2,
-    "units": -1.86,
-    "note": "Milwaukee blew out the Rays 10-1 and chased Peralta in the 5th, so the Rays ML, Peralta outs and the SGP all lost. The WNBA Finals Under hit (64-55), and the Cowboys covered (38-21). Reese had 5 assists (lost). The Lamb yards and Howard threes props couldn't be confirmed."
+    "label": "Yesterday (Tue 10/27)",
+    "wins": 2, "losses": 7, "pushes": 0, "pending": 1,
+    "units": -2.48,
+    "note": "A bad night. The Rays rallied in the 12th to win 4-3, beating the Brewers ML and the SGP. Hellebuyck shut down the Stars in his Devils debut, and Blue Jackets-Flyers went to OT over the total. Only the Panthers (5-1) hit. The Contreras prop couldn't be confirmed."
   },
   "notes": [
+    "The board is down about 4 units overall after two losing days. Today's card is short on purpose.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
-    "The board is down about 1.5 units overall. Same stakes, no chasing.",
-    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning."
+    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
+    "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
   ],
   "sections": [
     {
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Monday these went 1-2. Today: the Brewers going for the sweep, plus two NHL sides where SI and SportsBettingDime agree.",
+      "slate": "The strongest edge on today's card. Tuesday these went 1-3. One main play today: the best starter in baseball against a worn-out Rays staff.",
       "straight": [
         {
           "pick": "Milwaukee Brewers ML",
           "market": "Moneyline",
-          "odds": -131,
+          "odds": -145,
           "units": 0.75,
           "confidence": 3,
-          "event": "World Series Game 4 · Brewers @ Rays",
+          "event": "World Series Game 5 · Brewers @ Rays",
           "time": "5:00 PM PT",
-          "reasoning": "TheLines and Yahoo both pick Milwaukee. The Brewers are 9-1 this postseason and have won seven straight. Their bullpen has a 1.34 ERA over nearly 54 playoff innings and should be fully rested for a bullpen game. Tampa starts Griffin Jax, who allowed three runs in four innings last time out. Playable to -145.",
+          "reasoning": "SI and TheSpread both pick Milwaukee. Misiorowski led the majors with a 1.80 ERA and 252 strikeouts, is on full rest, and allowed one run over five innings against Tampa in Game 1. The Rays have no rested starter after a 12-inning Game 4, so it's Rasmussen on three days' rest or another bullpen game. The line has moved from -128 to -155 in Milwaukee's favor. Risk: Milwaukee's bullpen also worked deep Tuesday. Prices range from -141 to -155; playable to -155.",
           "sources": [
-            {"title": "TheLines World Series Game 4", "url": "https://www.thelines.com/mlb/picks/brewers-vs-rays-prediction-odds-props-for-oct-27-milwaukee-wins-it-all/"},
-            {"title": "Yahoo World Series Game 4", "url": "https://sports.yahoo.com/articles/rays-vs-brewers-picks-odds-151239598.html"}
-          ]
-        },
-        {
-          "pick": "Florida Panthers ML",
-          "market": "Moneyline",
-          "odds": -130,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "NHL · Panthers @ Jets",
-          "time": "5:00 PM PT",
-          "reasoning": "SI and SportsBettingDime both pick Florida. Winnipeg has lost five straight, scored six goals in its last four, and is in a letdown spot after Sunday's outdoor Heritage Classic. Florida outshot Chicago 34-21 in its last win. Playable to -145.",
-          "sources": [
-            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-blue-jackets-flyers-panthers-jets-devils-stars"},
-            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-tuesday-predictions-best-bets-oct-27/"}
-          ]
-        },
-        {
-          "pick": "Dallas Stars ML",
-          "market": "Moneyline",
-          "odds": -120,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "NHL · Devils @ Stars",
-          "time": "5:00 PM PT",
-          "reasoning": "SI and SportsBettingDime both pick Dallas. The Stars have won five straight, and Jason Robertson has eight points in a four-game streak. New Jersey may debut Connor Hellebuyck, who hasn't played in months. Playable to -135.",
-          "sources": [
-            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-blue-jackets-flyers-panthers-jets-devils-stars"},
-            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-tuesday-predictions-best-bets-oct-27/"}
+            {"title": "SI World Series Game 5", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-5-2026"},
+            {"title": "TheSpread World Series Game 5", "url": "https://www.thespread.com/mlb-articles/brewers-vs-rays-prediction-october-28-2026/"}
           ]
         }
       ],
-      "parlay": [
-        {
-          "title": "Two-Source Favorites",
-          "legs": [
-            {"pick": "Panthers ML", "odds": -130, "event": "NHL · FLA @ WPG"},
-            {"pick": "Stars ML", "odds": -120, "event": "NHL · NJ @ DAL"}
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": false,
-          "reasoning": "The two hockey sides where both sources agree. Both start at 5:00 PM PT. Pays about 2.4-to-1."
-        }
-      ],
-      "props": [
-        {
-          "pick": "William Contreras OVER 1.5 hits + runs + RBIs",
-          "market": "Player prop",
-          "odds": -102,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "World Series Game 4 · Brewers @ Rays",
-          "time": "5:00 PM PT",
-          "reasoning": "He's 18-for-43 (.419) with three homers this postseason, has cleared this line in four straight games, and is 2-for-3 against Jax. SI's best prop, and TheLines also likes his total bases. Playable to -120.",
-          "sources": [
-            {"title": "SI World Series Game 4", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-4-01m5xqcq32dw"},
-            {"title": "TheLines World Series Game 4", "url": "https://www.thelines.com/mlb/picks/brewers-vs-rays-prediction-odds-props-for-oct-27-milwaukee-wins-it-all/"}
-          ]
-        }
-      ]
+      "parlay": [],
+      "props": []
     },
     {
       "id": "baseball",
       "label": "Baseball",
       "icon": "⚾",
-      "slate": "World Series Game 4: Brewers @ Rays, 5:00 PM PT on FOX. Milwaukee leads 3-0 after a 10-1 Game 3. A Milwaukee bullpen game vs Griffin Jax. Brewers about -125 to -139, total 7. If Tampa wins, Game 5 is Wednesday.",
+      "slate": "World Series Game 5: Brewers @ Rays, 5:00 PM PT on FOX. Milwaukee leads 3-1. Misiorowski (1.80 ERA) vs Rasmussen on short rest or a Rays bullpen game. Brewers -141 to -155, total 6.5 (no clear lean). If Tampa wins, Game 6 is Friday in Milwaukee.",
       "straight": [
         {
           "pick": "Milwaukee Brewers ML",
           "market": "Moneyline",
-          "odds": -131,
+          "odds": -145,
           "units": 0.75,
           "confidence": 3,
-          "event": "World Series Game 4 · Brewers @ Rays",
+          "event": "World Series Game 5 · Brewers @ Rays",
           "time": "5:00 PM PT",
-          "reasoning": "9-1 in the playoffs, a 1.34 bullpen ERA, and Jax struggling. Playable to -145.",
+          "reasoning": "An ace on full rest against a taxed Rays staff. Two sources agree. Playable to -155.",
           "sources": [
-            {"title": "TheLines World Series Game 4", "url": "https://www.thelines.com/mlb/picks/brewers-vs-rays-prediction-odds-props-for-oct-27-milwaukee-wins-it-all/"}
+            {"title": "TheSpread World Series Game 5", "url": "https://www.thespread.com/mlb-articles/brewers-vs-rays-prediction-october-28-2026/"}
           ]
         }
       ],
-      "parlay": [
-        {
-          "title": "Chourio Keeps Hitting (SGP)",
-          "legs": [
-            {"pick": "Brewers ML", "odds": -131, "event": "MIL @ TB"},
-            {"pick": "Jackson Chourio 1+ hit", "odds": -215, "event": "MIL @ TB"}
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": true,
-          "reasoning": "Chourio has at least two hits in every World Series game (.571). Yahoo's parlay, quoted at +169 at Fanatics. Correlated, so check your book's price."
-        }
-      ],
+      "parlay": [],
       "props": [
         {
-          "pick": "William Contreras OVER 1.5 hits + runs + RBIs",
+          "pick": "Jacob Misiorowski OVER 3.5 hits allowed",
           "market": "Player prop",
-          "odds": -102,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "World Series Game 4 · Brewers @ Rays",
+          "odds": -126,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "World Series Game 5 · Brewers @ Rays",
           "time": "5:00 PM PT",
-          "reasoning": ".419 this postseason and over this line four straight games. Playable to -120.",
+          "reasoning": "He's allowed 4+ hits in all three playoff starts (13 hits in 13.1 innings) against a contact-heavy Rays lineup, and SI expects a longer leash in a clinch game. A quarter unit, since it pulls slightly against the Brewers bet.",
           "sources": [
-            {"title": "SI World Series Game 4", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-4-01m5xqcq32dw"}
+            {"title": "SI World Series Game 5", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-5-2026"}
           ]
         }
       ]
@@ -146,7 +80,7 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "No games today. Thursday Night Football is next.",
+      "slate": "No games today. Thursday Night Football is tomorrow.",
       "straight": [],
       "parlay": [],
       "props": []
@@ -164,45 +98,32 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "11-game Tuesday card, including Blue Jackets @ Flyers (4:00 PM PT), Panthers @ Jets and Devils @ Stars (5:00), and Sabres @ Sharks (7:30).",
+      "slate": "Wednesday includes Devils @ Avalanche, Flames @ Oilers and Maple Leafs @ Kraken. We only had one source today, so these are quarter units.",
       "straight": [
         {
-          "pick": "Florida Panthers ML",
+          "pick": "Colorado Avalanche ML",
           "market": "Moneyline",
-          "odds": -130,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "Panthers @ Jets",
-          "time": "5:00 PM PT",
-          "reasoning": "Winnipeg has lost five straight and is coming off the outdoor game. Two sources agree. Playable to -145.",
-          "sources": [
-            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-blue-jackets-flyers-panthers-jets-devils-stars"}
-          ]
-        },
-        {
-          "pick": "Dallas Stars ML",
-          "market": "Moneyline",
-          "odds": -120,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "Devils @ Stars",
-          "time": "5:00 PM PT",
-          "reasoning": "Five straight wins, Robertson is hot, and Hellebuyck may be rusty in his debut. Two sources agree. Playable to -135.",
-          "sources": [
-            {"title": "SportsBettingDime NHL picks", "url": "https://www.sportsbettingdime.com/news/nhl/picks-today-tuesday-predictions-best-bets-oct-27/"}
-          ]
-        },
-        {
-          "pick": "Blue Jackets vs Flyers UNDER 5.5",
-          "market": "Game total",
-          "odds": -105,
+          "odds": -148,
           "units": 0.25,
           "confidence": 2,
-          "event": "Blue Jackets @ Flyers",
-          "time": "4:00 PM PT",
-          "reasoning": "Columbus scores 2.33 a game (third-lowest) and Philadelphia 1.85 (lowest), and four of the last five meetings went Under. SI's pick. Quarter unit.",
+          "event": "Devils @ Avalanche",
+          "time": "6:00 PM PT",
+          "reasoning": "New Jersey is on the second night of a back-to-back at altitude after last night's win in Dallas. Colorado is 4-1-1 at home. SI's pick. Playable to -160.",
           "sources": [
-            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-blue-jackets-flyers-panthers-jets-devils-stars"}
+            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-flames-oilers-devils-avalanche-maple-leafs-kraken-oct-28"}
+          ]
+        },
+        {
+          "pick": "Maple Leafs vs Kraken OVER 6.5",
+          "market": "Game total",
+          "odds": -120,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Maple Leafs @ Kraken",
+          "time": "7:00 PM PT",
+          "reasoning": "Toronto is 9-5 to the Over and has gone Over in four straight. Seattle is 9-2-1 to the Over. SI's pick.",
+          "sources": [
+            {"title": "SI Top Shelf Picks", "url": "https://www.si.com/betting/nhl-best-bets-today-predictions-for-flames-oilers-devils-avalanche-maple-leafs-kraken-oct-28"}
           ]
         }
       ],
@@ -222,7 +143,7 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "No picks today. WNBA Finals Game 6 is Thursday in Atlanta; the Valkyries lead 3-2 after winning Game 5 64-55.",
+      "slate": "No picks today. WNBA Finals Game 6 is Thursday in Atlanta; the Valkyries lead 3-2.",
       "straight": [],
       "parlay": [],
       "props": []
