@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "updated": "2026-10-28T11:00:00-07:00",
-  "headline": "World Series Game 5: Brewers @ Rays, 5:00 PM PT on FOX. Milwaukee leads 3-1 after Tampa won Game 4 in 12 innings. Misiorowski starts for the Brewers. Plus NHL. WNBA Finals Game 6 is Thursday.",
+  "headline": "World Series Game 5: Brewers @ Rays, 5:00 PM PT on FOX. Milwaukee leads 3-1 after Tampa won Game 4 in 12 innings. Misiorowski starts for the Brewers. Plus NBA and NHL. WNBA Finals Game 6 is Thursday.",
   "record": {
     "label": "Yesterday (Tue 10/27)",
     "wins": 2, "losses": 7, "pushes": 0, "pending": 1,
@@ -33,6 +33,20 @@
           "sources": [
             {"title": "SI World Series Game 5", "url": "https://www.si.com/betting/brewers-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-world-series-game-5-2026"},
             {"title": "TheSpread World Series Game 5", "url": "https://www.thespread.com/mlb-articles/brewers-vs-rays-prediction-october-28-2026/"}
+          ]
+        },
+        {
+          "pick": "Philadelphia 76ers -4.5",
+          "market": "Spread",
+          "odds": -115,
+          "units": 0.5,
+          "confidence": 3,
+          "event": "NBA · 76ers @ Pacers",
+          "time": "4:00 PM PT",
+          "reasoning": "FanDuel Research and Dimers' model both like Philly. The 76ers are 3-1, while Indiana is 1-3 against the spread and without Zubac. Skip at -5.5.",
+          "sources": [
+            {"title": "FanDuel Research NBA picks", "url": "https://www.fanduel.com/research/nba-picks-today-4-predictions-best-bets-wednesday-oct-28"},
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-10-28-2026-ac"}
           ]
         }
       ],
@@ -143,10 +157,79 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "No picks today. WNBA Finals Game 6 is Thursday in Atlanta; the Valkyries lead 3-2.",
-      "straight": [],
+      "slate": "NBA Wednesday (12 games): 76ers @ Pacers and Hornets @ Pistons (4:00 PM PT), Knicks @ Bulls (5:00), Thunder @ Mavericks (6:30), and more. It's still early in the season, so these are small bets, with the most weight on the one pick two sources agree on. WNBA Finals Game 6 is Thursday in Atlanta; the Valkyries lead 3-2.",
+      "straight": [
+        {
+          "pick": "Philadelphia 76ers -4.5",
+          "market": "Spread",
+          "odds": -115,
+          "units": 0.5,
+          "confidence": 3,
+          "event": "NBA · 76ers @ Pacers",
+          "time": "4:00 PM PT",
+          "reasoning": "FanDuel Research takes Philly -4.5, and Dimers' model gives the 76ers a 66% chance to win. Philadelphia is 3-1, while Indiana is 1-3 against the spread and without Ivica Zubac (ankle). Laying under five on the road is a manageable number. Skip at -5.5.",
+          "sources": [
+            {"title": "FanDuel Research NBA picks", "url": "https://www.fanduel.com/research/nba-picks-today-4-predictions-best-bets-wednesday-oct-28"},
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-10-28-2026-ac"}
+          ]
+        },
+        {
+          "pick": "Chicago Bulls +7.5",
+          "market": "Spread",
+          "odds": -115,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NBA · Knicks @ Bulls",
+          "time": "5:00 PM PT",
+          "reasoning": "The Knicks are 1-3 straight up and against the spread, and they're on the second night of a back-to-back after hosting Detroit Tuesday. Chicago had Tuesday off. 7.5 points at home is a lot. FanDuel Research's pick.",
+          "sources": [
+            {"title": "FanDuel Research NBA picks", "url": "https://www.fanduel.com/research/nba-picks-today-4-predictions-best-bets-wednesday-oct-28"}
+          ]
+        },
+        {
+          "pick": "Hornets vs Pistons UNDER 214.5",
+          "market": "Game total",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NBA · Hornets @ Pistons",
+          "time": "4:00 PM PT",
+          "reasoning": "Charlotte has gone Under in all four games and been held under 105 twice without Kon Knueppel. Detroit is on the second night of a back-to-back. FanDuel Research's pick.",
+          "sources": [
+            {"title": "FanDuel Research NBA picks", "url": "https://www.fanduel.com/research/nba-picks-today-4-predictions-best-bets-wednesday-oct-28"}
+          ]
+        },
+        {
+          "pick": "Dallas Mavericks +6.5",
+          "market": "Spread",
+          "odds": -111,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NBA · Thunder @ Mavericks",
+          "time": "6:30 PM PT",
+          "reasoning": "OKC is 4-0 but missing Chet Holmgren, Alex Caruso and Jalen Williams, with Ajay Mitchell questionable. Dallas already has road wins at Indiana and Miami, and Kyrie just played a season-high 33 minutes. FTN's model shows an edge on Dallas, and FanDuel Research expects a low-scoring game, which also helps the underdog.",
+          "sources": [
+            {"title": "FTN NBA best bets", "url": "https://ftnfantasy.com/nba/best-bets-to-make-in-the-nba-today-oct-28-2026"},
+            {"title": "FanDuel Research NBA picks", "url": "https://www.fanduel.com/research/nba-picks-today-4-predictions-best-bets-wednesday-oct-28"}
+          ]
+        }
+      ],
       "parlay": [],
-      "props": []
+      "props": [
+        {
+          "pick": "Tyrese Haliburton OVER 3.5 rebounds",
+          "market": "Player prop",
+          "odds": -138,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NBA · 76ers @ Pacers",
+          "time": "4:00 PM PT",
+          "reasoning": "With Zubac out, there are more boards to go around. Haliburton had 4 and 6 rebounds on 10 chances each in his last two games, and Philly allows the third-most rebounds to guards. FTN's model projects 6.1. Quarter unit.",
+          "sources": [
+            {"title": "FTN NBA best bets", "url": "https://ftnfantasy.com/nba/best-bets-to-make-in-the-nba-today-oct-28-2026"}
+          ]
+        }
+      ]
     }
   ]
 }
