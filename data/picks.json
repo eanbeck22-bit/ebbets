@@ -1,89 +1,49 @@
 {
-  "date": "2026-10-29",
-  "updated": "2026-10-29T09:20:00-07:00",
-  "headline": "Thursday: WNBA Finals Game 6 at 9:30 AM PT (Valkyries @ Dream, Golden State leads 3-2), Panthers @ Packers on Thursday Night Football, NBA, and NHL. The Brewers won the World Series last night.",
+  "date": "2026-10-30",
+  "updated": "2026-10-30T10:00:00-07:00",
+  "headline": "Friday: NBA (Bulls @ Celtics, Pistons @ Nets, Warriors @ Lakers), Friday night college football, and NHL. The WNBA Finals go to Game 7 on Saturday after Atlanta won Game 6.",
   "record": {
-    "label": "Yesterday (Wed 10/28)",
-    "wins": 9, "losses": 1, "pushes": 0, "pending": 1,
-    "units": 2.70,
-    "note": "Big night. The Brewers won Game 5 4-1 for their first-ever title. Everything else hit too: 76ers -4.5 (won by 5), Bulls +7.5 (lost by 6), Hornets-Pistons Under (186), the Mavericks outright (120-96), the Avalanche (5-2) and Leafs-Kraken Over (5-4). Only Misiorowski Over 3.5 hits lost (he allowed 2). The Haliburton prop couldn't be confirmed. The board is down about 1.3 units overall."
+    "label": "Yesterday (Thu 10/29)",
+    "wins": 2, "losses": 9, "pushes": 0, "pending": 0,
+    "units": -2.84,
+    "note": "Rough night. The Packers won 27-19, so Panthers +3.5 lost, though the TNF Under hit (46). The Cavaliers lost by 3, the Kings lost by 12, North Texas won by only 7, and both the WNBA Under (149) and the Canadiens-Stars Under (7 goals) just missed. The board is down about 4 units overall."
   },
   "notes": [
-    "WNBA Finals Game 6 tips at 9:30 AM PT — very soon. Bet it now or skip it.",
-    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
-    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning."
+    "After a 2-9 day, today's card is small: one half-unit play, and everything else is a quarter unit.",
+    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 2 today.",
+    "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
+    "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
   ],
   "sections": [
     {
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Wednesday these went 2-0. Today three sources land on Carolina with the points, and two agree on the Cavaliers.",
+      "slate": "The strongest edge across today's card. Thursday these went 1-3. Only one pick today where two sources agree.",
       "straight": [
         {
-          "pick": "Carolina Panthers +3.5",
+          "pick": "Tulane -8.5",
           "market": "Spread",
-          "odds": -106,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "NFL · Panthers @ Packers (TNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "Covers, TheSpread and RG.org all take Carolina. The Panthers are 13-0 against the spread after an outright loss, and they won outright at Lambeau last season as 13.5-point underdogs. Green Bay is 1-9-1 against the spread after a loss and has the league's worst run game. The line has drifted from -4 to -3.5 despite more tickets on Green Bay. Risk: Carolina is missing both starting tackles and Jaelan Phillips. Playable at +3.5; skip at +3.",
-          "sources": [
-            {"title": "Covers TNF", "url": "https://www.covers.com/nfl/panthers-vs-packers-prediction-picks-oct-29-2026"},
-            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/panthers-vs-packers-prediction-october-29-2026/"},
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-packers-panthers-cavaliers-hawks-october-29-2026"}
-          ]
-        },
-        {
-          "pick": "Cleveland Cavaliers ML",
-          "market": "Moneyline",
-          "odds": -105,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "NBA · Cavaliers @ Hawks",
-          "time": "5:00 PM PT",
-          "reasoning": "RG.org and Dimers' model (55%) both pick Cleveland. The Cavs have won three straight, while Atlanta has lost three straight and is winless at home. Risk: Cleveland is on the second night of a back-to-back. Playable to -115.",
-          "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-packers-panthers-cavaliers-hawks-october-29-2026"},
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-10-29-2026-ac"}
-          ]
-        },
-        {
-          "pick": "Panthers vs Packers UNDER 47",
-          "market": "Game total",
           "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "NFL · Panthers @ Packers (TNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "TheSpread and Covers both lean Under. Green Bay's last four games averaged 35.5 combined points, the Packers are 5-2 to the Under, Carolina is 3-0 to the Under on the road, and both offensive lines are banged up. The total has already dropped. TheLines expects more scoring from Jordan Love, so it's half a unit. Playable to 46.5.",
+          "event": "NCAAF · Charlotte @ Tulane",
+          "time": "4:00 PM PT",
+          "reasoning": "Action Network (via Yahoo) and SportsBettingDime both back Tulane. It's a buy-low spot after a six-turnover loss to UTSA, while Charlotte is coming off its best game of the year. Tulane beat Charlotte 27-0 and 34-3 the last two seasons. The line has moved from 13.5 to around 10 or lower, so shop for the best number. Skip at -10.5.",
           "sources": [
-            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/panthers-vs-packers-prediction-october-29-2026/"},
-            {"title": "Covers TNF", "url": "https://www.covers.com/nfl/panthers-vs-packers-prediction-picks-oct-29-2026"}
+            {"title": "Yahoo/Action Friday CFB", "url": "https://sports.yahoo.com/articles/friday-college-football-picks-predictions-103115757.html"},
+            {"title": "SportsBettingDime Friday CFB", "url": "https://www.sportsbettingdime.com/news/college-football/friday-picks-predictions-best-bets-oct-30-slate/"}
           ]
         }
       ],
-      "parlay": [
-        {
-          "title": "Dog and Under (SGP)",
-          "legs": [
-            {"pick": "Panthers +3.5", "odds": -106, "event": "CAR @ GB"},
-            {"pick": "UNDER 47", "odds": -110, "event": "CAR @ GB"}
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": true,
-          "reasoning": "A low-scoring game helps the underdog stay within a field goal. TheSpread calls these two picks linked. The book will pay less than shown."
-        }
-      ],
+      "parlay": [],
       "props": []
     },
     {
       "id": "baseball",
       "label": "Baseball",
       "icon": "⚾",
-      "slate": "Season over: the Brewers beat the Rays 4-1 in Game 5 to win their first World Series. Misiorowski threw 5.2 scoreless innings. Thanks for riding along this October.",
+      "slate": "Season over. The Brewers are World Series champions.",
       "straight": [],
       "parlay": [],
       "props": []
@@ -92,45 +52,32 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "Thursday Night Football: Panthers @ Packers, 5:15 PM PT on Prime Video. Packers -3.5, total 47-47.5. Carolina is missing both starting tackles and Jaelan Phillips; Green Bay is without its starting center and Micah Parsons. College: Florida Atlantic @ North Texas (4:30 PM PT).",
+      "slate": "Friday college football: Charlotte @ Tulane and Dartmouth @ Harvard (4:00 PM PT), UCF @ Baylor (4:30), Sacramento State @ Kent State (7:30). Sources split on UCF-Baylor and the Kent State total, so we skip both. Full NFL slate Sunday.",
       "straight": [
         {
-          "pick": "Carolina Panthers +3.5",
+          "pick": "Tulane -8.5",
           "market": "Spread",
-          "odds": -106,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "Panthers @ Packers",
-          "time": "5:15 PM PT",
-          "reasoning": "Three sources agree, Carolina has a strong bounce-back trend, and Green Bay has a poor record covering after losses. Skip at +3.",
-          "sources": [
-            {"title": "Covers TNF", "url": "https://www.covers.com/nfl/panthers-vs-packers-prediction-picks-oct-29-2026"}
-          ]
-        },
-        {
-          "pick": "Panthers vs Packers UNDER 47",
-          "market": "Game total",
           "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "Panthers @ Packers",
-          "time": "5:15 PM PT",
-          "reasoning": "Green Bay's last four games averaged 35.5 points, and both offensive lines are hurt. Playable to 46.5.",
+          "event": "Charlotte @ Tulane",
+          "time": "4:00 PM PT",
+          "reasoning": "Two sources agree, and Tulane has dominated this matchup the last two years. Skip at -10.5.",
           "sources": [
-            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/panthers-vs-packers-prediction-october-29-2026/"}
+            {"title": "SportsBettingDime Friday CFB", "url": "https://www.sportsbettingdime.com/news/college-football/friday-picks-predictions-best-bets-oct-30-slate/"}
           ]
         },
         {
-          "pick": "North Texas -13.5",
+          "pick": "Harvard -10",
           "market": "Spread",
-          "odds": -115,
+          "odds": -118,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAF · Florida Atlantic @ North Texas",
-          "time": "4:30 PM PT",
-          "reasoning": "North Texas is unbeaten at home and averages 43.1 points a game. RG.org's pick. A late backdoor touchdown is the risk, so it's a quarter unit.",
+          "event": "FCS · Dartmouth @ Harvard",
+          "time": "4:00 PM PT",
+          "reasoning": "Harvard has scored 30+ in three straight, and Dartmouth has just three red-zone TDs all season. Action Network's pick. Quarter unit.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-packers-panthers-cavaliers-hawks-october-29-2026"}
+            {"title": "Yahoo/Action Friday CFB", "url": "https://sports.yahoo.com/articles/friday-college-football-picks-predictions-103115757.html"}
           ]
         }
       ],
@@ -150,22 +97,8 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Thursday card includes Canadiens @ Stars and Capitals @ Predators (5:00 PM PT).",
-      "straight": [
-        {
-          "pick": "Canadiens vs Stars UNDER 5.5",
-          "market": "Game total",
-          "odds": 112,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Canadiens @ Stars",
-          "time": "5:00 PM PT",
-          "reasoning": "Dallas allows the fewest goals in the NHL, both goalies have strong save percentages, and Montreal's power play ranks 29th. Plus money. RG.org's pick. An empty-netter is the risk.",
-          "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-packers-panthers-cavaliers-hawks-october-29-2026"}
-          ]
-        }
-      ],
+      "slate": "No picks today. Hockey went 0-1 yesterday; we're sitting it out.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
@@ -182,46 +115,45 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "WNBA Finals Game 6: Valkyries @ Dream, 9:30 AM PT, with Golden State one win from the title. Dream -4.5, total 147.5. Sources split on the total (Yahoo and SportsBettingDime lean low, Dimers' model likes the Over), so only a small play. NBA tonight: Cavaliers @ Hawks and Kings @ Pelicans (5:00 PM PT), and more.",
+      "slate": "NBA Friday: Bulls @ Celtics and Pistons @ Nets (4:30 PM PT), Warriors @ Lakers (7:00), and more. One source per game today, so everything is a quarter unit. WNBA Finals Game 7 is Saturday in San Francisco; picks tomorrow.",
       "straight": [
         {
-          "pick": "Cleveland Cavaliers ML",
-          "market": "Moneyline",
-          "odds": -105,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "NBA · Cavaliers @ Hawks",
-          "time": "5:00 PM PT",
-          "reasoning": "Two sources agree. Cleveland has won three straight, and Atlanta is winless at home. Playable to -115.",
-          "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-10-29-2026-ac"}
-          ]
-        },
-        {
-          "pick": "Sacramento Kings +5.5",
+          "pick": "Brooklyn Nets +7.5",
           "market": "Spread",
-          "odds": -104,
+          "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NBA · Kings @ Pelicans",
-          "time": "5:00 PM PT",
-          "reasoning": "Dimers' model gives the Kings a 52.7% chance to cover. Quarter unit.",
+          "event": "NBA · Pistons @ Nets",
+          "time": "4:30 PM PT",
+          "reasoning": "Detroit is on its fourth game in six nights and without Jalen Duren (hamstring). Brooklyn has had two days off. 69% of tickets are on Detroit, but the line hasn't moved. TheSpread's top play.",
           "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-10-29-2026-ac"}
+            {"title": "TheSpread Pistons-Nets", "url": "https://www.thespread.com/nba-articles/pistons-vs-nets-prediction-october-30-2026/"}
           ]
         },
         {
-          "pick": "Valkyries vs Dream UNDER 147.5",
-          "market": "Game total",
-          "odds": -115,
+          "pick": "Chicago Bulls +14.5",
+          "market": "Spread",
+          "odds": -106,
           "units": 0.25,
           "confidence": 2,
-          "event": "WNBA Finals Game 6 · Valkyries @ Dream",
-          "time": "9:30 AM PT",
-          "reasoning": "The series has averaged 138.5 points (much lower without the 168-point Game 3), Golden State is 8-1-1 to the Under in its last 10, and an early tip could mean tired legs. Yahoo's pick, and SportsBettingDime likes a low Valkyries team total. Dimers' model disagrees, so it's a quarter unit.",
+          "event": "NBA · Bulls @ Celtics",
+          "time": "4:30 PM PT",
+          "reasoning": "Dimers' model gives Chicago a 57.7% chance to cover, its biggest NBA edge of the night. That's a lot of points. Quarter unit.",
           "sources": [
-            {"title": "Yahoo Finals Game 6", "url": "https://sports.yahoo.com/articles/valkyries-vs-dream-prediction-pick-080243628.html"},
-            {"title": "SportsBettingDime Finals Game 6", "url": "https://www.sportsbettingdime.com/news/wnba/valkyries-dream-expert-picks-props-bet-game-6-oct-29/"}
+            {"title": "Dimers best bets", "url": "https://dimers.com/news/best-bets-10-30-2026-ac"}
+          ]
+        },
+        {
+          "pick": "Los Angeles Lakers ML",
+          "market": "Moneyline",
+          "odds": -127,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NBA · Warriors @ Lakers",
+          "time": "7:00 PM PT",
+          "reasoning": "Dimers' model gives LA 62.2% against about 56% implied. The Lakers beat Golden State by 22 for us last week. Price is an estimate from a 56¢ market; playable to -140.",
+          "sources": [
+            {"title": "Dimers best bets", "url": "https://dimers.com/news/best-bets-10-30-2026-ac"}
           ]
         }
       ],
