@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-02",
-  "updated": "2026-11-02T10:45:00-08:00",
-  "headline": "Monday: Bears @ Seahawks on Monday Night Football, plus a full NBA night. The Valkyries-Dream Game 7 was Saturday.",
+  "date": "2026-11-03",
+  "updated": "2026-11-03T10:30:00-08:00",
+  "headline": "Tuesday: midweek MACtion (Akron @ Ohio, Miami (OH) vs Buffalo), Champions League (Atlético vs Bayern at noon PT), and NHL. No NBA games today.",
   "record": {
-    "label": "Last board (Fri 10/30)",
-    "wins": 1, "losses": 5, "pushes": 0, "pending": 0,
-    "units": -1.51,
-    "note": "Tulane won by 7 in OT, so -8.5 missed. Harvard lost outright, the Pistons beat the Nets by 16, and the Warriors beat the Lakers. Only Bulls +14.5 hit (lost by 14). The board is now down about 5.5 units since Oct 2."
+    "label": "Yesterday (Mon 11/2)",
+    "wins": 3, "losses": 2, "pushes": 0, "pending": 0,
+    "units": -0.09,
+    "note": "The Bears won 34-17 outright, so Bears +3 hit but the Under (51 points) lost. Both NBA underdogs won outright: Trail Blazers 118-110 at Denver and Wizards 103-94 at Orlando. Basically break-even. The board is down about 5.6 units overall."
   },
   "notes": [
-    "The board has been losing. Today's card is three small plays. Consider cutting your unit size, or sitting out until results turn.",
-    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 2 today.",
+    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
+    "Atlético vs Bayern kicks off at 12:00 PM PT.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
   ],
@@ -19,25 +19,50 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edge across today's card. Friday these went 0-1. One pick where two sources agree.",
+      "slate": "The strongest edges across today's card. Monday these went 0-1. Today two sources agree on Ohio and on Buffalo.",
       "straight": [
         {
-          "pick": "Bears vs Seahawks UNDER 46.5",
-          "market": "Game total",
-          "odds": -112,
+          "pick": "Ohio -13.5",
+          "market": "Spread",
+          "odds": -114,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "NCAAF · Akron @ Ohio",
+          "time": "4:00 PM PT",
+          "reasoning": "RG.org and Action Network both lay the points. Ohio leads the MAC in rushing (192 yards a game), and Akron allows 186 a game and ranks 119th in rushing success rate allowed. Akron is 1-7 with six straight losses, and six of its seven FBS losses were by 15 or more. QB Nick Poulos is playing well since returning. Risk: Ohio has played down to weak teams before (13-10 at Kent State). Playable at -13.5; skip at -14.",
+          "sources": [
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"},
+            {"title": "Yahoo/Action MACtion", "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"}
+          ]
+        },
+        {
+          "pick": "Buffalo +6.5",
+          "market": "Spread",
+          "odds": -105,
           "units": 0.5,
           "confidence": 2,
-          "event": "NFL · Bears @ Seahawks (MNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "TheSpread and Covers both lean Under. Seattle's offense is short-handed (Shaheed and LT Charles Cross out), Darnold has thrown 8 interceptions, and Seattle has gone Under in four of seven games. Its defense just held the Chiefs to three points and hasn't allowed a 100-yard rusher in 36 straight games. SportsLine's model leans Over (52%), so it's half a unit. Playable to 46.",
+          "event": "NCAAF · Buffalo @ Miami (OH)",
+          "time": "Evening PT",
+          "reasoning": "RG.org takes Buffalo +6.5, and Action Network likes Buffalo's team total Over, so both expect Buffalo to move the ball. Buffalo has scored 23+ in three straight behind its run game, Miami's pass defense allows 270 yards a game, and Miami has won three of its four FBS games by 3 or fewer. Kickoff times differ between sources, so check your book. Skip at +5.5.",
           "sources": [
-            {"title": "TheSpread MNF", "url": "https://www.thespread.com/nfl-articles/bears-vs-seahawks-prediction-november-2-2026/"},
-            {"title": "Covers MNF", "url": "https://www.covers.com/nfl/bears-vs-seahawks-prediction-picks-nov-2-2026"},
-            {"title": "CBS/SportsLine MNF", "url": "https://www.cbssports.com/betting/news/bears-seahawks-prediction-spread-odds-time-monday-night-football-picks-best-bets/"}
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"},
+            {"title": "Yahoo/Action MACtion", "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"}
           ]
         }
       ],
-      "parlay": [],
+      "parlay": [
+        {
+          "title": "MACtion Double",
+          "legs": [
+            {"pick": "Ohio -13.5", "odds": -114, "event": "AKR @ OHIO"},
+            {"pick": "Buffalo +6.5", "odds": -105, "event": "BUF @ M-OH"}
+          ],
+          "units": 0.25,
+          "confidence": 2,
+          "sgp": false,
+          "reasoning": "The two MAC plays where sources agree. Pays about 2.6-to-1."
+        }
+      ],
       "props": []
     },
     {
@@ -53,32 +78,32 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "Monday Night Football: Bears @ Seahawks, 5:15 PM PT on ESPN. Seattle -3, total 46.5. Seattle is without WR Rashid Shaheed and LT Charles Cross; Chicago is without RB Kyle Monangai, and newly acquired DT Jeffery Simmons is expected to debut. The Bears are coming off 10 days of rest.",
+      "slate": "Tuesday MACtion: Akron @ Ohio (4:00 PM PT) and Buffalo @ Miami (OH). Thursday Night Football is next for the NFL.",
       "straight": [
         {
-          "pick": "Bears vs Seahawks UNDER 46.5",
-          "market": "Game total",
-          "odds": -112,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Bears @ Seahawks",
-          "time": "5:15 PM PT",
-          "reasoning": "Seattle's offense is depleted and its defense is elite. Two of three sources lean Under. Playable to 46.",
+          "pick": "Ohio -13.5",
+          "market": "Spread",
+          "odds": -114,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "Akron @ Ohio",
+          "time": "4:00 PM PT",
+          "reasoning": "MAC's best rushing offense against a bad run defense, and Akron has lost six straight by mostly big margins. Two sources agree. Skip at -14.",
           "sources": [
-            {"title": "TheSpread MNF", "url": "https://www.thespread.com/nfl-articles/bears-vs-seahawks-prediction-november-2-2026/"}
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"}
           ]
         },
         {
-          "pick": "Chicago Bears +3",
+          "pick": "Buffalo +6.5",
           "market": "Spread",
-          "odds": -103,
-          "units": 0.25,
+          "odds": -105,
+          "units": 0.5,
           "confidence": 2,
-          "event": "Bears @ Seahawks",
-          "time": "5:15 PM PT",
-          "reasoning": "Chicago has 10 days of rest, and Seattle is missing key pieces. TheSpread's pick. A 3-point Seattle win is a push. Quarter unit, since Seattle's defense is very good at home.",
+          "event": "Buffalo @ Miami (OH)",
+          "time": "Evening PT",
+          "reasoning": "Buffalo's offense is rolling, and Miami's wins have been close. Two sources lean Buffalo. Skip at +5.5.",
           "sources": [
-            {"title": "TheSpread MNF", "url": "https://www.thespread.com/nfl-articles/bears-vs-seahawks-prediction-november-2-2026/"}
+            {"title": "Yahoo/Action MACtion", "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"}
           ]
         }
       ],
@@ -89,8 +114,22 @@
       "id": "soccer",
       "label": "Soccer",
       "icon": "⚽",
-      "slate": "No picks today.",
-      "straight": [],
+      "slate": "Champions League: Atlético Madrid vs Bayern Munich at 12:00 PM PT.",
+      "straight": [
+        {
+          "pick": "Atlético vs Bayern — Draw",
+          "market": "Match result (90 min)",
+          "odds": 290,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Champions League · Atlético Madrid vs Bayern",
+          "time": "12:00 PM PT",
+          "reasoning": "Both defenses are strong, and Bayern has drawn two of three Champions League games and three of eight league matches. +290 implies about 25.6%, which RG.org thinks is too low. Quarter unit. Skip below +260.",
+          "sources": [
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"}
+          ]
+        }
+      ],
       "parlay": [],
       "props": []
     },
@@ -98,8 +137,22 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "No picks today.",
-      "straight": [],
+      "slate": "Tuesday card includes Stars @ Capitals (4:00 PM PT).",
+      "straight": [
+        {
+          "pick": "Stars vs Capitals UNDER 5.5",
+          "market": "Game total",
+          "odds": 107,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Stars @ Capitals",
+          "time": "4:00 PM PT",
+          "reasoning": "Dallas allows a league-low 2.14 goals a game with a 93.6% penalty kill, and Stars games average 4.93 goals. Washington's games run higher (6.62), which is the risk. RG.org's pick. Quarter unit at plus money.",
+          "sources": [
+            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"}
+          ]
+        }
+      ],
       "parlay": [],
       "props": []
     },
@@ -116,35 +169,8 @@
       "id": "basketball",
       "label": "Basketball",
       "icon": "🏀",
-      "slate": "Full NBA Monday: Thunder @ Cavaliers (4:00 PM PT), Wizards @ Magic (4:30), Trail Blazers @ Nuggets (6:00), Heat @ Lakers (7:00), and more. FanDuel Research and Dimers didn't agree on any game today, so only one small pick from each.",
-      "straight": [
-        {
-          "pick": "Portland Trail Blazers ML",
-          "market": "Moneyline",
-          "odds": 142,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NBA · Trail Blazers @ Nuggets",
-          "time": "6:00 PM PT",
-          "reasoning": "Portland is 4-1 and outscoring opponents by 11.4 a game. Denver is 3-2. FanDuel Research's top pick. Plus money, quarter unit.",
-          "sources": [
-            {"title": "FanDuel Research NBA picks", "url": "https://www.fanduel.com/research/nba-picks-today-predictions-best-bets-monday-nov-2"}
-          ]
-        },
-        {
-          "pick": "Washington Wizards +0.5",
-          "market": "Spread",
-          "odds": 123,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NBA · Wizards @ Magic",
-          "time": "4:30 PM PT",
-          "reasoning": "This is effectively the Wizards to win, and it's Dimers' biggest edge of the night: a 56.7% model win probability against 44.8% implied. One model only, so a quarter unit.",
-          "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-02-2026-ac"}
-          ]
-        }
-      ],
+      "slate": "No NBA games today. The NBA is back tomorrow.",
+      "straight": [],
       "parlay": [],
       "props": []
     }
