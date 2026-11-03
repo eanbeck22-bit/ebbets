@@ -1,10 +1,13 @@
 {
   "date": "2026-11-03",
   "updated": "2026-11-03T10:30:00-08:00",
-  "headline": "Tuesday: midweek MACtion (Akron @ Ohio, Miami (OH) vs Buffalo), Champions League (Atlético vs Bayern at noon PT), and NHL. No NBA games today.",
+  "headline": "Tuesday: college basketball's opening night, midweek MACtion (Akron @ Ohio, Miami (OH) vs Buffalo), Champions League (Atlético vs Bayern at noon PT), and NHL. No NBA today (Election Day).",
   "record": {
     "label": "Yesterday (Mon 11/2)",
-    "wins": 3, "losses": 2, "pushes": 0, "pending": 0,
+    "wins": 3,
+    "losses": 2,
+    "pushes": 0,
+    "pending": 0,
     "units": -0.09,
     "note": "The Bears won 34-17 outright, so Bears +3 hit but the Under (51 points) lost. Both NBA underdogs won outright: Trail Blazers 118-110 at Denver and Wizards 103-94 at Orlando. Basically break-even. The board is down about 5.6 units overall."
   },
@@ -31,8 +34,14 @@
           "time": "4:00 PM PT",
           "reasoning": "RG.org and Action Network both lay the points. Ohio leads the MAC in rushing (192 yards a game), and Akron allows 186 a game and ranks 119th in rushing success rate allowed. Akron is 1-7 with six straight losses, and six of its seven FBS losses were by 15 or more. QB Nick Poulos is playing well since returning. Risk: Ohio has played down to weak teams before (13-10 at Kent State). Playable at -13.5; skip at -14.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"},
-            {"title": "Yahoo/Action MACtion", "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"}
+            {
+              "title": "RG.org best bets",
+              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
+            },
+            {
+              "title": "Yahoo/Action MACtion",
+              "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"
+            }
           ]
         },
         {
@@ -45,8 +54,14 @@
           "time": "Evening PT",
           "reasoning": "RG.org takes Buffalo +6.5, and Action Network likes Buffalo's team total Over, so both expect Buffalo to move the ball. Buffalo has scored 23+ in three straight behind its run game, Miami's pass defense allows 270 yards a game, and Miami has won three of its four FBS games by 3 or fewer. Kickoff times differ between sources, so check your book. Skip at +5.5.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"},
-            {"title": "Yahoo/Action MACtion", "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"}
+            {
+              "title": "RG.org best bets",
+              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
+            },
+            {
+              "title": "Yahoo/Action MACtion",
+              "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"
+            }
           ]
         }
       ],
@@ -54,8 +69,16 @@
         {
           "title": "MACtion Double",
           "legs": [
-            {"pick": "Ohio -13.5", "odds": -114, "event": "AKR @ OHIO"},
-            {"pick": "Buffalo +6.5", "odds": -105, "event": "BUF @ M-OH"}
+            {
+              "pick": "Ohio -13.5",
+              "odds": -114,
+              "event": "AKR @ OHIO"
+            },
+            {
+              "pick": "Buffalo +6.5",
+              "odds": -105,
+              "event": "BUF @ M-OH"
+            }
           ],
           "units": 0.25,
           "confidence": 2,
@@ -66,11 +89,85 @@
       "props": []
     },
     {
-      "id": "baseball",
-      "label": "Baseball",
-      "icon": "⚾",
-      "slate": "Season over. The Brewers are World Series champions.",
+      "id": "basketball",
+      "label": "NBA",
+      "icon": "🏀",
+      "slate": "No NBA games today. The league doesn't schedule games on Election Day to encourage voting. The NBA is back tomorrow and will be the main sport on the board from here on. College basketball picks are on the College Hoops tab.",
       "straight": [],
+      "parlay": [],
+      "props": []
+    },
+    {
+      "id": "cbb",
+      "label": "College Hoops",
+      "icon": "🎓",
+      "slate": "College basketball opening week. Lines on brand-new rosters are the least reliable of the year, and no two sources agreed on a game today, so every pick is a quarter unit at confidence 1.",
+      "straight": [
+        {
+          "pick": "Tennessee -26.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 1,
+          "event": "NCAAB · Wofford @ Tennessee",
+          "time": "3:00 PM PT",
+          "reasoning": "Wofford is ranked 240+ spots lower, and Tennessee's new offensive talent, led by Juke Harris, should pile up points. The writer says the line is too low and still shrinking. Action Network's pick.",
+          "sources": [
+            {
+              "title": "Yahoo/Action CBB best bets",
+              "url": "https://sports.yahoo.com/articles/college-basketball-best-bets-3-130012214.html"
+            }
+          ]
+        },
+        {
+          "pick": "Stetson +19.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 1,
+          "event": "NCAAB · Stetson @ South Carolina",
+          "time": "4:00 PM PT",
+          "reasoning": "Stetson already has a game under its belt (it played Clemson last night and scored well inside), while South Carolina has 12 new players and is expected to play slow, which keeps the score closer. VSiN's pick.",
+          "sources": [
+            {
+              "title": "VSiN CBB picks",
+              "url": "https://vsin.com/college-basketball/college-basketball-picks-for-tuesday-november-3-from-adam-burke/"
+            }
+          ]
+        },
+        {
+          "pick": "Manhattan +32.5",
+          "market": "Spread",
+          "odds": -105,
+          "units": 0.25,
+          "confidence": 1,
+          "event": "NCAAB · Manhattan @ Kentucky",
+          "time": "4:00 PM PT",
+          "reasoning": "Dimers' model gives Manhattan a 56% chance to cover. In opening-week blowouts, the favorite often empties its bench late, which helps big underdogs cover.",
+          "sources": [
+            {
+              "title": "Dimers best bets",
+              "url": "https://www.dimers.com/news/best-bets-11-03-2026-ac"
+            }
+          ]
+        },
+        {
+          "pick": "Arkansas-Pine Bluff +39.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 1,
+          "event": "NCAAB · Arkansas-Pine Bluff @ Arkansas",
+          "time": "5:00 PM PT",
+          "reasoning": "This is Dimers' biggest edge of the day across all sports: 60% model cover probability. Same logic as Manhattan: a huge number in an opener.",
+          "sources": [
+            {
+              "title": "Dimers best bets",
+              "url": "https://www.dimers.com/news/best-bets-11-03-2026-ac"
+            }
+          ]
+        }
+      ],
       "parlay": [],
       "props": []
     },
@@ -90,7 +187,10 @@
           "time": "4:00 PM PT",
           "reasoning": "MAC's best rushing offense against a bad run defense, and Akron has lost six straight by mostly big margins. Two sources agree. Skip at -14.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"}
+            {
+              "title": "RG.org best bets",
+              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
+            }
           ]
         },
         {
@@ -103,30 +203,10 @@
           "time": "Evening PT",
           "reasoning": "Buffalo's offense is rolling, and Miami's wins have been close. Two sources lean Buffalo. Skip at +5.5.",
           "sources": [
-            {"title": "Yahoo/Action MACtion", "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"}
-          ]
-        }
-      ],
-      "parlay": [],
-      "props": []
-    },
-    {
-      "id": "soccer",
-      "label": "Soccer",
-      "icon": "⚽",
-      "slate": "Champions League: Atlético Madrid vs Bayern Munich at 12:00 PM PT.",
-      "straight": [
-        {
-          "pick": "Atlético vs Bayern — Draw",
-          "market": "Match result (90 min)",
-          "odds": 290,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Champions League · Atlético Madrid vs Bayern",
-          "time": "12:00 PM PT",
-          "reasoning": "Both defenses are strong, and Bayern has drawn two of three Champions League games and three of eight league matches. +290 implies about 25.6%, which RG.org thinks is too low. Quarter unit. Skip below +260.",
-          "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"}
+            {
+              "title": "Yahoo/Action MACtion",
+              "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"
+            }
           ]
         }
       ],
@@ -149,7 +229,36 @@
           "time": "4:00 PM PT",
           "reasoning": "Dallas allows a league-low 2.14 goals a game with a 93.6% penalty kill, and Stars games average 4.93 goals. Washington's games run higher (6.62), which is the risk. RG.org's pick. Quarter unit at plus money.",
           "sources": [
-            {"title": "RG.org best bets", "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"}
+            {
+              "title": "RG.org best bets",
+              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
+            }
+          ]
+        }
+      ],
+      "parlay": [],
+      "props": []
+    },
+    {
+      "id": "soccer",
+      "label": "Soccer",
+      "icon": "⚽",
+      "slate": "Champions League: Atlético Madrid vs Bayern Munich at 12:00 PM PT.",
+      "straight": [
+        {
+          "pick": "Atlético vs Bayern — Draw",
+          "market": "Match result (90 min)",
+          "odds": 290,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Champions League · Atlético Madrid vs Bayern",
+          "time": "12:00 PM PT",
+          "reasoning": "Both defenses are strong, and Bayern has drawn two of three Champions League games and three of eight league matches. +290 implies about 25.6%, which RG.org thinks is too low. Quarter unit. Skip below +260.",
+          "sources": [
+            {
+              "title": "RG.org best bets",
+              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
+            }
           ]
         }
       ],
@@ -166,10 +275,10 @@
       "props": []
     },
     {
-      "id": "basketball",
-      "label": "Basketball",
-      "icon": "🏀",
-      "slate": "No NBA games today. The NBA is back tomorrow.",
+      "id": "baseball",
+      "label": "Baseball",
+      "icon": "⚾",
+      "slate": "Season over. The Brewers are World Series champions.",
       "straight": [],
       "parlay": [],
       "props": []
