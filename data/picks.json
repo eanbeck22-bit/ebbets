@@ -1,19 +1,16 @@
 {
-  "date": "2026-11-03",
-  "updated": "2026-11-03T10:30:00-08:00",
-  "headline": "Tuesday: college basketball's opening night, midweek MACtion (Akron @ Ohio, Miami (OH) vs Buffalo), Champions League (Atlético vs Bayern at noon PT), and NHL. No NBA today (Election Day).",
+  "date": "2026-11-04",
+  "updated": "2026-11-04T01:45:00-08:00",
+  "headline": "Wednesday: the NBA is back (Pistons vs 76ers, Hawks @ Wizards, Bulls @ Knicks and more), college basketball, and NHL.",
   "record": {
-    "label": "Yesterday (Mon 11/2)",
-    "wins": 3,
-    "losses": 2,
-    "pushes": 0,
-    "pending": 0,
-    "units": -0.09,
-    "note": "The Bears won 34-17 outright, so Bears +3 hit but the Under (51 points) lost. Both NBA underdogs won outright: Trail Blazers 118-110 at Denver and Wizards 103-94 at Orlando. Basically break-even. The board is down about 5.6 units overall."
+    "label": "Yesterday (Tue 11/3)",
+    "wins": 3, "losses": 5, "pushes": 0, "pending": 3,
+    "units": -1.07,
+    "note": "Buffalo won outright in OT (34-31), and Tennessee covered -26.5 (won by 31). Ohio won by only 8, so -13.5 and the parlay lost. Bayern beat Atlético 2-0, and Stars-Capitals went way over (6-5). Stetson, Manhattan and Arkansas-Pine Bluff results couldn't be confirmed yet. The board is down about 6.5 units overall."
   },
   "notes": [
-    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
-    "Atlético vs Bayern kicks off at 12:00 PM PT.",
+    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 2 today.",
+    "Many previews weren't posted yet when this was built (early morning). Recheck injuries before tipoff, especially Alex Sarr for Washington.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
   ],
@@ -22,149 +19,130 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Monday these went 0-1. Today two sources agree on Ohio and on Buffalo.",
+      "slate": "The strongest edges across today's card. Tuesday these went 1-1. Today: the Wizards as a home underdog (two sources) and the Pistons, whom numberFire rates at 78%.",
       "straight": [
         {
-          "pick": "Ohio -13.5",
+          "pick": "Washington Wizards +2.5",
           "market": "Spread",
-          "odds": -114,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "NCAAF · Akron @ Ohio",
+          "odds": -117,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "NBA · Hawks @ Wizards",
           "time": "4:00 PM PT",
-          "reasoning": "RG.org and Action Network both lay the points. Ohio leads the MAC in rushing (192 yards a game), and Akron allows 186 a game and ranks 119th in rushing success rate allowed. Akron is 1-7 with six straight losses, and six of its seven FBS losses were by 15 or more. QB Nick Poulos is playing well since returning. Risk: Ohio has played down to weak teams before (13-10 at Kent State). Playable at -13.5; skip at -14.",
+          "reasoning": "Dimers' model (its top edge of the day, at +1.5) and PickDawgz both take Washington. The Wizards are going for a third straight win; they won outright at Orlando for us Monday. Atlanta is missing Jock Landale, and Jalen Johnson is questionable. Check Alex Sarr's and Anthony Gill's status before betting, since the line will move if they play. Take +2.5 if available; skip below +1.5.",
           "sources": [
-            {
-              "title": "RG.org best bets",
-              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
-            },
-            {
-              "title": "Yahoo/Action MACtion",
-              "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"
-            }
+            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac"},
+            {"title": "PickDawgz Hawks-Wizards", "url": "https://pickdawgz.com/nba-picks/hawks-vs-wizards-prediction-11-4-2026-todays-nba-picks/"}
           ]
         },
         {
-          "pick": "Buffalo +6.5",
+          "pick": "Detroit Pistons -1.5",
           "market": "Spread",
-          "odds": -105,
+          "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "NCAAF · Buffalo @ Miami (OH)",
-          "time": "Evening PT",
-          "reasoning": "RG.org takes Buffalo +6.5, and Action Network likes Buffalo's team total Over, so both expect Buffalo to move the ball. Buffalo has scored 23+ in three straight behind its run game, Miami's pass defense allows 270 yards a game, and Miami has won three of its four FBS games by 3 or fewer. Kickoff times differ between sources, so check your book. Skip at +5.5.",
+          "event": "NBA · 76ers @ Pistons",
+          "time": "4:00 PM PT",
+          "reasoning": "numberFire gives Detroit a 77.8% win probability, far above the -124 moneyline (about 55%). The Pistons have covered in six of seven games with a set spread. One source, but a large gap. Playable to -2.5.",
           "sources": [
-            {
-              "title": "RG.org best bets",
-              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
-            },
-            {
-              "title": "Yahoo/Action MACtion",
-              "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"
-            }
+            {"title": "FanDuel Research / numberFire", "url": "https://www.fanduel.com/research/pistons-vs-76ers-prediction-nba-odds-spread-best-bets-for-11-4-2026"}
           ]
         }
       ],
-      "parlay": [
-        {
-          "title": "MACtion Double",
-          "legs": [
-            {
-              "pick": "Ohio -13.5",
-              "odds": -114,
-              "event": "AKR @ OHIO"
-            },
-            {
-              "pick": "Buffalo +6.5",
-              "odds": -105,
-              "event": "BUF @ M-OH"
-            }
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": false,
-          "reasoning": "The two MAC plays where sources agree. Pays about 2.6-to-1."
-        }
-      ],
+      "parlay": [],
       "props": []
     },
     {
       "id": "basketball",
       "label": "NBA",
       "icon": "🏀",
-      "slate": "No NBA games today. The league doesn't schedule games on Election Day to encourage voting. The NBA is back tomorrow and will be the main sport on the board from here on. College basketball picks are on the College Hoops tab.",
-      "straight": [],
-      "parlay": [],
+      "slate": "NBA Wednesday: 76ers @ Pistons and Hawks @ Wizards (4:00 PM PT), Bulls @ Knicks and Celtics @ Bucks (4:30), Kings @ Lakers (7:00), and more.",
+      "straight": [
+        {
+          "pick": "Washington Wizards +2.5",
+          "market": "Spread",
+          "odds": -117,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "Hawks @ Wizards",
+          "time": "4:00 PM PT",
+          "reasoning": "Two sources back the home underdog. Check Sarr and Gill. Skip below +1.5.",
+          "sources": [
+            {"title": "PickDawgz Hawks-Wizards", "url": "https://pickdawgz.com/nba-picks/hawks-vs-wizards-prediction-11-4-2026-todays-nba-picks/"}
+          ]
+        },
+        {
+          "pick": "Detroit Pistons -1.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "76ers @ Pistons",
+          "time": "4:00 PM PT",
+          "reasoning": "numberFire 77.8%, and Detroit is 6-1 against the spread. Playable to -2.5.",
+          "sources": [
+            {"title": "FanDuel Research / numberFire", "url": "https://www.fanduel.com/research/pistons-vs-76ers-prediction-nba-odds-spread-best-bets-for-11-4-2026"}
+          ]
+        },
+        {
+          "pick": "Chicago Bulls +11.5",
+          "market": "Spread",
+          "odds": -102,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Bulls @ Knicks",
+          "time": "4:30 PM PT",
+          "reasoning": "Dimers' model gives Chicago a 55.9% chance to cover. The Bulls covered as a double-digit underdog for us last week. Quarter unit.",
+          "sources": [
+            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac"}
+          ]
+        }
+      ],
+      "parlay": [
+        {
+          "title": "Wednesday NBA Double",
+          "legs": [
+            {"pick": "Wizards +2.5", "odds": -117, "event": "ATL @ WAS"},
+            {"pick": "Pistons -1.5", "odds": -110, "event": "PHI @ DET"}
+          ],
+          "units": 0.25,
+          "confidence": 2,
+          "sgp": false,
+          "reasoning": "The two NBA plays with the strongest backing, same tip time. Pays about 2.5-to-1."
+        }
+      ],
       "props": []
     },
     {
       "id": "cbb",
       "label": "College Hoops",
       "icon": "🎓",
-      "slate": "College basketball opening week. Lines on brand-new rosters are the least reliable of the year, and no two sources agreed on a game today, so every pick is a quarter unit at confidence 1.",
+      "slate": "College basketball, opening week continues. These are model plays from Dimers only, so they're quarter units.",
       "straight": [
         {
-          "pick": "Tennessee -26.5",
+          "pick": "Saint Joseph's -8.5",
           "market": "Spread",
-          "odds": -110,
+          "odds": -107,
           "units": 0.25,
-          "confidence": 1,
-          "event": "NCAAB · Wofford @ Tennessee",
-          "time": "3:00 PM PT",
-          "reasoning": "Wofford is ranked 240+ spots lower, and Tennessee's new offensive talent, led by Juke Harris, should pile up points. The writer says the line is too low and still shrinking. Action Network's pick.",
-          "sources": [
-            {
-              "title": "Yahoo/Action CBB best bets",
-              "url": "https://sports.yahoo.com/articles/college-basketball-best-bets-3-130012214.html"
-            }
-          ]
-        },
-        {
-          "pick": "Stetson +19.5",
-          "market": "Spread",
-          "odds": -110,
-          "units": 0.25,
-          "confidence": 1,
-          "event": "NCAAB · Stetson @ South Carolina",
+          "confidence": 2,
+          "event": "NCAAB · Longwood @ Saint Joseph's",
           "time": "4:00 PM PT",
-          "reasoning": "Stetson already has a game under its belt (it played Clemson last night and scored well inside), while South Carolina has 12 new players and is expected to play slow, which keeps the score closer. VSiN's pick.",
+          "reasoning": "Dimers' model gives St. Joe's a 59.5% chance to cover, its biggest college edge of the day.",
           "sources": [
-            {
-              "title": "VSiN CBB picks",
-              "url": "https://vsin.com/college-basketball/college-basketball-picks-for-tuesday-november-3-from-adam-burke/"
-            }
+            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac"}
           ]
         },
         {
-          "pick": "Manhattan +32.5",
+          "pick": "Saint Mary's -12.5",
           "market": "Spread",
-          "odds": -105,
+          "odds": -115,
           "units": 0.25,
-          "confidence": 1,
-          "event": "NCAAB · Manhattan @ Kentucky",
-          "time": "4:00 PM PT",
-          "reasoning": "Dimers' model gives Manhattan a 56% chance to cover. In opening-week blowouts, the favorite often empties its bench late, which helps big underdogs cover.",
+          "confidence": 2,
+          "event": "NCAAB · North Dakota State @ Saint Mary's",
+          "time": "7:00 PM PT",
+          "reasoning": "Dimers' model makes it 58.5% for St. Mary's to cover at home. Quarter unit.",
           "sources": [
-            {
-              "title": "Dimers best bets",
-              "url": "https://www.dimers.com/news/best-bets-11-03-2026-ac"
-            }
-          ]
-        },
-        {
-          "pick": "Arkansas-Pine Bluff +39.5",
-          "market": "Spread",
-          "odds": -110,
-          "units": 0.25,
-          "confidence": 1,
-          "event": "NCAAB · Arkansas-Pine Bluff @ Arkansas",
-          "time": "5:00 PM PT",
-          "reasoning": "This is Dimers' biggest edge of the day across all sports: 60% model cover probability. Same logic as Manhattan: a huge number in an opener.",
-          "sources": [
-            {
-              "title": "Dimers best bets",
-              "url": "https://www.dimers.com/news/best-bets-11-03-2026-ac"
-            }
+            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac"}
           ]
         }
       ],
@@ -175,41 +153,8 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "Tuesday MACtion: Akron @ Ohio (4:00 PM PT) and Buffalo @ Miami (OH). Thursday Night Football is next for the NFL.",
-      "straight": [
-        {
-          "pick": "Ohio -13.5",
-          "market": "Spread",
-          "odds": -114,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "Akron @ Ohio",
-          "time": "4:00 PM PT",
-          "reasoning": "MAC's best rushing offense against a bad run defense, and Akron has lost six straight by mostly big margins. Two sources agree. Skip at -14.",
-          "sources": [
-            {
-              "title": "RG.org best bets",
-              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
-            }
-          ]
-        },
-        {
-          "pick": "Buffalo +6.5",
-          "market": "Spread",
-          "odds": -105,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Buffalo @ Miami (OH)",
-          "time": "Evening PT",
-          "reasoning": "Buffalo's offense is rolling, and Miami's wins have been close. Two sources lean Buffalo. Skip at +5.5.",
-          "sources": [
-            {
-              "title": "Yahoo/Action MACtion",
-              "url": "https://sports.yahoo.com/articles/tuesday-college-football-predictions-picks-113148068.html"
-            }
-          ]
-        }
-      ],
+      "slate": "No picks today. Thursday Night Football is tomorrow.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
@@ -217,22 +162,19 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Tuesday card includes Stars @ Capitals (4:00 PM PT).",
+      "slate": "Four games tonight. Sources split on Sabres-Senators, so we skip it.",
       "straight": [
         {
-          "pick": "Stars vs Capitals UNDER 5.5",
-          "market": "Game total",
-          "odds": 107,
+          "pick": "Florida Panthers ML",
+          "market": "Moneyline",
+          "odds": -160,
           "units": 0.25,
           "confidence": 2,
-          "event": "Stars @ Capitals",
-          "time": "4:00 PM PT",
-          "reasoning": "Dallas allows a league-low 2.14 goals a game with a 93.6% penalty kill, and Stars games average 4.93 goals. Washington's games run higher (6.62), which is the risk. RG.org's pick. Quarter unit at plus money.",
+          "event": "Blackhawks @ Panthers",
+          "time": "Evening PT",
+          "reasoning": "Chicago is 0-6 on the road and has won 3 of its last 10. The Hockeynomist rates this a green light on its fair-line model. Price is an estimate; skip worse than -175.",
           "sources": [
-            {
-              "title": "RG.org best bets",
-              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
-            }
+            {"title": "The Hockeynomist NHL picks", "url": "https://hockeconomics.substack.com/p/nhl-picks-wednesday-november-4-2026"}
           ]
         }
       ],
@@ -243,25 +185,8 @@
       "id": "soccer",
       "label": "Soccer",
       "icon": "⚽",
-      "slate": "Champions League: Atlético Madrid vs Bayern Munich at 12:00 PM PT.",
-      "straight": [
-        {
-          "pick": "Atlético vs Bayern — Draw",
-          "market": "Match result (90 min)",
-          "odds": 290,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Champions League · Atlético Madrid vs Bayern",
-          "time": "12:00 PM PT",
-          "reasoning": "Both defenses are strong, and Bayern has drawn two of three Champions League games and three of eight league matches. +290 implies about 25.6%, which RG.org thinks is too low. Quarter unit. Skip below +260.",
-          "sources": [
-            {
-              "title": "RG.org best bets",
-              "url": "https://rg.org/news/gambling-industry/best-bets-today-ohio-akron-atletico-bayern-november-3-2026"
-            }
-          ]
-        }
-      ],
+      "slate": "No picks today.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
