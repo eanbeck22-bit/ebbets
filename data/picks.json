@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-04",
-  "updated": "2026-11-04T01:45:00-08:00",
-  "headline": "Wednesday: the NBA is back (Pistons vs 76ers, Hawks @ Wizards, Bulls @ Knicks and more), college basketball, and NHL.",
+  "date": "2026-11-05",
+  "updated": "2026-11-05T11:00:00-08:00",
+  "headline": "Thursday: Jaguars @ Ravens on Thursday Night Football (Baltimore down to its third-string QB), two NBA games (Magic @ Suns, Heat @ Warriors), and college basketball.",
   "record": {
-    "label": "Yesterday (Tue 11/3)",
-    "wins": 3, "losses": 5, "pushes": 0, "pending": 3,
-    "units": -1.07,
-    "note": "Buffalo won outright in OT (34-31), and Tennessee covered -26.5 (won by 31). Ohio won by only 8, so -13.5 and the parlay lost. Bayern beat Atlético 2-0, and Stars-Capitals went way over (6-5). Stetson, Manhattan and Arkansas-Pine Bluff results couldn't be confirmed yet. The board is down about 6.5 units overall."
+    "label": "Yesterday (Wed 11/4)",
+    "wins": 3, "losses": 6, "pushes": 0, "pending": 0,
+    "units": -1.89,
+    "note": "Every NBA pick lost: the Hawks beat the Wizards by 15, the 76ers won at Detroit, and the Knicks beat the Bulls by 30. Saint Joseph's covered -8.5 by a half point (82-73), Saint Mary's won by 41, and the Panthers won 5-3. The board is down about 8.5 units since Oct 2."
   },
   "notes": [
+    "This board is down about 8.5 units over the past month. That's real money if you've been betting a unit like $10-$20. If you keep going, consider much smaller stakes.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 2 today.",
-    "Many previews weren't posted yet when this was built (early morning). Recheck injuries before tipoff, especially Alex Sarr for Washington.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
   ],
@@ -19,33 +19,48 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "The strongest edges across today's card. Tuesday these went 1-1. Today: the Wizards as a home underdog (two sources) and the Pistons, whom numberFire rates at 78%.",
+      "slate": "Wednesday these went 0-2. Today's plays all have two sources agreeing, though a third source disagrees on the NBA games.",
       "straight": [
         {
-          "pick": "Washington Wizards +2.5",
-          "market": "Spread",
-          "odds": -117,
+          "pick": "Jaguars vs Ravens UNDER 40",
+          "market": "Game total",
+          "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "NBA · Hawks @ Wizards",
-          "time": "4:00 PM PT",
-          "reasoning": "Dimers' model (its top edge of the day, at +1.5) and PickDawgz both take Washington. The Wizards are going for a third straight win; they won outright at Orlando for us Monday. Atlanta is missing Jock Landale, and Jalen Johnson is questionable. Check Alex Sarr's and Anthony Gill's status before betting, since the line will move if they play. Take +2.5 if available; skip below +1.5.",
+          "event": "NFL · Jaguars @ Ravens (TNF)",
+          "time": "5:15 PM PT",
+          "reasoning": "Yahoo and WagerTalk both take the Under. Lamar Jackson is on IR and Tyler Huntley is out or doubtful, so undrafted rookie Joe Fagnano likely starts; he went 10-for-21 for 91 yards last week. Baltimore should lean on Derrick Henry and run the clock. Jacksonville has gone Under in four of its last five road games, and the total has already dropped from 42.5. Lines range from 39.5 to 40.5; playable to 39.5.",
           "sources": [
-            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac"},
-            {"title": "PickDawgz Hawks-Wizards", "url": "https://pickdawgz.com/nba-picks/hawks-vs-wizards-prediction-11-4-2026-todays-nba-picks/"}
+            {"title": "Yahoo TNF betting preview", "url": "https://sports.yahoo.com/nfl/betting/article/jaguars-vs-ravens-thursday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-150044166.html"},
+            {"title": "WagerTalk TNF", "url": "https://www.wagertalk.com/news/nfl/jaguars-vs-ravens-odds-picks-and-prediction-november-5-2026/"}
           ]
         },
         {
-          "pick": "Detroit Pistons -1.5",
+          "pick": "Golden State Warriors -7.5",
           "market": "Spread",
           "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "NBA · 76ers @ Pistons",
-          "time": "4:00 PM PT",
-          "reasoning": "numberFire gives Detroit a 77.8% win probability, far above the -124 moneyline (about 55%). The Pistons have covered in six of seven games with a set spread. One source, but a large gap. Playable to -2.5.",
+          "event": "NBA · Heat @ Warriors",
+          "time": "7:00 PM PT",
+          "reasoning": "Covers and Deadspin both pick Golden State. The Warriors have won five straight, three by double digits, and haven't played since Monday. Miami played overtime last night before flying to the Bay Area, allows the fourth-most points in the league, and Giannis has a wrist injury. Dimers' model leans Miami, so it's half a unit. Skip at -8.5.",
           "sources": [
-            {"title": "FanDuel Research / numberFire", "url": "https://www.fanduel.com/research/pistons-vs-76ers-prediction-nba-odds-spread-best-bets-for-11-4-2026"}
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-5-2026"},
+            {"title": "Deadspin NBA best bets", "url": "https://deadspin.com/nba-best-bet-picks-november-5-magic-warriors-predictions/"}
+          ]
+        },
+        {
+          "pick": "Orlando Magic +1.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "NBA · Magic @ Suns",
+          "time": "6:00 PM PT",
+          "reasoning": "Covers and Deadspin both take Orlando. Phoenix has lost four straight, hasn't covered in six games, ranks 30th in defensive rating, and is on a back-to-back after allowing 132 to Portland. Orlando has two days of rest. Risk: Banchero is out. Dimers' model likes Phoenix, so it's half a unit. Skip below +1.",
+          "sources": [
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-5-2026"},
+            {"title": "Deadspin NBA best bets", "url": "https://deadspin.com/nba-best-bet-picks-november-5-magic-warriors-predictions/"}
           ]
         }
       ],
@@ -56,93 +71,68 @@
       "id": "basketball",
       "label": "NBA",
       "icon": "🏀",
-      "slate": "NBA Wednesday: 76ers @ Pistons and Hawks @ Wizards (4:00 PM PT), Bulls @ Knicks and Celtics @ Bucks (4:30), Kings @ Lakers (7:00), and more.",
+      "slate": "Light NBA Thursday, two games: Magic @ Suns (6:00 PM PT) and Heat @ Warriors (7:00). Covers and Deadspin agree on both picks; Dimers' model takes the other side of both.",
       "straight": [
         {
-          "pick": "Washington Wizards +2.5",
-          "market": "Spread",
-          "odds": -117,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Hawks @ Wizards",
-          "time": "4:00 PM PT",
-          "reasoning": "Two sources back the home underdog. Check Sarr and Gill. Skip below +1.5.",
-          "sources": [
-            {"title": "PickDawgz Hawks-Wizards", "url": "https://pickdawgz.com/nba-picks/hawks-vs-wizards-prediction-11-4-2026-todays-nba-picks/"}
-          ]
-        },
-        {
-          "pick": "Detroit Pistons -1.5",
+          "pick": "Golden State Warriors -7.5",
           "market": "Spread",
           "odds": -110,
           "units": 0.5,
           "confidence": 2,
-          "event": "76ers @ Pistons",
-          "time": "4:00 PM PT",
-          "reasoning": "numberFire 77.8%, and Detroit is 6-1 against the spread. Playable to -2.5.",
+          "event": "Heat @ Warriors",
+          "time": "7:00 PM PT",
+          "reasoning": "Five straight wins and rested, against a Miami team on a back-to-back after overtime. Skip at -8.5.",
           "sources": [
-            {"title": "FanDuel Research / numberFire", "url": "https://www.fanduel.com/research/pistons-vs-76ers-prediction-nba-odds-spread-best-bets-for-11-4-2026"}
+            {"title": "Deadspin NBA best bets", "url": "https://deadspin.com/nba-best-bet-picks-november-5-magic-warriors-predictions/"}
           ]
         },
         {
-          "pick": "Chicago Bulls +11.5",
+          "pick": "Orlando Magic +1.5",
           "market": "Spread",
-          "odds": -102,
-          "units": 0.25,
+          "odds": -110,
+          "units": 0.5,
           "confidence": 2,
-          "event": "Bulls @ Knicks",
-          "time": "4:30 PM PT",
-          "reasoning": "Dimers' model gives Chicago a 55.9% chance to cover. The Bulls covered as a double-digit underdog for us last week. Quarter unit.",
+          "event": "Magic @ Suns",
+          "time": "6:00 PM PT",
+          "reasoning": "Phoenix is on a back-to-back, has lost four straight, and hasn't covered in six. Skip below +1.",
           "sources": [
-            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac"}
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-5-2026"}
           ]
         }
       ],
-      "parlay": [
-        {
-          "title": "Wednesday NBA Double",
-          "legs": [
-            {"pick": "Wizards +2.5", "odds": -117, "event": "ATL @ WAS"},
-            {"pick": "Pistons -1.5", "odds": -110, "event": "PHI @ DET"}
-          ],
-          "units": 0.25,
-          "confidence": 2,
-          "sgp": false,
-          "reasoning": "The two NBA plays with the strongest backing, same tip time. Pays about 2.5-to-1."
-        }
-      ],
+      "parlay": [],
       "props": []
     },
     {
       "id": "cbb",
       "label": "College Hoops",
       "icon": "🎓",
-      "slate": "College basketball, opening week continues. These are model plays from Dimers only, so they're quarter units.",
+      "slate": "College basketball Thursday. No two sources agreed on a game, so these are quarter units.",
       "straight": [
         {
-          "pick": "Saint Joseph's -8.5",
+          "pick": "Mercer +20.5",
           "market": "Spread",
-          "odds": -107,
+          "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Longwood @ Saint Joseph's",
+          "event": "NCAAB · Mercer @ Virginia Tech",
           "time": "4:00 PM PT",
-          "reasoning": "Dimers' model gives St. Joe's a 59.5% chance to cover, its biggest college edge of the day.",
+          "reasoning": "VSiN expects a slow, 70-72 possession game, which limits how far Virginia Tech can pull away, and Mercer's offense has improved under Ryan Ridder.",
           "sources": [
-            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac"}
+            {"title": "VSiN CBB picks", "url": "https://vsin.com/college-basketball/college-basketball-picks-for-thursday-november-5-from-adam-burke/"}
           ]
         },
         {
-          "pick": "Saint Mary's -12.5",
+          "pick": "McNeese -1.5",
           "market": "Spread",
-          "odds": -115,
+          "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · North Dakota State @ Saint Mary's",
-          "time": "7:00 PM PT",
-          "reasoning": "Dimers' model makes it 58.5% for St. Mary's to cover at home. Quarter unit.",
+          "event": "NCAAB · McNeese @ North Texas",
+          "time": "Evening PT",
+          "reasoning": "McNeese has the stronger offense: 91st in KenPom adjusted efficiency, against North Texas at 275th last year. RotoWire's pick.",
           "sources": [
-            {"title": "Dimers best bets", "url": "https://www.dimers.com/news/best-bets-11-04-2026-ac"}
+            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-thursday-november-5-145379"}
           ]
         }
       ],
@@ -153,8 +143,35 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "No picks today. Thursday Night Football is tomorrow.",
-      "straight": [],
+      "slate": "Thursday Night Football: Jaguars @ Ravens, 5:15 PM PT on Prime Video. Jacksonville -9.5 to -10, total 39.5-40.5. Baltimore is starting undrafted rookie Joe Fagnano at QB.",
+      "straight": [
+        {
+          "pick": "Jaguars vs Ravens UNDER 40",
+          "market": "Game total",
+          "odds": -110,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "Jaguars @ Ravens",
+          "time": "5:15 PM PT",
+          "reasoning": "A third-string QB and a run-heavy game plan; two sources agree. Playable to 39.5.",
+          "sources": [
+            {"title": "WagerTalk TNF", "url": "https://www.wagertalk.com/news/nfl/jaguars-vs-ravens-odds-picks-and-prediction-november-5-2026/"}
+          ]
+        },
+        {
+          "pick": "Baltimore Ravens +10",
+          "market": "Spread",
+          "odds": -112,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Jaguars @ Ravens",
+          "time": "5:15 PM PT",
+          "reasoning": "WagerTalk projects Jacksonville by 7. Over 83% of the money is on the Jaguars, and a slow game helps the home underdog stay inside 10. Baltimore is 1-6 against the spread, which is why it's a quarter unit.",
+          "sources": [
+            {"title": "WagerTalk TNF", "url": "https://www.wagertalk.com/news/nfl/jaguars-vs-ravens-odds-picks-and-prediction-november-5-2026/"}
+          ]
+        }
+      ],
       "parlay": [],
       "props": []
     },
@@ -162,22 +179,8 @@
       "id": "hockey",
       "label": "Hockey",
       "icon": "🏒",
-      "slate": "Four games tonight. Sources split on Sabres-Senators, so we skip it.",
-      "straight": [
-        {
-          "pick": "Florida Panthers ML",
-          "market": "Moneyline",
-          "odds": -160,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Blackhawks @ Panthers",
-          "time": "Evening PT",
-          "reasoning": "Chicago is 0-6 on the road and has won 3 of its last 10. The Hockeynomist rates this a green light on its fair-line model. Price is an estimate; skip worse than -175.",
-          "sources": [
-            {"title": "The Hockeynomist NHL picks", "url": "https://hockeconomics.substack.com/p/nhl-picks-wednesday-november-4-2026"}
-          ]
-        }
-      ],
+      "slate": "No picks today.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
