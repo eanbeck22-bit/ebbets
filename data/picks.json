@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-09",
-  "updated": "2026-11-09T11:00:00-08:00",
-  "headline": "Monday: Bills @ Vikings on Monday Night Football, a short NBA card, and college basketball.",
+  "date": "2026-11-11",
+  "updated": "2026-11-11T10:45:00-08:00",
+  "headline": "Wednesday (Veterans Day): a 10-game NBA night and a full college basketball slate.",
   "record": {
-    "label": "Last board (Fri 11/6)",
-    "wins": 4, "losses": 4, "pushes": 0, "pending": 0,
-    "units": 0.38,
-    "note": "The Celtics crushed Charlotte 119-80, the Timberwolves covered (115-109), and UCF covered (87-75). The Cavaliers blew out the 76ers 119-95 (that sank the 76ers bet and the parlay), and Michigan lost by 8 (+7.5 missed). Small winning day. The board is down about 9.8 units since Oct 2."
+    "label": "Last board (Mon 11/9)",
+    "wins": 2, "losses": 4, "pushes": 0, "pending": 0,
+    "units": 0.34,
+    "note": "The Bills beat the Vikings 23-6, so the Under hit easily (counted twice). Misses: Kincaid caught 3 (needed 4), the Pistons won by 11 (Wizards +10.5 lost by half a point), Minnesota beat Cincinnati on a buzzer-beater, and Auburn-App State finished at 128 (Over 146.5 missed). Small winning day because the biggest bet hit. The board is down about 9.5 units since Oct 2."
   },
   "notes": [
-    "The board is down about 10 units over five weeks. If you keep betting these, use the smallest stake you're comfortable with.",
+    "The board is down about 9.5 units over six weeks. If you keep betting these, use the smallest stake you're comfortable with.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
@@ -19,20 +19,20 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "Friday this tab went 1-1. Today: Covers and WagerTalk agree on the Monday night Under.",
+      "slate": "Monday this tab went 1-0 (the Under). Today: Dimers and Covers both pick Denver in Memphis.",
       "straight": [
         {
-          "pick": "Bills vs Vikings UNDER 44.5",
-          "market": "Game total",
-          "odds": -112,
-          "units": 0.75,
+          "pick": "Denver Nuggets moneyline",
+          "market": "Moneyline",
+          "odds": -150,
+          "units": 0.5,
           "confidence": 3,
-          "event": "NFL · Bills @ Vikings (MNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "Covers and WagerTalk both take the Under. Minnesota has gone Under in 16 of its last 19 games and its offense has stalled (no touchdown at home against Miami, 266 yards against Detroit). Buffalo may be without three starting offensive linemen against a defense that blitzes a league-high 73% of the time. The total has dropped from 46.5 to 44.5 even though about 87% of the money is on the Over, which usually means big bettors are on the Under. Playable to 44.",
+          "event": "NBA · Nuggets @ Grizzlies",
+          "time": "5:00 PM PT",
+          "reasoning": "Two sources agree. Dimers' model gives Denver a 67.7% chance to win, against about 60% implied by the price. Covers also takes Denver: Jokic working from the perimeter and setting screens should pull Zach Edey away from the rim. Playable to -160 (about 62¢ on Kalshi).",
           "sources": [
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026"},
-            {"title": "WagerTalk MNF", "url": "https://www.wagertalk.com/news/nfl/bills-vs-vikings-predictions-picks-and-odds-november-9-2026/"}
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-11-2026-ac"},
+            {"title": "Covers NBA moneyline picks", "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-11-2026"}
           ]
         }
       ],
@@ -43,19 +43,45 @@
       "id": "basketball",
       "label": "NBA",
       "icon": "🏀",
-      "slate": "Monday NBA includes Wizards @ Pistons (4:00 PM PT) and Lakers @ Hawks (4:00). Luka Dončić is uncertain with a back injury. Only one NBA pick made it today.",
+      "slate": "10 games tonight, starting with Cavaliers @ Knicks at 4:00 PM PT. Sources split on Warriors-Rockets, Thunder-Blazers and Wizards-Pacers, so those are skipped.",
       "straight": [
         {
-          "pick": "Washington Wizards +10.5",
+          "pick": "Denver Nuggets moneyline",
+          "market": "Moneyline",
+          "odds": -150,
+          "units": 0.5,
+          "confidence": 3,
+          "event": "Nuggets @ Grizzlies",
+          "time": "5:00 PM PT",
+          "reasoning": "Dimers and Covers both pick Denver. Playable to -160.",
+          "sources": [
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-11-2026-ac"}
+          ]
+        },
+        {
+          "pick": "Chicago Bulls +14.5",
           "market": "Spread",
-          "odds": -108,
+          "odds": 104,
           "units": 0.25,
           "confidence": 2,
-          "event": "NBA · Wizards @ Pistons",
-          "time": "4:00 PM PT",
-          "reasoning": "Detroit is on the second night of a back-to-back after an emotional comeback loss to the Lakers, and it's without Jalen Duren. The Pistons are only 10-11-1 against the spread as home favorites of 6.5-12 points under Bickerstaff. VSiN's pick. Check whether Anthony Davis plays for Washington. Quarter unit.",
+          "event": "Spurs @ Bulls",
+          "time": "5:00 PM PT",
+          "reasoning": "Dimers' biggest edge of the night: a 58.4% chance to cover against about 49% implied by the price. The Spurs are expected to win, but 14.5 is a lot of points on the road. Quarter unit because only one source picks it.",
           "sources": [
-            {"title": "VSiN NBA picks", "url": "https://vsin.com/nba/nba-predictions-today-november-9-best-bets-on-sides-totals/"}
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-11-2026-ac"}
+          ]
+        },
+        {
+          "pick": "Cavaliers vs Knicks OVER 222.5",
+          "market": "Game total",
+          "odds": 100,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Cavaliers @ Knicks",
+          "time": "4:00 PM PT",
+          "reasoning": "FTN's model shows a 6.3% edge. Cleveland's defense has let opponents score more than their season average in 8 of 11 games, and the Knicks are rested after a blowout of the Bucks. Playable to 224.",
+          "sources": [
+            {"title": "FTN NBA best bets", "url": "https://ftnfantasy.com/nba/best-bets-to-make-in-the-nba-today-nov-11-2026"}
           ]
         }
       ],
@@ -66,32 +92,45 @@
       "id": "cbb",
       "label": "College Hoops",
       "icon": "🎓",
-      "slate": "College basketball Monday. These are model plays from Dimers only, so they're quarter units.",
+      "slate": "Big college basketball Wednesday. The headline game is Marquette @ Michigan (4:00 PM PT). All three picks come from one source each, so they're quarter units.",
       "straight": [
         {
-          "pick": "Cincinnati -6.5",
+          "pick": "Michigan -3.5",
           "market": "Spread",
-          "odds": -120,
+          "odds": 103,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Minnesota @ Cincinnati",
+          "event": "NCAAB · Marquette @ Michigan",
           "time": "4:00 PM PT",
-          "reasoning": "Dimers' model gives Cincinnati a 59.5% chance to cover, its biggest spread edge of the day.",
+          "reasoning": "RotoWire takes the better offensive team at home. Marquette's top-ranked defense has come against weak opponents, and Michigan's loss to UConn on Friday was against a strong team. The line opened at -4. Playable to -4.",
           "sources": [
-            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-09-2026-ac"}
+            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-wednesday-november-11-146100"}
           ]
         },
         {
-          "pick": "App State vs Auburn OVER 146.5",
-          "market": "Game total",
-          "odds": -105,
+          "pick": "Abilene Christian +4.5",
+          "market": "Spread",
+          "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Appalachian State @ Auburn",
-          "time": "6:00 PM PT",
-          "reasoning": "Dimers' model gives the Over 55.7%, its top college total of the day.",
+          "event": "NCAAB · Stephen F. Austin vs Abilene Christian",
+          "time": "5:00 PM PT",
+          "reasoning": "Dimers' model gives Abilene Christian a 58.4% chance to cover, one of its top spread edges today. Playable to +4.",
           "sources": [
-            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-09-2026-ac"}
+            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-11-2026-ac"}
+          ]
+        },
+        {
+          "pick": "Nevada vs UC Santa Barbara OVER 144.5",
+          "market": "Game total",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NCAAB · Nevada @ UC Santa Barbara",
+          "time": "6:00 PM PT",
+          "reasoning": "RotoWire likes the Over. Nevada has scored 86 and 96 in its first two games, and UCSB's defense ranks only 130th in adjusted efficiency. Price is an estimate; skip if the total is above 146.",
+          "sources": [
+            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-wednesday-november-11-146100"}
           ]
         }
       ],
@@ -102,38 +141,10 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "Monday Night Football: Bills @ Vikings, 5:15 PM PT on ESPN. Bills -3 to -3.5, total 44.5. Buffalo's offensive line is banged up (Dawkins, Anderson and Brown all in doubt), and Kyler Murray is questionable for Minnesota, so Carson Wentz may start.",
-      "straight": [
-        {
-          "pick": "Bills vs Vikings UNDER 44.5",
-          "market": "Game total",
-          "odds": -112,
-          "units": 0.75,
-          "confidence": 3,
-          "event": "Bills @ Vikings",
-          "time": "5:15 PM PT",
-          "reasoning": "Two sources agree, Minnesota is 16-3 to the Under over its last 19 games, and the line has moved toward the Under. Playable to 44.",
-          "sources": [
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026"}
-          ]
-        }
-      ],
+      "slate": "No NFL until Thursday Night Football. No picks today.",
+      "straight": [],
       "parlay": [],
-      "props": [
-        {
-          "pick": "Dalton Kincaid OVER 3.5 receptions",
-          "market": "Player prop",
-          "odds": -115,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Bills @ Vikings",
-          "time": "5:15 PM PT",
-          "reasoning": "He has 11 catches over his last two games, and Buffalo's wide receivers are banged up (Palmer doubtful, Moore limited, Shakir questionable). Covers projects 4.14 catches. Price is an estimate; quarter unit.",
-          "sources": [
-            {"title": "Covers MNF preview", "url": "https://www.covers.com/nfl/bills-vs-vikings-prediction-picks-nov-9-2026"}
-          ]
-        }
-      ]
+      "props": []
     },
     {
       "id": "hockey",
