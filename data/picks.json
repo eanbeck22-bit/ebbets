@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-11",
-  "updated": "2026-11-11T10:45:00-08:00",
-  "headline": "Wednesday (Veterans Day): a 10-game NBA night and a full college basketball slate.",
+  "date": "2026-11-12",
+  "updated": "2026-11-12T10:50:00-08:00",
+  "headline": "Thursday: Commanders @ Giants on Thursday Night Football, Hornets @ Suns, and college basketball.",
   "record": {
-    "label": "Last board (Mon 11/9)",
-    "wins": 2, "losses": 4, "pushes": 0, "pending": 0,
-    "units": 0.34,
-    "note": "The Bills beat the Vikings 23-6, so the Under hit easily (counted twice). Misses: Kincaid caught 3 (needed 4), the Pistons won by 11 (Wizards +10.5 lost by half a point), Minnesota beat Cincinnati on a buzzer-beater, and Auburn-App State finished at 128 (Over 146.5 missed). Small winning day because the biggest bet hit. The board is down about 9.5 units since Oct 2."
+    "label": "Last board (Wed 11/11)",
+    "wins": 4, "losses": 3, "pushes": 0, "pending": 0,
+    "units": 0.69,
+    "note": "Denver won 123-118 (counted twice), the Bulls covered +14.5 in a 124-119 loss, and Michigan rolled Marquette 84-70. Two half-point misses: Cavs-Knicks finished at 222 (Over 222.5) and Abilene Christian lost by 5 (+4.5). Nevada-UCSB finished at 139 (Over 144.5 missed). Winning day. The board is down about 8.8 units since Oct 2."
   },
   "notes": [
-    "The board is down about 9.5 units over six weeks. If you keep betting these, use the smallest stake you're comfortable with.",
+    "The board is down about 8.8 units over six weeks. If you keep betting these, use the smallest stake you're comfortable with.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
@@ -19,20 +19,20 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "Monday this tab went 1-0 (the Under). Today: Dimers and Covers both pick Denver in Memphis.",
+      "slate": "Wednesday this tab went 1-0 (Nuggets). Today: Covers and WagerTalk both back Phoenix at home against a short-handed Charlotte.",
       "straight": [
         {
-          "pick": "Denver Nuggets moneyline",
-          "market": "Moneyline",
-          "odds": -150,
+          "pick": "Phoenix Suns -6.5",
+          "market": "Spread",
+          "odds": -108,
           "units": 0.5,
           "confidence": 3,
-          "event": "NBA · Nuggets @ Grizzlies",
-          "time": "5:00 PM PT",
-          "reasoning": "Two sources agree. Dimers' model gives Denver a 67.7% chance to win, against about 60% implied by the price. Covers also takes Denver: Jokic working from the perimeter and setting screens should pull Zach Edey away from the rim. Playable to -160 (about 62¢ on Kalshi).",
+          "event": "NBA · Hornets @ Suns",
+          "time": "6:00 PM PT",
+          "reasoning": "Two sources agree on Phoenix. Charlotte is without Brandon Miller and Kon Knueppel, and its 124-point game against Cleveland came from 23-of-46 three-point shooting, which is unlikely to repeat on the road. Before that game the Hornets averaged 96.3 points. The line has dropped from -7.5 to -6.5, a better number on the Suns. WagerTalk projects 112-100. Playable to -7.",
           "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-11-2026-ac"},
-            {"title": "Covers NBA moneyline picks", "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-11-2026"}
+            {"title": "WagerTalk Hornets-Suns", "url": "https://www.wagertalk.com/news/nba/hornets-vs-suns-prediction-picks-and-odds-november-12-2026/"},
+            {"title": "Covers NBA moneyline picks", "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026"}
           ]
         }
       ],
@@ -43,45 +43,32 @@
       "id": "basketball",
       "label": "NBA",
       "icon": "🏀",
-      "slate": "10 games tonight, starting with Cavaliers @ Knicks at 4:00 PM PT. Sources split on Warriors-Rockets, Thunder-Blazers and Wizards-Pacers, so those are skipped.",
+      "slate": "Four games tonight, from Pistons @ Wizards (4:00 PM PT) to Hornets @ Suns (6:00 PM PT).",
       "straight": [
         {
-          "pick": "Denver Nuggets moneyline",
-          "market": "Moneyline",
-          "odds": -150,
+          "pick": "Phoenix Suns -6.5",
+          "market": "Spread",
+          "odds": -108,
           "units": 0.5,
           "confidence": 3,
-          "event": "Nuggets @ Grizzlies",
-          "time": "5:00 PM PT",
-          "reasoning": "Dimers and Covers both pick Denver. Playable to -160.",
+          "event": "Hornets @ Suns",
+          "time": "6:00 PM PT",
+          "reasoning": "Covers and WagerTalk both pick Phoenix, and Charlotte is missing two starters. Playable to -7.",
           "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-11-2026-ac"}
+            {"title": "WagerTalk Hornets-Suns", "url": "https://www.wagertalk.com/news/nba/hornets-vs-suns-prediction-picks-and-odds-november-12-2026/"}
           ]
         },
         {
-          "pick": "Chicago Bulls +14.5",
-          "market": "Spread",
-          "odds": 104,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Spurs @ Bulls",
-          "time": "5:00 PM PT",
-          "reasoning": "Dimers' biggest edge of the night: a 58.4% chance to cover against about 49% implied by the price. The Spurs are expected to win, but 14.5 is a lot of points on the road. Quarter unit because only one source picks it.",
-          "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-11-2026-ac"}
-          ]
-        },
-        {
-          "pick": "Cavaliers vs Knicks OVER 222.5",
+          "pick": "Hornets vs Suns UNDER 214.5",
           "market": "Game total",
-          "odds": 100,
+          "odds": -112,
           "units": 0.25,
           "confidence": 2,
-          "event": "Cavaliers @ Knicks",
-          "time": "4:00 PM PT",
-          "reasoning": "FTN's model shows a 6.3% edge. Cleveland's defense has let opponents score more than their season average in 8 of 11 games, and the Knicks are rested after a blowout of the Bucks. Playable to 224.",
+          "event": "Hornets @ Suns",
+          "time": "6:00 PM PT",
+          "reasoning": "WagerTalk's second play. The public is betting the Over because of Charlotte's one big shooting night, but the Hornets averaged 96.3 points before that and are missing two scorers. Playable to 213.5.",
           "sources": [
-            {"title": "FTN NBA best bets", "url": "https://ftnfantasy.com/nba/best-bets-to-make-in-the-nba-today-nov-11-2026"}
+            {"title": "WagerTalk Hornets-Suns", "url": "https://www.wagertalk.com/news/nba/hornets-vs-suns-prediction-picks-and-odds-november-12-2026/"}
           ]
         }
       ],
@@ -92,45 +79,32 @@
       "id": "cbb",
       "label": "College Hoops",
       "icon": "🎓",
-      "slate": "Big college basketball Wednesday. The headline game is Marquette @ Michigan (4:00 PM PT). All three picks come from one source each, so they're quarter units.",
+      "slate": "Thursday college basketball. Both picks come from one source each, so they're quarter units.",
       "straight": [
         {
-          "pick": "Michigan -3.5",
-          "market": "Spread",
-          "odds": 103,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NCAAB · Marquette @ Michigan",
-          "time": "4:00 PM PT",
-          "reasoning": "RotoWire takes the better offensive team at home. Marquette's top-ranked defense has come against weak opponents, and Michigan's loss to UConn on Friday was against a strong team. The line opened at -4. Playable to -4.",
-          "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-wednesday-november-11-146100"}
-          ]
-        },
-        {
-          "pick": "Abilene Christian +4.5",
+          "pick": "Tennessee Tech +25",
           "market": "Spread",
           "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Stephen F. Austin vs Abilene Christian",
-          "time": "5:00 PM PT",
-          "reasoning": "Dimers' model gives Abilene Christian a 58.4% chance to cover, one of its top spread edges today. Playable to +4.",
+          "event": "NCAAB · Tennessee Tech @ Indiana",
+          "time": "3:30 PM PT",
+          "reasoning": "VSiN's Adam Burke: Indiana is in a letdown spot between a win over Syracuse and big games against Arkansas and Kentucky, and should empty its bench early. Tennessee Tech's offense has been efficient under its new coach. Playable to +24.",
           "sources": [
-            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-11-2026-ac"}
+            {"title": "VSiN CBB picks", "url": "https://vsin.com/college-basketball/college-basketball-picks-for-thursday-november-12-from-adam-burke/"}
           ]
         },
         {
-          "pick": "Nevada vs UC Santa Barbara OVER 144.5",
-          "market": "Game total",
+          "pick": "Texas A&M -7.5",
+          "market": "Spread",
           "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Nevada @ UC Santa Barbara",
-          "time": "6:00 PM PT",
-          "reasoning": "RotoWire likes the Over. Nevada has scored 86 and 96 in its first two games, and UCSB's defense ranks only 130th in adjusted efficiency. Price is an estimate; skip if the total is above 146.",
+          "event": "NCAAB · Oklahoma State @ Texas A&M",
+          "time": "Evening (check listing)",
+          "reasoning": "RotoWire: the Aggies are 24th in KenPom and 17th in adjusted offense, play at the nation's fastest pace, and are at home. Price is an estimate; playable to -8.",
           "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-wednesday-november-11-146100"}
+            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-thursday-november-12-146236"}
           ]
         }
       ],
@@ -141,8 +115,24 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "No NFL until Thursday Night Football. No picks today.",
-      "straight": [],
+      "slate": "Thursday Night Football: Commanders @ Giants, 5:15 PM PT on Prime Video. Giants -2 to -2.5, total 41 to 41.5 (opened 43-44.5). Rain expected.",
+      "straight": [
+        {
+          "pick": "New York Giants -2.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.5,
+          "confidence": 2,
+          "event": "Commanders @ Giants (TNF)",
+          "time": "5:15 PM PT",
+          "reasoning": "TheSpread, DraftKings Network and Sportsbook Review all take the Giants; Covers takes Washington, so this isn't unanimous. The Giants' pass rush had seven sacks against Philadelphia, Jayden Daniels has been sacked 4+ times in three of his last four games, and Washington is 0-3 on the road and without center Lucas Patrick. Take -2 if your book has it. Playable to -2.5; skip at -3.",
+          "sources": [
+            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/commanders-vs-giants-prediction-november-12-2026/"},
+            {"title": "DraftKings Network TNF", "url": "https://dknetwork.draftkings.com/2026/11/12/new-york-giants-vs-washington-commanders-prediction-pick-for-nfl-week-10-on-thursday-11-12-26/"},
+            {"title": "Sportsbook Review TNF", "url": "https://www.sportsbookreview.com/picks/nfl/commanders-vs-giants-prediction-odds-picks-week-10-2026/"}
+          ]
+        }
+      ],
       "parlay": [],
       "props": []
     },
