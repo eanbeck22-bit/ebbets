@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-12",
-  "updated": "2026-11-12T10:50:00-08:00",
-  "headline": "Thursday: Commanders @ Giants on Thursday Night Football, Hornets @ Suns, and college basketball.",
+  "date": "2026-11-13",
+  "updated": "2026-11-13T09:30:00-08:00",
+  "headline": "Friday: NBA Cup night (Knicks @ Pacers, Warriors @ Spurs) and a big college basketball slate.",
   "record": {
-    "label": "Last board (Wed 11/11)",
-    "wins": 4, "losses": 3, "pushes": 0, "pending": 0,
-    "units": 0.69,
-    "note": "Denver won 123-118 (counted twice), the Bulls covered +14.5 in a 124-119 loss, and Michigan rolled Marquette 84-70. Two half-point misses: Cavs-Knicks finished at 222 (Over 222.5) and Abilene Christian lost by 5 (+4.5). Nevada-UCSB finished at 139 (Over 144.5 missed). Winning day. The board is down about 8.8 units since Oct 2."
+    "label": "Last board (Thu 11/12)",
+    "wins": 3, "losses": 3, "pushes": 0, "pending": 0,
+    "units": -0.82,
+    "note": "Phoenix won by only 5 (101-96), so Suns -6.5 lost (counted twice), and Washington beat the Giants 24-21 on a late Diggs touchdown. Wins: the Under 214.5 (197 total), Tennessee Tech +25 (lost by 24), and Texas A&M -7.5 (won by 19). Losing day. The board is down about 9.6 units since Oct 2."
   },
   "notes": [
-    "The board is down about 8.8 units over six weeks. If you keep betting these, use the smallest stake you're comfortable with.",
+    "The board is down about 9.6 units over six weeks. If you keep betting these, use the smallest stake you're comfortable with.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
@@ -19,20 +19,20 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "Wednesday this tab went 1-0 (Nuggets). Today: Covers and WagerTalk both back Phoenix at home against a short-handed Charlotte.",
+      "slate": "Thursday this tab went 0-1 (Suns). Today: Lineups picks the Pacers, and Dimers' model projects the Knicks by only 2.",
       "straight": [
         {
-          "pick": "Phoenix Suns -6.5",
+          "pick": "Indiana Pacers +7.5",
           "market": "Spread",
-          "odds": -108,
+          "odds": -118,
           "units": 0.5,
           "confidence": 3,
-          "event": "NBA · Hornets @ Suns",
-          "time": "6:00 PM PT",
-          "reasoning": "Two sources agree on Phoenix. Charlotte is without Brandon Miller and Kon Knueppel, and its 124-point game against Cleveland came from 23-of-46 three-point shooting, which is unlikely to repeat on the road. Before that game the Hornets averaged 96.3 points. The line has dropped from -7.5 to -6.5, a better number on the Suns. WagerTalk projects 112-100. Playable to -7.",
+          "event": "NBA Cup · Knicks @ Pacers",
+          "time": "4:00 PM PT",
+          "reasoning": "Two sources point the same way. Lineups takes Indiana: the Pacers have covered in four straight home games against New York and are 6-0 as home underdogs against the East. Dimers' model projects Knicks 117-115, a 2-point game against a 7.5-point line. Haliburton is still out, which is why the number is this big. Playable to +7; skip at +6.5.",
           "sources": [
-            {"title": "WagerTalk Hornets-Suns", "url": "https://www.wagertalk.com/news/nba/hornets-vs-suns-prediction-picks-and-odds-november-12-2026/"},
-            {"title": "Covers NBA moneyline picks", "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-12-2026"}
+            {"title": "Lineups Knicks-Pacers", "url": "https://www.lineups.com/articles/knicks-pacers-nba-cup-picks-predictions-odds-for-friday-november-13-2026/"},
+            {"title": "Dimers Knicks-Pacers model", "url": "https://www.dimers.com/nba/predictions/2026_25_ind_nyk"}
           ]
         }
       ],
@@ -43,32 +43,33 @@
       "id": "basketball",
       "label": "NBA",
       "icon": "🏀",
-      "slate": "Four games tonight, from Pistons @ Wizards (4:00 PM PT) to Hornets @ Suns (6:00 PM PT).",
+      "slate": "NBA Cup group games tonight, including Knicks @ Pacers (4:00 PM PT) and Warriors @ Spurs (6:30 PM PT). Stephen Curry is expected to miss Golden State's game.",
       "straight": [
         {
-          "pick": "Phoenix Suns -6.5",
+          "pick": "Indiana Pacers +7.5",
           "market": "Spread",
-          "odds": -108,
+          "odds": -118,
           "units": 0.5,
           "confidence": 3,
-          "event": "Hornets @ Suns",
-          "time": "6:00 PM PT",
-          "reasoning": "Covers and WagerTalk both pick Phoenix, and Charlotte is missing two starters. Playable to -7.",
+          "event": "Knicks @ Pacers",
+          "time": "4:00 PM PT",
+          "reasoning": "Lineups picks Indiana and Dimers projects a 2-point Knicks win. Playable to +7.",
           "sources": [
-            {"title": "WagerTalk Hornets-Suns", "url": "https://www.wagertalk.com/news/nba/hornets-vs-suns-prediction-picks-and-odds-november-12-2026/"}
+            {"title": "Lineups Knicks-Pacers", "url": "https://www.lineups.com/articles/knicks-pacers-nba-cup-picks-predictions-odds-for-friday-november-13-2026/"}
           ]
         },
         {
-          "pick": "Hornets vs Suns UNDER 214.5",
-          "market": "Game total",
-          "odds": -112,
+          "pick": "Golden State Warriors +12.5",
+          "market": "Spread",
+          "odds": -105,
           "units": 0.25,
           "confidence": 2,
-          "event": "Hornets @ Suns",
-          "time": "6:00 PM PT",
-          "reasoning": "WagerTalk's second play. The public is betting the Over because of Charlotte's one big shooting night, but the Hornets averaged 96.3 points before that and are missing two scorers. Playable to 213.5.",
+          "event": "Warriors @ Spurs",
+          "time": "6:30 PM PT",
+          "reasoning": "Lineups takes Golden State (it has covered the last three in San Antonio), and Dimers projects Spurs by 11. But the Spurs have won 10 straight and Curry is likely out, so it stays a quarter unit. Playable to +12; skip at +11.5.",
           "sources": [
-            {"title": "WagerTalk Hornets-Suns", "url": "https://www.wagertalk.com/news/nba/hornets-vs-suns-prediction-picks-and-odds-november-12-2026/"}
+            {"title": "Lineups Warriors-Spurs", "url": "https://www.lineups.com/articles/warriors-spurs-nba-cup-picks-predictions-odds-for-friday-november-13-2026/"},
+            {"title": "Dimers Warriors-Spurs model", "url": "https://www.dimers.com/nba/predictions/2026_25_sas_gsw"}
           ]
         }
       ],
@@ -79,32 +80,45 @@
       "id": "cbb",
       "label": "College Hoops",
       "icon": "🎓",
-      "slate": "Thursday college basketball. Both picks come from one source each, so they're quarter units.",
+      "slate": "Big Friday of college basketball: Virginia @ Maryland, Arizona @ Auburn, Ohio State @ UConn. Each pick comes from one source, so they're quarter units.",
       "straight": [
         {
-          "pick": "Tennessee Tech +25",
+          "pick": "Virginia -6.5",
           "market": "Spread",
-          "odds": -110,
+          "odds": 107,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Tennessee Tech @ Indiana",
-          "time": "3:30 PM PT",
-          "reasoning": "VSiN's Adam Burke: Indiana is in a letdown spot between a win over Syracuse and big games against Arkansas and Kentucky, and should empty its bench early. Tennessee Tech's offense has been efficient under its new coach. Playable to +24.",
+          "event": "NCAAB · Virginia @ Maryland",
+          "time": "5:00 PM PT",
+          "reasoning": "RotoWire: Virginia is top-15 in offense and defense and beat Arkansas by 19, while Maryland trailed Georgetown by 16 at halftime and is shooting 20.8% from three. The line has moved from -5.5 to -6.5, so look for -6 at some books. Playable to -6.5; skip at -7.",
           "sources": [
-            {"title": "VSiN CBB picks", "url": "https://vsin.com/college-basketball/college-basketball-picks-for-thursday-november-12-from-adam-burke/"}
+            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-friday-november-13-146338"}
           ]
         },
         {
-          "pick": "Texas A&M -7.5",
+          "pick": "Auburn +3",
+          "market": "Spread",
+          "odds": -102,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NCAAB · Arizona @ Auburn",
+          "time": "6:00 PM PT",
+          "reasoning": "RotoWire likes Auburn at home: Arizona's backcourt is a question after losing to UCLA, and KenPom projects Auburn to win 80-78. Auburn opened as a 1.5-point favorite and is now getting 3, which is a better price than RotoWire's +2.5.",
+          "sources": [
+            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-friday-november-13-146338"}
+          ]
+        },
+        {
+          "pick": "Pittsburgh +3.5",
           "market": "Spread",
           "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Oklahoma State @ Texas A&M",
-          "time": "Evening (check listing)",
-          "reasoning": "RotoWire: the Aggies are 24th in KenPom and 17th in adjusted offense, play at the nation's fastest pace, and are at home. Price is an estimate; playable to -8.",
+          "event": "NCAAB · Pittsburgh @ Butler",
+          "time": "3:30 PM PT",
+          "reasoning": "Dimers' model gives Pitt a 58.4% chance to cover, a 6% edge. Playable to +3.",
           "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-thursday-november-12-146236"}
+            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-13-2026-ac"}
           ]
         }
       ],
@@ -115,24 +129,8 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "Thursday Night Football: Commanders @ Giants, 5:15 PM PT on Prime Video. Giants -2 to -2.5, total 41 to 41.5 (opened 43-44.5). Rain expected.",
-      "straight": [
-        {
-          "pick": "New York Giants -2.5",
-          "market": "Spread",
-          "odds": -110,
-          "units": 0.5,
-          "confidence": 2,
-          "event": "Commanders @ Giants (TNF)",
-          "time": "5:15 PM PT",
-          "reasoning": "TheSpread, DraftKings Network and Sportsbook Review all take the Giants; Covers takes Washington, so this isn't unanimous. The Giants' pass rush had seven sacks against Philadelphia, Jayden Daniels has been sacked 4+ times in three of his last four games, and Washington is 0-3 on the road and without center Lucas Patrick. Take -2 if your book has it. Playable to -2.5; skip at -3.",
-          "sources": [
-            {"title": "TheSpread TNF", "url": "https://www.thespread.com/nfl-articles/commanders-vs-giants-prediction-november-12-2026/"},
-            {"title": "DraftKings Network TNF", "url": "https://dknetwork.draftkings.com/2026/11/12/new-york-giants-vs-washington-commanders-prediction-pick-for-nfl-week-10-on-thursday-11-12-26/"},
-            {"title": "Sportsbook Review TNF", "url": "https://www.sportsbookreview.com/picks/nfl/commanders-vs-giants-prediction-odds-picks-week-10-2026/"}
-          ]
-        }
-      ],
+      "slate": "No NFL until Sunday. No picks today.",
+      "straight": [],
       "parlay": [],
       "props": []
     },
