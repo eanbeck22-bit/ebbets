@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-13",
-  "updated": "2026-11-13T09:30:00-08:00",
-  "headline": "Friday: NBA Cup night (Knicks @ Pacers, Warriors @ Spurs) and a big college basketball slate.",
+  "date": "2026-11-16",
+  "updated": "2026-11-16T09:00:00-08:00",
+  "headline": "Monday: Chargers @ Ravens on Monday Night Football, a 9-game NBA night, and college basketball.",
   "record": {
-    "label": "Last board (Thu 11/12)",
+    "label": "Last board (Fri 11/13)",
     "wins": 3, "losses": 3, "pushes": 0, "pending": 0,
-    "units": -0.82,
-    "note": "Phoenix won by only 5 (101-96), so Suns -6.5 lost (counted twice), and Washington beat the Giants 24-21 on a late Diggs touchdown. Wins: the Under 214.5 (197 total), Tennessee Tech +25 (lost by 24), and Texas A&M -7.5 (won by 19). Losing day. The board is down about 9.6 units since Oct 2."
+    "units": 0.32,
+    "note": "The Pacers beat the Knicks 106-104 outright (counted twice), and Pitt covered +3.5 by winning by 12. Misses: Spurs crushed the Warriors 123-85, Virginia won by only 4 (-6.5), and Arizona won at Auburn by 11. Small winning day because the biggest bet hit. The board is down about 9.3 units since Oct 2."
   },
   "notes": [
-    "The board is down about 9.6 units over six weeks. If you keep betting these, use the smallest stake you're comfortable with.",
+    "The board is down about 9.3 units over seven weeks. If you keep betting these, use the smallest stake you're comfortable with.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
@@ -19,20 +19,22 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "Thursday this tab went 0-1 (Suns). Today: Lineups picks the Pacers, and Dimers' model projects the Knicks by only 2.",
+      "slate": "Friday this tab went 1-0 (Pacers). Today: four sources agree on the Monday night Under.",
       "straight": [
         {
-          "pick": "Indiana Pacers +7.5",
-          "market": "Spread",
-          "odds": -118,
-          "units": 0.5,
+          "pick": "Chargers vs Ravens UNDER 39",
+          "market": "Game total",
+          "odds": -108,
+          "units": 0.75,
           "confidence": 3,
-          "event": "NBA Cup · Knicks @ Pacers",
-          "time": "4:00 PM PT",
-          "reasoning": "Two sources point the same way. Lineups takes Indiana: the Pacers have covered in four straight home games against New York and are 6-0 as home underdogs against the East. Dimers' model projects Knicks 117-115, a 2-point game against a 7.5-point line. Haliburton is still out, which is why the number is this big. Playable to +7; skip at +6.5.",
+          "event": "NFL · Chargers @ Ravens (MNF)",
+          "time": "5:15 PM PT",
+          "reasoning": "TheSpread, WagerTalk, SportsBettingDime and Yahoo all take the Under. Jacoby Brissett makes his first Ravens start with Lamar Jackson on injured reserve, and Baltimore hasn't reached 14 points in any of its four straight losses. The 0-8 Chargers haven't topped 17 in six of eight games, Herbert has a finger injury, and McConkey is out. About 83% of the money is on the Over, but the total hasn't moved up. Lines range from 38.5 to 39.5 at different books; take the highest one you can find. Playable to 38.5.",
           "sources": [
-            {"title": "Lineups Knicks-Pacers", "url": "https://www.lineups.com/articles/knicks-pacers-nba-cup-picks-predictions-odds-for-friday-november-13-2026/"},
-            {"title": "Dimers Knicks-Pacers model", "url": "https://www.dimers.com/nba/predictions/2026_25_ind_nyk"}
+            {"title": "TheSpread MNF", "url": "https://www.thespread.com/nfl-articles/chargers-vs-ravens-prediction-november-16-2026/"},
+            {"title": "WagerTalk MNF", "url": "https://www.wagertalk.com/news/nfl/chargers-vs-ravens-predictions-picks-and-odds-november-16-2026/"},
+            {"title": "SportsBettingDime MNF", "url": "https://www.sportsbettingdime.com/news/nfl/chargers-ravens-predictions-expert-picks-mnf-nov-16/"},
+            {"title": "Yahoo MNF", "url": "https://sports.yahoo.com/articles/chargers-vs-ravens-prediction-pick-154053963.html"}
           ]
         }
       ],
@@ -43,33 +45,20 @@
       "id": "basketball",
       "label": "NBA",
       "icon": "🏀",
-      "slate": "NBA Cup group games tonight, including Knicks @ Pacers (4:00 PM PT) and Warriors @ Spurs (6:30 PM PT). Stephen Curry is expected to miss Golden State's game.",
+      "slate": "Nine games tonight, starting at 4:00 PM PT. Dimers and BettingPros agree on Chicago getting 9.5 in Cleveland. Other games had split or thin signals, so they're skipped.",
       "straight": [
         {
-          "pick": "Indiana Pacers +7.5",
-          "market": "Spread",
-          "odds": -118,
-          "units": 0.5,
-          "confidence": 3,
-          "event": "Knicks @ Pacers",
-          "time": "4:00 PM PT",
-          "reasoning": "Lineups picks Indiana and Dimers projects a 2-point Knicks win. Playable to +7.",
-          "sources": [
-            {"title": "Lineups Knicks-Pacers", "url": "https://www.lineups.com/articles/knicks-pacers-nba-cup-picks-predictions-odds-for-friday-november-13-2026/"}
-          ]
-        },
-        {
-          "pick": "Golden State Warriors +12.5",
+          "pick": "Chicago Bulls +9.5",
           "market": "Spread",
           "odds": -105,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Warriors @ Spurs",
-          "time": "6:30 PM PT",
-          "reasoning": "Lineups takes Golden State (it has covered the last three in San Antonio), and Dimers projects Spurs by 11. But the Spurs have won 10 straight and Curry is likely out, so it stays a quarter unit. Playable to +12; skip at +11.5.",
+          "units": 0.5,
+          "confidence": 3,
+          "event": "NBA · Bulls @ Cavaliers",
+          "time": "4:00 PM PT",
+          "reasoning": "Two sources agree. Cleveland is 7-7, ranks 21st in defense, and is without Evan Mobley. Chicago lost recent close games to the 76ers (by 6) and Spurs (by 5), and Norman Powell has scored 24+ in back-to-back games. Dimers' model gives the Bulls a 53% chance to cover. Playable to +9; skip at +8.5.",
           "sources": [
-            {"title": "Lineups Warriors-Spurs", "url": "https://www.lineups.com/articles/warriors-spurs-nba-cup-picks-predictions-odds-for-friday-november-13-2026/"},
-            {"title": "Dimers Warriors-Spurs model", "url": "https://www.dimers.com/nba/predictions/2026_25_sas_gsw"}
+            {"title": "BettingPros NBA picks", "url": "https://www.bettingpros.com/articles/nba-picks-predictions-monday-11-16/"},
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-16-2026-ac"}
           ]
         }
       ],
@@ -80,45 +69,32 @@
       "id": "cbb",
       "label": "College Hoops",
       "icon": "🎓",
-      "slate": "Big Friday of college basketball: Virginia @ Maryland, Arizona @ Auburn, Ohio State @ UConn. Each pick comes from one source, so they're quarter units.",
+      "slate": "Monday college basketball. These are model plays from Dimers only, so they're quarter units.",
       "straight": [
         {
-          "pick": "Virginia -6.5",
+          "pick": "Tulsa -6.5",
           "market": "Spread",
-          "odds": 107,
+          "odds": -120,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Virginia @ Maryland",
-          "time": "5:00 PM PT",
-          "reasoning": "RotoWire: Virginia is top-15 in offense and defense and beat Arkansas by 19, while Maryland trailed Georgetown by 16 at halftime and is shooting 20.8% from three. The line has moved from -5.5 to -6.5, so look for -6 at some books. Playable to -6.5; skip at -7.",
+          "event": "NCAAB · Western Kentucky @ Tulsa",
+          "time": "4:00 PM PT",
+          "reasoning": "Dimers' model gives Tulsa a 59.5% chance to cover, its top spread edge of the day. Playable to -7.",
           "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-friday-november-13-146338"}
+            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-16-2026-ac"}
           ]
         },
         {
-          "pick": "Auburn +3",
+          "pick": "Prairie View A&M +33.5",
           "market": "Spread",
-          "odds": -102,
+          "odds": -108,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Arizona @ Auburn",
-          "time": "6:00 PM PT",
-          "reasoning": "RotoWire likes Auburn at home: Arizona's backcourt is a question after losing to UCLA, and KenPom projects Auburn to win 80-78. Auburn opened as a 1.5-point favorite and is now getting 3, which is a better price than RotoWire's +2.5.",
-          "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-friday-november-13-146338"}
-          ]
-        },
-        {
-          "pick": "Pittsburgh +3.5",
-          "market": "Spread",
-          "odds": -110,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NCAAB · Pittsburgh @ Butler",
+          "event": "NCAAB · Prairie View A&M @ Ohio State",
           "time": "3:30 PM PT",
-          "reasoning": "Dimers' model gives Pitt a 58.4% chance to cover, a 6% edge. Playable to +3.",
+          "reasoning": "Dimers' model gives Prairie View a 57% chance to cover, a 5.1% edge. Big favorites often pull their starters early in games like this. Playable to +32.",
           "sources": [
-            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-13-2026-ac"}
+            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-16-2026-ac"}
           ]
         }
       ],
@@ -129,10 +105,38 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "No NFL until Sunday. No picks today.",
-      "straight": [],
+      "slate": "Monday Night Football: Chargers @ Ravens, 5:15 PM PT on ESPN. Ravens -4.5 (opened -3.5), total 38.5–39.5. Jacoby Brissett starts for Baltimore (Lamar Jackson is on injured reserve), and Justin Herbert has a finger injury.",
+      "straight": [
+        {
+          "pick": "Chargers vs Ravens UNDER 39",
+          "market": "Game total",
+          "odds": -108,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "Chargers @ Ravens",
+          "time": "5:15 PM PT",
+          "reasoning": "Four sources agree, both offenses are struggling, and both quarterbacks are in tough spots. Take the highest total you can find. Playable to 38.5.",
+          "sources": [
+            {"title": "WagerTalk MNF", "url": "https://www.wagertalk.com/news/nfl/chargers-vs-ravens-predictions-picks-and-odds-november-16-2026/"}
+          ]
+        }
+      ],
       "parlay": [],
-      "props": []
+      "props": [
+        {
+          "pick": "Justin Herbert UNDER 203.5 passing yards",
+          "market": "Player prop",
+          "odds": -113,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Chargers @ Ravens",
+          "time": "5:15 PM PT",
+          "reasoning": "SportsBettingDime: he's averaged 184 passing yards over his last six games and stayed under 200 in four of them, he has a finger injury, and McConkey is out. If Herbert is ruled out, the bet is usually voided. Quarter unit.",
+          "sources": [
+            {"title": "SportsBettingDime MNF", "url": "https://www.sportsbettingdime.com/news/nfl/chargers-ravens-predictions-expert-picks-mnf-nov-16/"}
+          ]
+        }
+      ]
     },
     {
       "id": "hockey",
