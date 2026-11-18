@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-17",
-  "updated": "2026-11-17T10:30:00-08:00",
-  "headline": "Tuesday: a 5-game NBA night and a huge college basketball slate (Illinois @ Duke, Michigan State @ Tennessee).",
+  "date": "2026-11-18",
+  "updated": "2026-11-18T10:30:00-08:00",
+  "headline": "Wednesday: Giannis faces his old team (Bucks @ Heat), an 11-game NBA night, and UConn @ Arizona.",
   "record": {
-    "label": "Last board (Mon 11/16)",
-    "wins": 2, "losses": 4, "pushes": 0, "pending": 0,
-    "units": -1.80,
-    "note": "Bad night. The Chargers beat the Ravens 23-20, so 43 points sank the Under even with four sources agreeing (counted twice). The Cavaliers beat the Bulls by 11 (+9.5 missed), and Tulsa won by only 3 (-6.5 missed). Wins: Prairie View +33.5 (lost by 27) and Herbert under 203.5 passing yards (129). The board is down about 11.1 units since Oct 2."
+    "label": "Last board (Tue 11/17)",
+    "wins": 4, "losses": 3, "pushes": 0, "pending": 0,
+    "units": 0.78,
+    "note": "The Knicks won by 9 in Toronto (counted twice), the Hornets covered +7.5 in a 4-point loss, and Illinois beat Duke outright 99-78. Misses: the Jazz blew out the Clippers 132-107, Tennessee beat Michigan State 61-46, and Pitt beat Villanova by 20. Winning day. The board is down about 10.3 units since Oct 2."
   },
   "notes": [
-    "The board is down about 11 units over seven weeks, so these picks have been losing money. If you keep betting them, use the smallest stake you're comfortable with, or sit some days out.",
+    "The board is down about 10 units over seven weeks, so these picks have been losing money. If you keep betting them, use the smallest stake you're comfortable with, or sit some days out.",
     "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
     "Odds move. Skip any pick whose price is past the 'playable to' number in its reasoning.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
@@ -19,20 +19,20 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "Monday this tab went 0-1 (the Under). Today: Dimers and Covers both pick New York in Toronto, where Kawhi Leonard is out.",
+      "slate": "Tuesday this tab went 1-0 (Knicks). Today: Dimers and TheLines both take Milwaukee getting 12.5 in Miami.",
       "straight": [
         {
-          "pick": "New York Knicks -3.5",
+          "pick": "Milwaukee Bucks +12.5",
           "market": "Spread",
-          "odds": 104,
+          "odds": -109,
           "units": 0.5,
           "confidence": 3,
-          "event": "NBA · Knicks @ Raptors",
-          "time": "4:30 PM PT",
-          "reasoning": "Two sources agree. Dimers' model gives the Knicks a 52% chance to cover at a plus price, and Covers takes New York to win: the Knicks have beaten Toronto 14 straight times and the Raptors are without Kawhi Leonard. Playable to -4; skip at -4.5.",
+          "event": "NBA · Bucks @ Heat",
+          "time": "4:00 PM PT",
+          "reasoning": "Two sources agree. Dimers' model gives Milwaukee a 56.2% chance to cover, its biggest edge of the night. TheLines takes the points too: it's Giannis's first game against the Bucks since the trade, the Heat have won five straight, and Milwaukee's 1-13 record has inflated the spread. Playable to +12; skip at +11.5.",
           "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-17-2026-ac"},
-            {"title": "Covers NBA moneyline picks", "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-17-2026"}
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-18-2026-ac"},
+            {"title": "TheLines NBA picks", "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-18/"}
           ]
         }
       ],
@@ -43,47 +43,33 @@
       "id": "basketball",
       "label": "NBA",
       "icon": "🏀",
-      "slate": "Five games tonight. Sources split on Pistons-Spurs and Blazers-Timberwolves, so those are skipped.",
+      "slate": "11 games tonight, starting at 4:00 PM PT. Sources split on Celtics-Nuggets (one Over, one Under) and are thin elsewhere.",
       "straight": [
         {
-          "pick": "New York Knicks -3.5",
+          "pick": "Milwaukee Bucks +12.5",
           "market": "Spread",
-          "odds": 104,
+          "odds": -109,
           "units": 0.5,
           "confidence": 3,
-          "event": "Knicks @ Raptors",
-          "time": "4:30 PM PT",
-          "reasoning": "Dimers and Covers both pick New York, and Kawhi Leonard is out. Playable to -4.",
+          "event": "Bucks @ Heat",
+          "time": "4:00 PM PT",
+          "reasoning": "Dimers and TheLines both take the points. Playable to +12.",
           "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-17-2026-ac"}
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-18-2026-ac"}
           ]
         },
         {
-          "pick": "Charlotte Hornets +7.5",
+          "pick": "Phoenix Suns -6.5",
           "market": "Spread",
-          "odds": 104,
+          "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "Hornets @ Lakers",
-          "time": "8:00 PM PT",
-          "reasoning": "Dimers gives Charlotte a 53.8% chance to cover, and Covers takes the Hornets to win outright: Charlotte stayed in LA after Sunday's game while the Lakers are coming home from a four-game road trip, and the Hornets are second in the league in rebounding. Kept to a quarter unit because Covers' pick is a long-shot moneyline. Playable to +7.",
+          "event": "Suns @ Kings",
+          "time": "7:00 PM PT",
+          "reasoning": "BettingPros and TheLines both take Phoenix: Sacramento is 1-12, has lost six straight, and 11 of its 12 losses have been by 7 or more. But Dimers' model leans to the Kings, so this stays a quarter unit. Playable to -7.",
           "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-17-2026-ac"},
-            {"title": "Covers NBA moneyline picks", "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-17-2026"}
-          ]
-        },
-        {
-          "pick": "LA Clippers -6.5",
-          "market": "Spread",
-          "odds": 106,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "Jazz @ Clippers",
-          "time": "7:30 PM PT",
-          "reasoning": "Dimers picks the Clippers to cover, and Covers takes them to win: Utah is missing three frontcourt players, including Jaren Jackson Jr. and Lauri Markkanen, and has the league's worst shot quality. Dimers' edge is small, so it's a quarter unit. Playable to -7.",
-          "sources": [
-            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-17-2026-ac"},
-            {"title": "Covers NBA moneyline picks", "url": "https://www.covers.com/nba/moneyline-predictions-picks-nov-17-2026"}
+            {"title": "BettingPros NBA picks", "url": "https://www.bettingpros.com/articles/nba-picks-predictions-wednesday-11-18/"},
+            {"title": "TheLines NBA picks", "url": "https://www.thelines.com/nba/player-props/expert-nba-picks-and-player-props-best-nba-bets-today-nov-18/"}
           ]
         }
       ],
@@ -94,45 +80,45 @@
       "id": "cbb",
       "label": "College Hoops",
       "icon": "🎓",
-      "slate": "Big Tuesday: Illinois @ Duke, Michigan State @ Tennessee, Indiana @ Arkansas, Villanova @ Pitt. Each pick comes from one source, so they're quarter units.",
+      "slate": "Headline game: UConn @ Arizona (6:00 PM PT), plus Houston vs Florida. Each pick comes from one source, so they're quarter units.",
       "straight": [
         {
-          "pick": "Michigan State -3",
+          "pick": "UConn +3.5",
           "market": "Spread",
           "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Michigan State @ Tennessee",
+          "event": "NCAAB · UConn @ Arizona",
           "time": "6:00 PM PT",
-          "reasoning": "RotoWire: Tennessee's 3-0 start came against an easy schedule, and its defensive rebounding is weak. Michigan State is near the top of the country in offensive rebounding, free-throw rate and blocks, and has the best player on the floor in Jeremy Fears. Playable to -3.5.",
+          "reasoning": "RotoWire: UConn is more balanced. Arizona is shooting only 30% from three and ranks 309th in getting its shots blocked, while UConn's defense blocks a lot of shots. Price is an estimate; playable to +3.",
           "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-tuesday-november-17-146836"}
+            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-wednesday-november-18-146948"}
           ]
         },
         {
-          "pick": "Illinois +7.5",
+          "pick": "NC Central +23",
           "market": "Spread",
           "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Illinois @ Duke",
-          "time": "Evening (check listing)",
-          "reasoning": "RotoWire: Illinois has one of the most efficient offenses in the country and lost by only 6 at Texas Tech. Duke's win over Michigan State wasn't close for most of the game, but 7.5 points against a top offense is a lot. Price is an estimate; playable to +7.",
+          "event": "NCAAB · NC Central @ George Mason",
+          "time": "4:00 PM PT",
+          "reasoning": "VSiN's Adam Burke: both teams play slowly (total 131.5), which makes a 23-point margin hard to reach. Playable to +22.",
           "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-tuesday-november-17-146836"}
+            {"title": "VSiN CBB picks", "url": "https://vsin.com/college-basketball/college-basketball-picks-for-wednesday-november-18-from-adam-burke/"}
           ]
         },
         {
-          "pick": "Villanova moneyline",
-          "market": "Moneyline",
-          "odds": -120,
+          "pick": "Alcorn State +44.5",
+          "market": "Spread",
+          "odds": -108,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Villanova @ Pittsburgh",
-          "time": "4:00 PM PT",
-          "reasoning": "FanDuel Research: Villanova has the better offense (1.163 points per possession to Pitt's 1.124), a much better effective field goal percentage, and a 36.6% offensive rebound rate. It has won three straight. Playable to -130.",
+          "event": "NCAAB · Alcorn State @ Missouri",
+          "time": "6:00 PM PT",
+          "reasoning": "Dimers' model gives Alcorn a 63% chance to cover, an 11% edge and its biggest of the day. Huge favorites often empty the bench. Playable to +42.",
           "sources": [
-            {"title": "FanDuel Research CBB picks", "url": "https://www.fanduel.com/research/college-basketball-picks-today-3-predictions-tuesday-nov-17"}
+            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-18-2026-ac"}
           ]
         }
       ],
