@@ -1,7 +1,7 @@
-{
+\{
   "date": "2026-11-25",
   "updated": "2026-11-25T10:50:00-08:00",
-  "headline": "Wednesday before Thanksgiving: Feast Week college tournaments (Duke vs UConn in Vegas) and NBA Cup games. Extra picks included.",
+  "headline": "Thanksgiving Eve: Packers @ Rams on Netflix, Feast Week college tournaments (Duke vs UConn in Vegas), and NBA Cup games. Extra picks included.",
   "record": {
     "label": "Last board (Fri 11/20)",
     "wins": 11, "losses": 5, "pushes": 0, "pending": 0,
@@ -20,8 +20,22 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "Friday this tab went 1-1 (Indiana won, Eastern Illinois lost). Today: two college picks where two sources agree.",
+      "slate": "Friday this tab went 1-1 (Indiana won, Eastern Illinois lost). Today: four sources agree on the Packers-Rams Under, plus two college picks where two sources agree.",
       "straight": [
+        {
+          "pick": "Packers vs Rams UNDER 44.5",
+          "market": "Game total",
+          "odds": -112,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "NFL · Packers @ Rams (Netflix)",
+          "time": "5:00 PM PT",
+          "reasoning": "Four sources agree. Both defenses are top-10, the Rams are missing Nacua and Adams, Green Bay's offensive line is banged up against Myles Garrett, and the total has dropped from 45.5. Playable to 44; skip at 43.5.",
+          "sources": [
+            {"title": "SBR Packers-Rams", "url": "https://www.sportsbookreview.com/picks/nfl/packers-vs-rams-prediction-odds-picks-thanksgiving-eve-2026/"},
+            {"title": "Yahoo Packers-Rams", "url": "https://sports.yahoo.com/betting/articles/rams-vs-packers-watch-odds-150155898.html"}
+          ]
+        },
         {
           "pick": "Arizona State +4.5",
           "market": "Spread",
@@ -262,10 +276,40 @@
       "id": "football",
       "label": "Football",
       "icon": "🏈",
-      "slate": "No NFL today. Thanksgiving games are tomorrow.",
-      "straight": [],
+      "slate": "Thanksgiving Eve: Packers @ Rams, 5:00 PM PT on Netflix (SoFi Stadium). Rams -2.5 (opened -3.5), total 44.5 (opened 45.5). The Rams are without Puka Nacua and Davante Adams; Micah Parsons returns for Green Bay, and Josh Jacobs is questionable. Sources split on the side, so only the total and a prop are on the board.",
+      "straight": [
+        {
+          "pick": "Packers vs Rams UNDER 44.5",
+          "market": "Game total",
+          "odds": -112,
+          "units": 0.75,
+          "confidence": 3,
+          "event": "Packers @ Rams",
+          "time": "5:00 PM PT",
+          "reasoning": "Four sources agree (Sportsbook Review's best bet, Yahoo, Pickswise, TheLines). The Rams' defense ranks 2nd in EPA allowed and has given up only three touchdowns in five games, LA's top two receivers are out, Green Bay's line is banged up against Myles Garrett, and Packers games are 7-3 to the Under. The total has already dropped a point. Playable to 44; skip at 43.5.",
+          "sources": [
+            {"title": "SBR Packers-Rams", "url": "https://www.sportsbookreview.com/picks/nfl/packers-vs-rams-prediction-odds-picks-thanksgiving-eve-2026/"},
+            {"title": "Yahoo Packers-Rams", "url": "https://sports.yahoo.com/betting/articles/rams-vs-packers-watch-odds-150155898.html"},
+            {"title": "Pickswise Packers-Rams", "url": "https://www.pickswise.com/nfl/news/packers-vs-rams-predictions-picks-odds-betting-guide/"}
+          ]
+        }
+      ],
       "parlay": [],
-      "props": []
+      "props": [
+        {
+          "pick": "Blake Corum OVER 55.5 rushing yards",
+          "market": "Player prop",
+          "odds": -120,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Packers @ Rams",
+          "time": "5:00 PM PT",
+          "reasoning": "Extra pick. Pickswise: he's had 11+ carries in four straight games, averages 5.3 yards a carry, and has cleared this number in each of them. With Nacua and Adams out, the Rams have outrushed opponents 653-175 over four games. Skip above 57.5.",
+          "sources": [
+            {"title": "Pickswise Packers-Rams", "url": "https://www.pickswise.com/nfl/news/packers-vs-rams-predictions-picks-odds-betting-guide/"}
+          ]
+        }
+      ]
     },
     {
       "id": "hockey",
