@@ -1,18 +1,17 @@
 {
-  "date": "2026-11-26",
-  "updated": "2026-11-26T10:00:00-08:00",
-  "headline": "Thanksgiving: three NFL games (Bears @ Lions, Eagles @ Cowboys, Chiefs @ Bills) and college tournaments. No NBA today.",
+  "date": "2026-11-27",
+  "updated": "2026-11-27T10:50:00-08:00",
+  "headline": "Black Friday: Broncos @ Steelers on Prime (noon PT), a full NBA Cup night, and college basketball all day.",
   "record": {
-    "label": "Last board (Wed 11/25)",
-    "wins": 11, "losses": 5, "pushes": 0, "pending": 0,
-    "units": 2.52,
-    "note": "The Rams beat the Packers 26-13 (Under hit, counted twice) and Blake Corum ran for 184. Arizona State lost to LSU by 2 in double overtime (+4.5 covered, counted twice), and Utah State beat SMU 93-59 (Under hit, counted twice). Also hit: Wolves-Thunder Under, Jackson State, Southern, and LMU. Misses: Heat, Thunder -1.5, UConn, and two half-point losses (Spurs-Blazers finished at 227 on the Under 226.5, and Providence lost by 3 at +2.5). Rice, Marquette and Davidson aren't counted because they'd already started when the board went out. Fourth winning board in a row. The board is down about 2.7 units since Oct 2."
+    "label": "Last board (Thu 11/26)",
+    "wins": 6, "losses": 7, "pushes": 0, "pending": 1,
+    "units": -0.41,
+    "note": "The Bills beat the Chiefs 13-10 in the rain, so the Under hit (counted twice). The Bears scored a last-second touchdown to win 39-35, which sank Lions +1.5 (counted twice) and the 3-leg parlay. Also hit: Goff over 275.5 yards (313), Texas -8.5, Tennessee-Iowa State Under (139, by half a point), and Oregon +9.5. Misses: Swift's carries (9), St. John's, TCU, SMU, and the Gonzaga-Baylor Over. Kelce's receiving yards couldn't be confirmed yet. The four-day winning streak ends; the board is down about 3.1 units since Oct 2."
   },
   "notes": [
     "Picks labeled 'Extra pick' come from only one source. They're quarter units; bet them small or skip them.",
-    "No pick today has every source agreeing. The main picks are 2-to-1 splits, so they're confidence 2.",
-    "Bears @ Lions kicks off at 10:00 AM PT. Check that the line hasn't moved before you bet.",
-    "The board is still down about 2.7 units overall after a hot week. Keep stakes small.",
+    "Several college games tipped this morning (Liberty, Memphis, Navy). They're left off because they've already started.",
+    "No bet is a lock. 'Confidence' runs 1–5, and nothing on this board is above a 3.",
     "Bet only what you can afford to lose. Help: 1-800-GAMBLER."
   ],
   "sections": [
@@ -20,34 +19,48 @@
       "id": "best",
       "label": "Best of the Day",
       "icon": "★",
-      "slate": "Wednesday this tab went 3-0. Today no game has all sources agreeing, so these are the two strongest 2-to-1 picks.",
+      "slate": "Thursday this tab went 1-1. Today: three NBA picks where two sources agree and none disagree.",
       "straight": [
         {
-          "pick": "Chiefs vs Bills UNDER 47.5",
-          "market": "Game total",
-          "odds": -110,
+          "pick": "Atlanta Hawks +9.5",
+          "market": "Spread",
+          "odds": -105,
           "units": 0.5,
-          "confidence": 2,
-          "event": "NFL · Chiefs @ Bills (Thanksgiving night)",
-          "time": "5:20 PM PT",
-          "reasoning": "CBS Sports' Mike Tierney and Fantasy Life both take the Under, and SportsBettingDime takes the Over. Rain, temperatures in the 30s, and gusts over 20 mph are forecast in Buffalo. Kansas City's defense allows 16.3 points a game (2nd in the NFL), its top running back Kenneth Walker is out, and Buffalo's last four games all went Under. Some books have 48; take the highest number you see. Playable to 47; skip at 46.5.",
+          "confidence": 3,
+          "event": "NBA Cup · Hawks @ Celtics",
+          "time": "5:00 PM PT",
+          "reasoning": "Dimers (54.2% to cover) and Covers both take Atlanta. The teams have nearly the same record (Hawks 11-6, Celtics 12-6), Atlanta has won four straight, and 9.5 points is a lot for that gap. Playable to +9; skip at +8.5.",
           "sources": [
-            {"title": "CBS Sports Chiefs-Bills", "url": "https://www.cbssports.com/betting/news/thanksgiving-day-nfl-2026-prediction-odds-time-bills-chiefs-picks/"},
-            {"title": "Fantasy Life Chiefs-Bills", "url": "https://www.fantasylife.com/articles/betting/chiefs-vs-bills-thanksgiving-matchup-picks-odds-predictions"}
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-27-2026-ac"},
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-27-2026"}
           ]
         },
         {
-          "pick": "Detroit Lions +1.5",
-          "market": "Spread",
-          "odds": -110,
+          "pick": "LA Clippers moneyline",
+          "market": "Moneyline",
+          "odds": -133,
           "units": 0.5,
-          "confidence": 2,
-          "event": "NFL · Bears @ Lions",
-          "time": "10:00 AM PT",
-          "reasoning": "Yahoo takes the Lions +1.5 and SportsBettingDime takes Detroit to win outright; VSiN takes the Bears. Detroit has won six straight, gets points at home, protects the ball (7 turnovers to Chicago's 19), and has a better red-zone rate. The defense has improved since Brian Branch returned. Some books have Lions +2.5, which is better. Playable to +1; skip at pick'em.",
+          "confidence": 3,
+          "event": "NBA Cup · Pelicans @ Clippers",
+          "time": "6:30 PM PT",
+          "reasoning": "Dimers' top NBA pick (63.8% to win, 6.7% edge), and Covers takes the Clippers -2.5. LA has lost six straight, but New Orleans has won only five games all season and is missing guards. Playable to -145 (about 59¢ on Kalshi).",
           "sources": [
-            {"title": "Yahoo Bears-Lions", "url": "https://sports.yahoo.com/betting/articles/bears-vs-lions-prediction-pick-112238128.html"},
-            {"title": "SportsBettingDime Bears-Lions", "url": "https://www.sportsbettingdime.com/news/nfl/bears-lions-predictions-best-bets-thanksgiving-nov-26/"}
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-27-2026-ac"},
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-27-2026"}
+          ]
+        },
+        {
+          "pick": "Portland Trail Blazers -9.5",
+          "market": "Spread",
+          "odds": -106,
+          "units": 0.5,
+          "confidence": 3,
+          "event": "NBA Cup · Warriors @ Trail Blazers",
+          "time": "7:00 PM PT (check your app)",
+          "reasoning": "BettingPros and Covers both take Portland. The 12-6 Blazers are top-7 on offense and defense, have recently beaten the 76ers and Spurs, and Golden State is badly short-handed without Curry. Playable to -10; skip at -10.5.",
+          "sources": [
+            {"title": "BettingPros NBA picks", "url": "https://www.bettingpros.com/articles/nba-picks-predictions-friday-11-27/"},
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-27-2026"}
           ]
         }
       ],
@@ -55,185 +68,281 @@
       "props": []
     },
     {
-      "id": "football",
-      "label": "Football",
-      "icon": "🏈",
-      "slate": "Thanksgiving tripleheader (PT): Bears @ Lions 10:00 AM (CBS), Eagles @ Cowboys 1:30 PM (FOX), Chiefs @ Bills 5:20 PM (NBC). Lines: Bears -1.5 to -2.5, total 55.5; Cowboys -8.5, total 47.5–48.5; Bills -2.5 to -3, total 45.5–48. Eagles-Cowboys is skipped because sources split on both the side and the total.",
+      "id": "basketball",
+      "label": "NBA",
+      "icon": "🏀",
+      "slate": "Full NBA Cup night. Sources split on Bucks-Pistons, Mavs-Suns, Nuggets-Jazz, Lakers-Spurs, and Grizzlies-Wolves, so those are skipped.",
       "straight": [
         {
-          "pick": "Detroit Lions +1.5",
+          "pick": "Atlanta Hawks +9.5",
           "market": "Spread",
-          "odds": -110,
+          "odds": -105,
           "units": 0.5,
-          "confidence": 2,
-          "event": "Bears @ Lions",
-          "time": "10:00 AM PT",
-          "reasoning": "Two of three sources like Detroit. Take +2.5 if you see it. Playable to +1.",
+          "confidence": 3,
+          "event": "Hawks @ Celtics",
+          "time": "5:00 PM PT",
+          "reasoning": "Dimers and Covers both take Atlanta. Playable to +9.",
           "sources": [
-            {"title": "Yahoo Bears-Lions", "url": "https://sports.yahoo.com/betting/articles/bears-vs-lions-prediction-pick-112238128.html"}
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-27-2026-ac"}
           ]
         },
         {
-          "pick": "Chiefs vs Bills UNDER 47.5",
-          "market": "Game total",
-          "odds": -110,
+          "pick": "LA Clippers moneyline",
+          "market": "Moneyline",
+          "odds": -133,
+          "units": 0.5,
+          "confidence": 3,
+          "event": "Pelicans @ Clippers",
+          "time": "6:30 PM PT",
+          "reasoning": "Dimers and Covers both pick the Clippers. Playable to -145.",
+          "sources": [
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-27-2026-ac"}
+          ]
+        },
+        {
+          "pick": "Portland Trail Blazers -9.5",
+          "market": "Spread",
+          "odds": -106,
+          "units": 0.5,
+          "confidence": 3,
+          "event": "Warriors @ Trail Blazers",
+          "time": "7:00 PM PT (check your app)",
+          "reasoning": "BettingPros and Covers both take Portland. Playable to -10.",
+          "sources": [
+            {"title": "BettingPros NBA picks", "url": "https://www.bettingpros.com/articles/nba-picks-predictions-friday-11-27/"}
+          ]
+        },
+        {
+          "pick": "Brooklyn Nets +7.5",
+          "market": "Spread",
+          "odds": 104,
           "units": 0.5,
           "confidence": 2,
-          "event": "Chiefs @ Bills",
-          "time": "5:20 PM PT",
-          "reasoning": "Two of three sources take the Under, and rain and wind are forecast. Playable to 47.",
+          "event": "Nets @ Raptors",
+          "time": "4:30 PM PT",
+          "reasoning": "Dimers and Covers take Brooklyn: Toronto is without Leonard and Barrett and has failed to cover eight straight. But BettingPros takes Toronto -9.5, so confidence stays at 2. Playable to +7.",
           "sources": [
-            {"title": "CBS Sports Chiefs-Bills", "url": "https://www.cbssports.com/betting/news/thanksgiving-day-nfl-2026-prediction-odds-time-bills-chiefs-picks/"}
+            {"title": "Dimers NBA best bets", "url": "https://www.dimers.com/nba/news/nba-best-bets-11-27-2026-ac"},
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-27-2026"}
+          ]
+        },
+        {
+          "pick": "New York Knicks -3.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Heat @ Knicks",
+          "time": "Check listing",
+          "reasoning": "Extra pick. Covers: the Knicks have won six straight and are 7-3 at home, and the Heat are 4-4 on the road. OG Anunoby may be out. Playable to -4.",
+          "sources": [
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-27-2026"}
+          ]
+        },
+        {
+          "pick": "Philadelphia 76ers -3.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 1,
+          "event": "76ers @ Pacers",
+          "time": "Check listing",
+          "reasoning": "Extra pick, low confidence. Covers: Philly is 7-1 on the road and beat Indiana by six this month, but Embiid is questionable and Jaylen Brown is out. Check Embiid's status first.",
+          "sources": [
+            {"title": "Covers NBA ATS picks", "url": "https://www.covers.com/nba/against-the-spread-predictions-picks-nov-27-2026"}
           ]
         }
       ],
       "parlay": [],
       "props": [
         {
-          "pick": "D'Andre Swift 14+ rushing attempts",
+          "pick": "Luka Dončić UNDER 34.5 points",
           "market": "Player prop",
-          "odds": 117,
+          "odds": -119,
           "units": 0.25,
           "confidence": 2,
-          "event": "Bears @ Lions",
-          "time": "10:00 AM PT",
-          "reasoning": "Extra pick. SportsBettingDime: backup Roschon Johnson didn't practice (ankle), and Swift has averaged 16.8 carries a game. Some books list this as over 13.5 attempts.",
+          "event": "Lakers @ Spurs",
+          "time": "6:30 PM PT",
+          "reasoning": "Extra pick. FTN: he's gone under this in three straight games as his shooting cools off, and the Spurs have the 3rd-best defense and allow the fewest free throws in the league. FTN shows a 7% edge.",
           "sources": [
-            {"title": "SportsBettingDime Bears-Lions", "url": "https://www.sportsbettingdime.com/news/nfl/bears-lions-predictions-best-bets-thanksgiving-nov-26/"}
+            {"title": "FTN NBA best bets", "url": "https://ftnfantasy.com/nba/best-bets-to-make-in-the-nba-today-nov-27-2026"}
           ]
         },
         {
-          "pick": "Jared Goff OVER 275.5 passing yards",
+          "pick": "Josh Hart UNDER 24.5 points + rebounds + assists",
           "market": "Player prop",
-          "odds": -115,
-          "units": 0.25,
-          "confidence": 1,
-          "event": "Bears @ Lions",
-          "time": "10:00 AM PT",
-          "reasoning": "Extra pick, low confidence. Covers projects 288 yards: Goff's passer rating indoors is 103 against 93 outdoors, and the Bears have given up more big plays lately. Price is an estimate.",
-          "sources": [
-            {"title": "Covers Bears-Lions", "url": "https://www.covers.com/nfl/bears-vs-lions-prediction-picks-best-bets-thanksgiving-nov-26-2026"}
-          ]
-        },
-        {
-          "pick": "Travis Kelce OVER 43.5 receiving yards",
-          "market": "Player prop",
-          "odds": -115,
+          "odds": -117,
           "units": 0.25,
           "confidence": 2,
-          "event": "Chiefs @ Bills",
-          "time": "5:20 PM PT",
-          "reasoning": "Extra pick. Covers: he's cleared 43.5 in 8 of 10 games, and wet, windy weather should mean more short passes to him. He also leads the Chiefs in target share. Price is an estimate; skip above 45.5.",
+          "event": "Heat @ Knicks",
+          "time": "Check listing",
+          "reasoning": "Extra pick. FTN: he stayed under this in 11 straight games before his last two, and the line is inflated because Anunoby is likely out. FTN projects 18.8.",
           "sources": [
-            {"title": "Covers Chiefs-Bills", "url": "https://www.covers.com/nfl/chiefs-vs-bills-prediction-picks-nov-26-2026"}
+            {"title": "FTN NBA best bets", "url": "https://ftnfantasy.com/nba/best-bets-to-make-in-the-nba-today-nov-27-2026"}
           ]
         }
       ]
     },
     {
-      "id": "basketball",
-      "label": "NBA",
-      "icon": "🏀",
-      "slate": "No NBA games on Thanksgiving. Back tomorrow (Black Friday).",
-      "straight": [],
+      "id": "football",
+      "label": "Football",
+      "icon": "🏈",
+      "slate": "Black Friday: Broncos @ Steelers, 12:00 PM PT on Prime Video. Broncos -3.5 to -4.5 (opened -1.5), total 36.5–37.5. Pittsburgh released Aaron Rodgers and Mason Rudolph starts. Wind and rain are possible.",
+      "straight": [
+        {
+          "pick": "Denver Broncos -3.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 1,
+          "event": "Broncos @ Steelers",
+          "time": "12:00 PM PT",
+          "reasoning": "Extra pick, split sources. VSiN, Sportsbook Review, and Covers take Denver (8-2, won six straight, 8-2 against the spread), but Yahoo and Goal take Pittsburgh at home. The line has jumped from -1.5, so take -3.5 or better; skip at -4.5.",
+          "sources": [
+            {"title": "VSiN Broncos-Steelers", "url": "https://vsin.com/nfl/broncos-vs-steelers-predictions-week-12-black-friday-odds-picks-and-player-props/"},
+            {"title": "SBR Broncos-Steelers", "url": "https://www.sportsbookreview.com/picks/nfl/broncos-vs-steelers-prediction-odds-picks-black-friday-2026/"},
+            {"title": "Yahoo Broncos-Steelers", "url": "https://sports.yahoo.com/betting/articles/broncos-vs-steelers-prediction-pick-120101199.html"}
+          ]
+        }
+      ],
       "parlay": [],
-      "props": []
+      "props": [
+        {
+          "pick": "Pat Freiermuth OVER 19.5 receiving yards",
+          "market": "Player prop",
+          "odds": -115,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Broncos @ Steelers",
+          "time": "12:00 PM PT",
+          "reasoning": "Extra pick. VSiN: backup quarterbacks lean on tight ends, and its projection has Freiermuth at 28 yards. Goal also expects Rudolph to throw short. Skip above 22.5.",
+          "sources": [
+            {"title": "VSiN Broncos-Steelers", "url": "https://vsin.com/nfl/broncos-vs-steelers-predictions-week-12-black-friday-odds-picks-and-player-props/"}
+          ]
+        },
+        {
+          "pick": "Jaylen Warren OVER 15.5 receiving yards",
+          "market": "Player prop",
+          "odds": -120,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "Broncos @ Steelers",
+          "time": "12:00 PM PT",
+          "reasoning": "Extra pick. Goal: Rudolph should rely on checkdowns, and Denver allows the most receiving yards to running backs in the league (49.4 a game). Skip above 17.5.",
+          "sources": [
+            {"title": "Goal Broncos-Steelers", "url": "https://www.goal.com/en-us/betting/tips/broncos-vs-steelers-predictions-picks-odds-nfl-week-12-black-friday-11-27/A%3Ablt44b70b3c03e4715e"}
+          ]
+        }
+      ]
     },
     {
       "id": "cbb",
       "label": "College Hoops",
       "icon": "🎓",
-      "slate": "Thanksgiving tournaments: Tennessee vs Iowa State, St. John's vs Louisville, Gonzaga vs Baylor (late). Every pick today comes from one source, so they're all extra picks at a quarter unit. Times are PT.",
+      "slate": "College basketball all day. Sources split on the biggest games (Texas-Saint Mary's, Kansas-Villanova, West Virginia-UNC), so every college pick today is an extra pick at a quarter unit. Times are PT; some tip times weren't listed.",
       "straight": [
         {
-          "pick": "Texas -8.5",
+          "pick": "Georgetown +7.5",
           "market": "Spread",
-          "odds": -110,
+          "odds": -102,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Georgetown vs Texas",
+          "event": "NCAAB · Georgetown @ UCLA",
           "time": "11:30 AM PT",
-          "reasoning": "Extra pick. Dimers' model gives Texas a 57% chance to cover (4.7% edge). Playable to -9.",
+          "reasoning": "Extra pick. FanDuel Research: UCLA is laying a lot of points, and Georgetown can slow the pace and hold the ball to keep it close. Georgetown lost to Texas by only 9 yesterday. Playable to +7.",
           "sources": [
-            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-26-2026-ac"}
+            {"title": "FanDuel Research CBB picks", "url": "https://www.fanduel.com/research/10-best-college-basketball-bets-today-for-friday-november-27-with-odds-spreads-and-ml-s"}
           ]
         },
         {
-          "pick": "Tennessee vs Iowa State UNDER 139.5",
+          "pick": "Baylor vs TCU UNDER 149.5",
           "market": "Game total",
           "odds": -110,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Tennessee vs Iowa State",
-          "time": "Check listing",
-          "reasoning": "Extra pick. RotoWire: both teams are top-five in adjusted defense, Iowa State shoots poorly from three, and Tennessee holds opponents under 33% on twos. Dimers' headline college game today is this one too. Price is an estimate; playable to 138.5.",
+          "event": "NCAAB · Baylor @ TCU",
+          "time": "12:00 PM PT",
+          "reasoning": "Extra pick. FanDuel Research: both teams play physical half-court defense. Baylor's game with Gonzaga last night finished at only 136. Playable to 148.5.",
           "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-thursday-november-26-148278"}
+            {"title": "FanDuel Research CBB picks", "url": "https://www.fanduel.com/research/10-best-college-basketball-bets-today-for-friday-november-27-with-odds-spreads-and-ml-s"}
           ]
         },
         {
-          "pick": "St. John's -2",
+          "pick": "Niagara +4.5",
           "market": "Spread",
-          "odds": -110,
+          "odds": -102,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · St. John's vs Louisville",
-          "time": "Check listing",
-          "reasoning": "Extra pick. RotoWire: St. John's has covered five straight and has one of the best defenses in the country. Louisville rarely forces turnovers and makes only 66% of its free throws. Price is an estimate; playable to -2.5.",
+          "event": "NCAAB · Niagara vs Lafayette",
+          "time": "1:30 PM PT",
+          "reasoning": "Extra pick. Dimers' model gives Niagara a 55.5% chance to cover (5% edge). Playable to +4.",
           "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-thursday-november-26-148278"}
+            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-27-2026-ac"}
           ]
         },
         {
-          "pick": "TCU +1.5",
-          "market": "Spread",
-          "odds": -110,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NCAAB · TCU vs Creighton",
-          "time": "Check listing",
-          "reasoning": "Extra pick. RotoWire: about 42% of Creighton's points come from threes, and TCU limits three-point attempts, takes care of the ball, and gets to the line. Price is an estimate.",
-          "sources": [
-            {"title": "RotoWire CBB best bets", "url": "https://www.rotowire.com/cbasketball/article/best-college-basketball-bets-today-picks-odds-predictions-for-thursday-november-26-148278"}
-          ]
-        },
-        {
-          "pick": "SMU +5.5",
-          "market": "Spread",
-          "odds": -104,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NCAAB · SMU vs LSU",
-          "time": "4:00 PM PT",
-          "reasoning": "Extra pick. Dimers' model gives SMU a 55.2% chance to cover (4.2% edge). SMU lost badly to Utah State yesterday, and LSU went to double overtime against Arizona State. Playable to +5.",
-          "sources": [
-            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-26-2026-ac"}
-          ]
-        },
-        {
-          "pick": "Oregon +9.5",
-          "market": "Spread",
-          "odds": 102,
-          "units": 0.25,
-          "confidence": 2,
-          "event": "NCAAB · Oregon vs Texas Tech",
-          "time": "8:30 PM PT",
-          "reasoning": "Extra pick. Dimers' model gives Oregon a 54.7% chance to cover (5.2% edge). Late tip. Playable to +9.",
-          "sources": [
-            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-26-2026-ac"}
-          ]
-        },
-        {
-          "pick": "Gonzaga vs Baylor OVER 160.5",
+          "pick": "Western Kentucky vs Illinois UNDER 175.5",
           "market": "Game total",
-          "odds": 114,
+          "odds": -105,
           "units": 0.25,
           "confidence": 2,
-          "event": "NCAAB · Gonzaga vs Baylor",
-          "time": "8:30 PM PT",
-          "reasoning": "Extra pick. Dimers' biggest edge of the day: 54.5% at a plus price (7.7% edge). Late tip. Playable to 161.5.",
+          "event": "NCAAB · Western Kentucky @ Illinois",
+          "time": "3:00 PM PT",
+          "reasoning": "Extra pick. Dimers' model gives the Under a 56.5% chance (5.2% edge). Playable to 174.",
           "sources": [
-            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-26-2026-ac"}
+            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-27-2026-ac"}
+          ]
+        },
+        {
+          "pick": "North Dakota State +5.5",
+          "market": "Spread",
+          "odds": -102,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NCAAB · North Dakota State @ North Texas",
+          "time": "5:00 PM PT",
+          "reasoning": "Extra pick. Dimers' model gives NDSU a 55.2% chance to cover (4.7% edge). Playable to +5.",
+          "sources": [
+            {"title": "Dimers CBB best bets", "url": "https://www.dimers.com/cbb/news/mens-college-basketball-best-bets-11-27-2026-ac"}
+          ]
+        },
+        {
+          "pick": "Virginia -8.5",
+          "market": "Spread",
+          "odds": -105,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NCAAB · Virginia vs Xavier",
+          "time": "Check listing",
+          "reasoning": "Extra pick. TheLines: Virginia is top-15 in offense and defense, and Xavier shoots 31.6% from three and 63.6% from the line. Playable to -9.",
+          "sources": [
+            {"title": "TheLines CBB picks", "url": "https://www.thelines.com/college-basketball/picks/college-basketball-picks-for-nov-27-top-bets-for-friday/"}
+          ]
+        },
+        {
+          "pick": "Louisville -2.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NCAAB · Louisville vs Tennessee",
+          "time": "Check listing",
+          "reasoning": "Extra pick. Covers: Louisville has more size and talent, Tennessee takes a lot of long two-pointers and is 276th in defensive rebounding. Louisville just beat St. John's. Playable to -3.",
+          "sources": [
+            {"title": "Covers CBB ATS picks", "url": "https://www.covers.com/ncaab/against-the-spread-predictions-picks-nov-27-2026"}
+          ]
+        },
+        {
+          "pick": "Miami -2.5",
+          "market": "Spread",
+          "odds": -110,
+          "units": 0.25,
+          "confidence": 2,
+          "event": "NCAAB · Miami vs Alabama",
+          "time": "Check listing",
+          "reasoning": "Extra pick. Covers: Miami is 5-3 against the spread and Alabama 1-6, and Miami has the edge in turnovers and rebounding. Playable to -3.",
+          "sources": [
+            {"title": "Covers CBB ATS picks", "url": "https://www.covers.com/ncaab/against-the-spread-predictions-picks-nov-27-2026"}
           ]
         }
       ],
